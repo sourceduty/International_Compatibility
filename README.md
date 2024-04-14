@@ -3,6 +3,19 @@
 Measuring all 195 countries on Earth for direct relationships, similarities and divides.
 
 ***
+
+| Section                           | Link                                                                                              |
+|-----------------------------------|---------------------------------------------------------------------------------------------------|
+| Directly Related Countries       | [1](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#1-directly-related-countries)         |
+| Country Groups                   | [2](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#2-country-groups)                     |
+| Similar Countries                | [3](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#3-similar-countries)                  |
+| International Similarities      | [4](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#4-international-similarities)        |
+| Dissimilar Countries             | [5](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#5-dissimilar-countries)             |
+| International Dissimilarities   | [6](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#6-international-dissimilarities)      |
+| Common Similarities              | [7](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#7-common-similarities)               |
+| Most and Least Compatible Countries | [8](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#8-most-and-least-compatible-countries) |
+
+***
   
 ### 1. Directly Related Countries
 
