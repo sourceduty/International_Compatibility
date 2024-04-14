@@ -1,5 +1,3 @@
-### International Compatibility
-
 ![Compatible](https://github.com/sourceduty/International_Compatibility/assets/123030236/f7b19bd8-9283-4dd8-98c8-31f93589efd9)
 
 Measuring all 195 countries on Earth for direct relationships, similarities and divides.
