@@ -15,6 +15,7 @@ Measuring all 195 countries on Earth for direct relationships, similarities and 
 | International Dissimilarities   | [7](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#7-international-dissimilarities)      |
 | Common Similarities              | [8](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#8-common-similarities)               |
 | Most and Least Compatible Countries | [9](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#9-most-and-least-compatible-countries) |
+| Rivalries                        | [10](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#10-rivalries)                     |
 
 ***
   
@@ -248,6 +249,40 @@ Least Compatible Countries
 - Norway and Yemen: Vast differences in wealth, stability, and quality of life due to contrasting governance and social policies.
 
 - United States and North Korea: Fundamental differences in political systems (democratic vs. totalitarian) and economic models (diverse economy vs. centrally planned).
+
+### 10. Rivalries
+
+1. India vs. Pakistan:
+
+This rivalry is primarily rooted in historical, religious, and political tensions, stemming from the partition of British India in 1947. The conflict over the Kashmir region has led to multiple wars and ongoing military skirmishes, making it one of the most enduring rivalries in modern history.
+
+2. USA vs. Russia:
+
+The rivalry between the United States and Russia, which began during the Cold War era, continues to influence global politics. It is characterized by ideological differences, military competition, and conflicts over influence in regions like Eastern Europe, the Middle East, and more recently, cyberspace.
+
+3. China vs. Japan:
+
+Historical animosities, regional competition, and territorial disputes, particularly over the Senkaku/Diaoyu Islands, define the rivalry between China and Japan. Their complex relationship is also shaped by economic interdependence and mutual suspicions of strategic intentions.
+
+4. Greece vs. Turkey:
+
+Greece and Turkey share a rivalry that is influenced by a series of historical conflicts, including wars over territory. Issues such as the division of Cyprus, territorial rights in the Aegean Sea, and differing cultural and national identities continue to fuel tensions.
+
+5. Saudi Arabia vs. Iran:
+
+This rivalry is predominantly sectarian with Sunni-majority Saudi Arabia and Shia-majority Iran competing for influence in the Middle East. It is marked by proxy wars in countries like Syria and Yemen, and differing positions on regional issues such as oil politics and relations with major powers.
+
+6. North Korea vs. South Korea:
+
+Stemming from the division of Korea after World War II, this rivalry includes ideological differences between North Korea's communism and South Korea's democratic system. Despite sporadic talks and agreements, the Korean Peninsula remains one of the most militarized regions in the world.
+
+7. Brazil vs. Argentina:
+
+Mainly known for its manifestation in sports, especially football, the rivalry between Brazil and Argentina also extends into cultural and economic dimensions. Both countries compete for regional leadership and influence in South America.
+
+8. France vs. Germany:
+   
+Historically, France and Germany have been rivals, particularly in the context of European wars and territorial disputes. However, since World War II, they have transformed their relationship into a partnership that stands at the core of the European Union, showing how rivals can evolve into collaborators.
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
