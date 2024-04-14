@@ -284,5 +284,10 @@ Mainly known for its manifestation in sports, especially football, the rivalry b
    
 Historically, France and Germany have been rivals, particularly in the context of European wars and territorial disputes. However, since World War II, they have transformed their relationship into a partnership that stands at the core of the European Union, showing how rivals can evolve into collaborators.
 
+#
+### Related Links
+
+[Space Agencies](https://github.com/sourceduty/Space_Agencies)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
