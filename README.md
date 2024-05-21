@@ -13,21 +13,16 @@ A mathematical model for calculating "International Compatibility" was developed
 #
 ### Development Progress
 
+```
 ~~1. Introduction~~
-
 ~~2. Literature Review~~
-
 ~~3. Methodology~~
-
 ~~4. Data Sources~~
-
 ~~5. Data Sorting~~
-
 ~~6. Mathematical Model~~
-
 7. Data Analysis
-
 9. Conclusion
+```
 
 Notes:
 
