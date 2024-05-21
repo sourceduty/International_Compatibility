@@ -288,6 +288,8 @@ Historically, France and Germany have been rivals, particularly in the context o
 ### Related Links
 
 [Space Agencies](https://github.com/sourceduty/Space_Agencies)
+<br>
+[Language Barriers](https://github.com/sourceduty/Language_Barriers)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
