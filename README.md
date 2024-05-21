@@ -329,7 +329,7 @@ Planning the "International_Compatibility" project requires a comprehensive and 
 #
 ### Research Expansion Plan
 
-##### Data Analysis
+#### Data Analysis
 
 Sentiment Analysis:
 
@@ -345,7 +345,7 @@ Network Analysis:
 - Identify key players, influential countries, and clusters within the global network.
 - Analyze how events such as diplomatic meetings, trade agreements, or conflicts impact the network structure.
 
-##### Historical Context
+#### Historical Context
 
 Timeline Analysis:
 
@@ -361,7 +361,7 @@ Case Studies:
 - Include qualitative and quantitative data to provide a well-rounded understanding of the dynamics between these countries.
 - Highlight key events, turning points, and current status of the relationships.
 
-##### Methodological Improvements
+#### Methodological Improvements
 
 Data Sources:
 
@@ -377,7 +377,7 @@ Real-Time Data:
 - Use APIs to automatically collect and update data on international events, public opinion, and media coverage.
 - Develop dashboards to monitor and visualize real-time data trends and insights.
 
-##### Analytical Techniques
+#### Analytical Techniques
 
 Machine Learning:
 
@@ -391,7 +391,7 @@ Geospatial Analysis:
 - Create maps to visualize data such as trade routes, migration patterns, and geopolitical hotspots.
 - Analyze the spatial distribution of international relationships and how geography affects diplomatic and economic interactions.
 
-##### Documentation and Presentation
+#### Documentation and Presentation
 
 Enhanced Visualization:
 
@@ -421,7 +421,7 @@ Executive Summaries:
 - Highlight key findings, insights, and recommendations in a clear and accessible format.
 - Use bullet points, infographics, and key statistics to convey the main points effectively.
 
-##### Public Engagement
+#### Public Engagement
 
 Social Media Outreach:
 
