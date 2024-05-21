@@ -459,6 +459,10 @@ Publications:
 [Space Agencies](https://github.com/sourceduty/Space_Agencies)
 <br>
 [Language Barriers](https://github.com/sourceduty/Language_Barriers)
+<br>
+[Related Information](https://chatgpt.com/g/g-GBDORF9nD-related-information)
+<br>
+[Research Helper](https://chatgpt.com/g/g-4S9pOnFTb-research-helper)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
