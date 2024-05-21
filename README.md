@@ -31,7 +31,7 @@ A mathematical model for calculating "International Compatibility" was developed
 
 Notes:
 
-- Collect the 975 scores for each of the 195 countries across the five dimensions (Political, Economic, Social, Cultural, Environmental).
+- Collect the 975 scores for the 195 countries across the five dimensions (Political, Economic, Social, Cultural, Environmental).
 - Calculate the International Compatibility Score (ICS) for all 195 countries.
 
 #
