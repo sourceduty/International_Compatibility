@@ -55,6 +55,10 @@ Environmental Factors (Env)
 - Renewable energy usage percentage
 
 #
+
+[Barbados Indicators Example.txt](https://github.com/sourceduty/International_Compatibility/files/15389800/Barbados.Indicators.Example.txt)
+
+#
 ### Development Progress
 
 ~~1. Introduction~~
