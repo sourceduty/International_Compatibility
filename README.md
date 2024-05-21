@@ -329,12 +329,12 @@ Planning the "International_Compatibility" project requires a comprehensive and 
 #
 ### Research Expansion Plan
 
-Data Analysis:
+Data Analysis
 
 - Sentiment Analysis: Apply sentiment analysis on international news articles to gauge the public opinion and media sentiment towards different countries.
 - Network Analysis: Use network graphs to visualize and analyze the relationships and interactions between countries.
 
-Historical Context:
+Historical Context
 
 - Timeline Analysis: Create a timeline of significant historical events that have shaped international relations and compatibility.
 - Case Studies: Include detailed case studies of specific country pairs with complex relationships (e.g., USA-China, India-Pakistan).
