@@ -22,6 +22,39 @@ Simplifying the formula, we can express the ICS as follows:
 P, E, S, C, Env are the composite scores for political, economic, social, cultural, and environmental dimensions respectively, and w_p, w_e, w_s, w_c, w_env are the weights assigned to these dimensions. For example, if we assume equal weights for simplicity and hypothetical standardized scores for a country, the ICS can be calculated by averaging the scores across all dimensions, providing a single metric that encapsulates a country's overall international compatibility.
 
 #
+### Country Indicator Dimensions
+
+Political Factors (P)
+
+- International agreements participation
+- Political stability index
+- Corruption perception index
+
+Economic Factors (E)
+
+- GDP per capita
+- Trade openness index
+- Foreign direct investment (FDI) inflows
+
+Social Factors (S)
+
+- Education index
+- Healthcare quality index
+- Human development index (HDI)
+
+Cultural Factors (C)
+
+- Cultural proximity index (e.g., Hofstede's cultural dimensions)
+- Language similarity index
+- Cross-cultural communication adaptability
+
+Environmental Factors (Env)
+
+- Environmental performance index
+- Carbon footprint per capita
+- Renewable energy usage percentage
+
+#
 ### Development Progress
 
 ~~1. Introduction~~
