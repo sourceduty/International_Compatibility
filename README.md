@@ -450,6 +450,10 @@ Publications:
 </details>
 
 #
+
+> Alex: *"This is a unique research project that I might complete using ChatGPT. It's very extensive international research."*
+
+#
 ### Related Links
 
 [Space Agencies](https://github.com/sourceduty/Space_Agencies)
