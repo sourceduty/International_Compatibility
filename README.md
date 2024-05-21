@@ -319,7 +319,7 @@ Historically, France and Germany have been rivals, particularly in the context o
 </details>
 
 #
-### Notes
+### Project Planning
 
 <details><summary>Research Project Plan</summary>
 <br>
