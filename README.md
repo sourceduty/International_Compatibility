@@ -3,10 +3,8 @@
 Measuring all 195 countries on Earth for direct relationships, similarities and divides.
 
 ***
-  
-#### 1. Directly Related Countries
 
-<details><summary>expand</summary>
+<details><summary>Directly Related Countries</summary>
 <br>
 
 Afghanistan, Pakistan - These neighboring countries share deep historical, cultural, and ethnic ties, further complicated by geopolitical strategies and conflicts.
@@ -32,10 +30,7 @@ United Kingdom, Ireland - Linked historically and culturally through centuries o
 <br>
 </details>
 
-#
-#### 2. Historically Related Countries
-
-<details><summary>expand</summary>
+<details><summary>Historically Related Countries</summary>
 <br>
 
 Canada, United Kingdom - Canada was once a part of the British Empire and shares a monarch with the UK.
@@ -67,10 +62,7 @@ Balkan countries (e.g., Serbia, Croatia, Bosnia and Herzegovina) - Their histori
 <br>
 </details>
 
-#
-#### 3. Country Groups
-
-<details><summary>expand</summary>
+<details><summary>Country Groups</summary>
 <br>
 
 North America
@@ -114,10 +106,7 @@ Oceania
 <br>
 </details>
 
-#
-#### 4. Similar Countries
-
-<details><summary>expand</summary>
+<details><summary>Similar Countries</summary>
 <br>
 
 - Australia and New Zealand
@@ -163,10 +152,7 @@ Similarities: Both are major financial hubs in Asia, have similar colonial histo
 <br>
 </details>
 
-#
-#### 5. International Similarities
-
-<details><summary>expand</summary>
+<details><summary>International Similarities</summary>
 <br>
 
 Similarities among various global regions include shared colonial histories, similar legal and political systems, and strong cultural ties, such as language and sports. Many regions exhibit common historical and cultural heritages, with closely related languages and social democratic governance structures. Economic similarities are prevalent, with regions displaying parallel economic systems, heavy reliance on technology and innovation, and roles as major financial hubs. Dietary habits and cultural traditions, like music and festivals, also show significant overlaps. Furthermore, linguistic ties and economic integration through regional unions are common, with several areas governed by similar legal frameworks based on religious or traditional laws. These elements highlight the profound connections that transcend individual countries and illustrate regional cohesiveness.
@@ -174,10 +160,7 @@ Similarities among various global regions include shared colonial histories, sim
 <br>
 </details>
 
-#
-#### 6. Dissimular Countries
-
-<details><summary>expand</summary>
+<details><summary>Dissimular Countries</summary>
 <br>
 
 - Saudi Arabia and Sweden
@@ -222,10 +205,7 @@ Differences: Germany is a major industrial power with a robust economy and stron
 <br>
 </details>
 
-#
-#### 7. International Dissimilarities
-
-<details><summary>expand</summary>
+<details><summary>International Dissimilarities</summary>
 <br>
 
 Dissimilarities among various global regions can be observed in multiple dimensions, including cultural practices, governance structures, economic development levels, and social policies. Significant contrasts exist between nations with conservative religious cultures and those with liberal social structures. Some countries are governed by authoritarian regimes, whereas others operate under democratic norms. Economic disparities are also pronounced, with some nations boasting advanced, high-tech industries and others relying heavily on agriculture or facing economic instability. Differences in societal organization range from highly centralized, planned economies to free-market systems that prioritize trade and innovation. Additionally, geographic factors contribute to dissimilarities, with some countries being island nations focused on maritime economies, while others are landlocked and depend on terrestrial resources. The extent of infrastructure development varies widely, from highly developed and stable nations to those grappling with humanitarian crises and ongoing conflicts. These distinctions underscore the vast range of human experiences and governance models present across the globe.
@@ -233,10 +213,7 @@ Dissimilarities among various global regions can be observed in multiple dimensi
 <br>
 </details>
 
-#
-#### 8. Common Similarities
-
-<details><summary>expand</summary>
+<details><summary>Common Similarities</summary>
 <br>
 
 1. Economic Systems: Many countries have adopted similar economic models, such as market-based economies which encourage trade and innovation.
@@ -256,10 +233,7 @@ Countries around the world exhibit a number of commonalities that transcend geog
 <br>
 </details>
 
-#
-#### 9. Most and Least Compatible Countries
-
-<details><summary>expand</summary>
+<details><summary>Most and Least Compatible Countries</summary>
 <br>
 
 Most Compatible Countries
@@ -289,10 +263,7 @@ Least Compatible Countries
 <br>
 </details>
 
-#
-#### 10. Rivalries
-
-<details><summary>expand</summary>
+<details><summary>Rivalries</summary>
 <br>
 
 1. India vs. Pakistan:
