@@ -19,6 +19,7 @@ Technological tools will play a vital role in managing these challenges. Data an
 By addressing these aspects comprehensively, the project aims to provide valuable insights into the complex web of relationships, similarities, and divides that shape our world today, ultimately contributing to more informed and effective global policies and fostering greater understanding among nations.
 
 #
+### Notes
 
 <details><summary>Directly Related Countries</summary>
 <br>
