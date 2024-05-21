@@ -3,23 +3,8 @@
 Measuring all 195 countries on Earth for direct relationships, similarities and divides.
 
 ***
-
-| Section                           | Link                                                                                              |
-|-----------------------------------|---------------------------------------------------------------------------------------------------|
-| Directly Related Countries       | [1](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#1-directly-related-countries)         |
-| Historically Related Countries   | [2](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#2-historically-related-countries)     |
-| Country Groups                   | [3](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#3-country-groups)                     |
-| Similar Countries                | [4](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#4-similar-countries)                  |
-| International Similarities      | [5](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#5-international-similarities)        |
-| Dissimilar Countries             | [6](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#6-dissimilar-countries)             |
-| International Dissimilarities   | [7](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#7-international-dissimilarities)      |
-| Common Similarities              | [8](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#8-common-similarities)               |
-| Most and Least Compatible Countries | [9](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#9-most-and-least-compatible-countries) |
-| Rivalries                        | [10](https://github.com/sourceduty/International_Compatibility/tree/main?tab=readme-ov-file#10-rivalries)                     |
-
-***
   
-##### 1. Directly Related Countries
+#### 1. Directly Related Countries
 
 <details><summary>expand</summary>
 <br>
@@ -48,7 +33,7 @@ United Kingdom, Ireland - Linked historically and culturally through centuries o
 </details>
 
 #
-##### 2. Historically Related Countries
+#### 2. Historically Related Countries
 
 <details><summary>expand</summary>
 <br>
@@ -83,7 +68,7 @@ Balkan countries (e.g., Serbia, Croatia, Bosnia and Herzegovina) - Their histori
 </details>
 
 #
-##### 3. Country Groups
+#### 3. Country Groups
 
 <details><summary>expand</summary>
 <br>
@@ -130,7 +115,7 @@ Oceania
 </details>
 
 #
-##### 4. Similar Countries
+#### 4. Similar Countries
 
 <details><summary>expand</summary>
 <br>
@@ -179,7 +164,7 @@ Similarities: Both are major financial hubs in Asia, have similar colonial histo
 </details>
 
 #
-##### 5. International Similarities
+#### 5. International Similarities
 
 <details><summary>expand</summary>
 <br>
@@ -190,7 +175,7 @@ Similarities among various global regions include shared colonial histories, sim
 </details>
 
 #
-##### 6. Dissimular Countries
+#### 6. Dissimular Countries
 
 <details><summary>expand</summary>
 <br>
@@ -238,7 +223,7 @@ Differences: Germany is a major industrial power with a robust economy and stron
 </details>
 
 #
-##### 7. International Dissimilarities
+#### 7. International Dissimilarities
 
 <details><summary>expand</summary>
 <br>
@@ -249,7 +234,7 @@ Dissimilarities among various global regions can be observed in multiple dimensi
 </details>
 
 #
-##### 8. Common Similarities
+#### 8. Common Similarities
 
 <details><summary>expand</summary>
 <br>
@@ -272,7 +257,7 @@ Countries around the world exhibit a number of commonalities that transcend geog
 </details>
 
 #
-##### 9. Most and Least Compatible Countries
+#### 9. Most and Least Compatible Countries
 
 <details><summary>expand</summary>
 <br>
@@ -305,7 +290,7 @@ Least Compatible Countries
 </details>
 
 #
-##### 10. Rivalries
+#### 10. Rivalries
 
 <details><summary>expand</summary>
 <br>
