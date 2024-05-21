@@ -11,6 +11,17 @@ The International Compatibility Project is designed to analyze and understand th
 A mathematical model for calculating "International Compatibility" was developed by integrating quantitative data analysis and qualitative assessments across multiple dimensions: political, economic, social, cultural, and environmental factors. The International Compatibility Score (ICS) is a composite measure designed to evaluate the extent to which a country is compatible with other nations in terms of political, economic, social, cultural, and environmental dimensions. The score provides a quantitative assessment that helps to identify similarities and divides among countries, thereby facilitating better understanding and cooperation on the global stage.
 
 #
+### Literature Review
+
+Identification of Gaps in Current Research
+
+Despite extensive research in international relations, several gaps remain. There is limited integration of multidimensional data sources such as economic indicators, social media sentiment, and historical events. Many studies focus on static analysis rather than dynamic changes over time. Additionally, there is a lack of predictive models that forecast future trends in international relations based on historical data and current indicators. Few studies utilize geospatial analysis to visualize and understand the geographic distribution of international relations. Furthermore, there is limited research combining methodologies from different disciplines such as political science, sociology, economics, and data science.
+
+Theoretical Framework and Key Concepts
+
+To guide the analysis, we will adopt a theoretical framework that includes several key concepts. International Compatibility refers to the degree to which countries can coexist and cooperate based on cultural, economic, political, and social factors. Network Theory is used to understand international relations through the lens of network theory, where countries are nodes and their relationships are edges. Sentiment Analysis involves analyzing public opinion and sentiment towards different countries using natural language processing techniques. Historical Analysis incorporates historical context to understand the evolution of international relations. Geospatial Analysis employs geospatial techniques to visualize the spatial distribution and patterns of international relationships.
+
+#
 ### International Compatibility Score (ICS) Simplified
 
 The mathematical model for calculating International Compatibility Score (ICS) integrates various factors across political, economic, social, cultural, and environmental dimensions. Each dimension is represented by specific indicators, which are standardized to a common scale (0 to 100). These standardized indicators are then aggregated using weighted averages to compute composite scores for each dimension. The final ICS is calculated by combining these composite scores, weighted according to their relative importance, to provide an overall measure of a country's compatibility with others. This comprehensive approach ensures that multiple aspects of a country's profile are considered, facilitating a nuanced assessment of its potential for international cooperation.
