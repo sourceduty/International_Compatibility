@@ -21,6 +21,9 @@ Measuring all 195 countries on Earth for direct relationships, similarities and 
   
 ### 1. Directly Related Countries
 
+<details><summary>expand</summary>
+<br>
+
 Afghanistan, Pakistan - These neighboring countries share deep historical, cultural, and ethnic ties, further complicated by geopolitical strategies and conflicts.
 
 Australia, New Zealand - Often referred to as "ANZAC" countries, they share close cultural, economic, and military ties, rooted in their colonial history under British rule.
@@ -41,8 +44,14 @@ Russia, Ukraine - Their relationship is historically intertwined with cultural, 
 
 United Kingdom, Ireland - Linked historically and culturally through centuries of interaction, their relationship is complex, shaped by colonial history and modern economic ties.
 
+<br>
+</details>
+
 #
 ### 2. Historically Related Countries
+
+<details><summary>expand</summary>
+<br>
 
 Canada, United Kingdom - Canada was once a part of the British Empire and shares a monarch with the UK.
 
@@ -70,8 +79,14 @@ Scandinavian countries (Sweden, Norway, Denmark) - These countries share Viking 
 
 Balkan countries (e.g., Serbia, Croatia, Bosnia and Herzegovina) - Their histories are intertwined through various periods, including the Ottoman Empire and the Yugoslav state.
 
+<br>
+</details>
+
 #
 ### 3. Country Groups
+
+<details><summary>expand</summary>
+<br>
 
 North America
 
@@ -111,8 +126,14 @@ Oceania
 
 - Australia and Pacific Islands (Fiji, Papua New Guinea, Solomon Islands, etc.) - Australia has significant economic and aid relationships with many of the Pacific Islands, impacting development and regional security.
 
+<br>
+</details>
+
 #
 ### 4. Similar Countries
+
+<details><summary>expand</summary>
+<br>
 
 - Australia and New Zealand
 
@@ -154,13 +175,25 @@ Similarities: Share the German language, similar cultural traditions such as mus
 
 Similarities: Both are major financial hubs in Asia, have similar colonial histories under British rule, high population densities, and similar economic policies focused on trade and finance.
 
+<br>
+</details>
+
 #
 ### 5. International Similarities
 
+<details><summary>expand</summary>
+<br>
+
 Similarities among various global regions include shared colonial histories, similar legal and political systems, and strong cultural ties, such as language and sports. Many regions exhibit common historical and cultural heritages, with closely related languages and social democratic governance structures. Economic similarities are prevalent, with regions displaying parallel economic systems, heavy reliance on technology and innovation, and roles as major financial hubs. Dietary habits and cultural traditions, like music and festivals, also show significant overlaps. Furthermore, linguistic ties and economic integration through regional unions are common, with several areas governed by similar legal frameworks based on religious or traditional laws. These elements highlight the profound connections that transcend individual countries and illustrate regional cohesiveness.
+
+<br>
+</details>
 
 #
 ### 6. Dissimular Countries
+
+<details><summary>expand</summary>
+<br>
 
 - Saudi Arabia and Sweden
 
@@ -201,13 +234,25 @@ Differences: Finland is known for its high levels of education and technological
   
 Differences: Germany is a major industrial power with a robust economy and strong political institutions, while Haiti faces significant challenges with political instability and is one of the poorest countries in the Western Hemisphere.
 
+<br>
+</details>
+
 #
 ### 7. International Dissimilarities
 
+<details><summary>expand</summary>
+<br>
+
 Dissimilarities among various global regions can be observed in multiple dimensions, including cultural practices, governance structures, economic development levels, and social policies. Significant contrasts exist between nations with conservative religious cultures and those with liberal social structures. Some countries are governed by authoritarian regimes, whereas others operate under democratic norms. Economic disparities are also pronounced, with some nations boasting advanced, high-tech industries and others relying heavily on agriculture or facing economic instability. Differences in societal organization range from highly centralized, planned economies to free-market systems that prioritize trade and innovation. Additionally, geographic factors contribute to dissimilarities, with some countries being island nations focused on maritime economies, while others are landlocked and depend on terrestrial resources. The extent of infrastructure development varies widely, from highly developed and stable nations to those grappling with humanitarian crises and ongoing conflicts. These distinctions underscore the vast range of human experiences and governance models present across the globe.
+
+<br>
+</details>
 
 #
 ### 8. Common Similarities
+
+<details><summary>expand</summary>
+<br>
 
 1. Economic Systems: Many countries have adopted similar economic models, such as market-based economies which encourage trade and innovation.
 
@@ -223,8 +268,14 @@ Dissimilarities among various global regions can be observed in multiple dimensi
 
 Countries around the world exhibit a number of commonalities that transcend geographical boundaries. Many have embraced market-based economic systems, fostering environments that promote trade and innovation, and facilitating global economic integration. Political structures, particularly democratic forms of governance, provide a shared framework that influences policy and legislative development. Cultural influences, often rooted in colonial histories, manifest in similarities in language, legal systems, and societal norms, especially among nations previously colonized by European powers. Furthermore, a focus on enhancing social welfare systems, including public healthcare and education, is prevalent in many developed countries, reflecting a collective commitment to improving citizen welfare. Technological advancements also see widespread adoption, driven by increased global connectivity and the need for modern infrastructure. Lastly, with rising awareness of environmental issues, many countries are adopting similar approaches to environmental regulation and sustainability, emphasizing the global consensus on the importance of combating climate change. These similarities illustrate how historical, economic, and social factors contribute to shared global narratives and challenges.
 
+<br>
+</details>
+
 #
 ### 9. Most and Least Compatible Countries
+
+<details><summary>expand</summary>
+<br>
 
 Most Compatible Countries
 
@@ -250,7 +301,13 @@ Least Compatible Countries
 
 - United States and North Korea: Fundamental differences in political systems (democratic vs. totalitarian) and economic models (diverse economy vs. centrally planned).
 
+<br>
+</details>
+
 ### 10. Rivalries
+
+<details><summary>expand</summary>
+<br>
 
 1. India vs. Pakistan:
 
@@ -283,6 +340,9 @@ Mainly known for its manifestation in sports, especially football, the rivalry b
 8. France vs. Germany:
    
 Historically, France and Germany have been rivals, particularly in the context of European wars and territorial disputes. However, since World War II, they have transformed their relationship into a partnership that stands at the core of the European Union, showing how rivals can evolve into collaborators.
+
+<br>
+</details>
 
 #
 ### Related Links
