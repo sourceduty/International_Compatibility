@@ -19,7 +19,12 @@ Despite extensive research in international relations, several gaps remain. Ther
 
 Theoretical Framework and Key Concepts
 
-To guide the analysis, we will adopt a theoretical framework that includes several key concepts. International Compatibility refers to the degree to which countries can coexist and cooperate based on cultural, economic, political, and social factors. Network Theory is used to understand international relations through the lens of network theory, where countries are nodes and their relationships are edges. Sentiment Analysis involves analyzing public opinion and sentiment towards different countries using natural language processing techniques. Historical Analysis incorporates historical context to understand the evolution of international relations. Geospatial Analysis employs geospatial techniques to visualize the spatial distribution and patterns of international relationships.
+To guide the analysis, we will adopt a theoretical framework that includes several key concepts. International Compatibility refers to the degree to which countries can coexist and cooperate based on cultural, economic, political, and social factors. 
+
+- Network Theory is used to understand international relations through the lens of network theory, where countries are nodes and their relationships are edges.
+- Sentiment Analysis involves analyzing public opinion and sentiment towards different countries using natural language processing techniques.
+- Historical Analysis incorporates historical context to understand the evolution of international relations.
+- Geospatial Analysis employs geospatial techniques to visualize the spatial distribution and patterns of international relationships.
 
 #
 ### International Compatibility Score (ICS) Simplified
