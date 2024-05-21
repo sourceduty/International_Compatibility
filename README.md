@@ -27,7 +27,7 @@ A mathematical model for calculating "International Compatibility" was developed
 <br>
 7. Data Analysis
 <br>
-9. Conclusion
+8. Conclusion
 
 Notes:
 
