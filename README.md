@@ -58,6 +58,25 @@ Environmental Factors (Env)
 
 [Barbados Indicators Example.txt](https://github.com/sourceduty/International_Compatibility/files/15389800/Barbados.Indicators.Example.txt)
 
+#
+### Data Sources
+
+Public Data:
+
+- World Development Report 2022
+- Globalization Index by Country 2023
+
+ChatGPT Data:
+
+- Technological Compatibility Report
+- Communication Compatibility Report
+- Business Compatibility Report
+- Cultural Compatibility Report
+- Educational Compatibility Report
+
+- 195 x Country Indicator Data Files
+- 195 x Country ICS Data Files
+
 ***
 
 ### Development Progress
