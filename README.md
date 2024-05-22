@@ -68,11 +68,6 @@ Environmental Factors (Env)
 #
 ### Data Sources
 
-Public Data:
-
-- World Development Report 2022
-- Globalization Index by Country 2023
-
 ChatGPT Data:
 
 - Technological Compatibility Report
