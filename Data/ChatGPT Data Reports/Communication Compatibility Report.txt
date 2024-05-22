@@ -1,0 +1,11 @@
+Communication Compatibility Report
+
+Language Support in Software:
+Global software needs to support multiple languages to cater to diverse user bases. English, being the international lingua franca, is supported universally (100%). Spanish, widely spoken in the Americas and Europe, sees 80% support. Mandarin, critical for accessing the vast Chinese market, has 60% support. Hindi, reflecting India's large population, is supported by 50% of software. Japanese, essential for penetrating the Japanese market, sees 40% support.
+
+Communication Platforms Usage:
+WhatsApp is a leading communication platform in Europe (70%) and India (90%), where it is integral to daily communication. In the USA, it is less dominant at 50%, facing competition from other apps like iMessage and Facebook Messenger.
+
+WeChat is overwhelmingly popular in China (95%), being the all-encompassing app for communication, payments, and social media. Its usage in the USA is minimal (10%) due to regulatory restrictions and market preferences.
+
+Telegram is prominent in Russia (60%) and gaining ground in Europe (40%), valued for its security features. Line dominates in Japan (85%), being the preferred app for messaging and social media, while it has limited use in the USA (10%).
