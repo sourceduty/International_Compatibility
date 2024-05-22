@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International Agreements Participation:
+  Qatar actively participates in numerous international agreements, including the United Nations Framework Convention on Climate Change (UNFCCC) and the Paris Agreement. The country is committed to various international conventions and treaties, especially in areas related to environmental sustainability, human rights, and economic cooperation.
+
+- Political Stability Index:
+  Qatar maintains a relatively stable political environment, reflected in its high scores on the political stability index. The country’s strong governance and strategic geopolitical position contribute to its stability.
+
+- Corruption Perception Index:
+  Qatar ranks well in terms of corruption perception, being among the top countries with low levels of corruption. Transparency International's latest Corruption Perceptions Index places Qatar at a relatively high position due to its robust anti-corruption measures.
+
+Economic Factors (E)
+
+- GDP per Capita:
+  Qatar's GDP per capita is one of the highest in the world, at approximately $61,276 (World Bank, 2022), reflecting its wealth from extensive natural gas and oil reserves.
+
+- Trade Openness Index:
+  Qatar has a high trade openness index, engaging significantly in international trade. The country's strategic position as a global energy supplier enhances its trade activities.
+
+- Foreign Direct Investment (FDI) Inflows:
+  In 2022, Qatar attracted substantial FDI inflows, reflecting its favorable investment climate and strategic economic policies.
+
+Social Factors (S)
+
+- Education Index:
+  Qatar has a high education index, supported by significant investments in education infrastructure and policies aimed at increasing educational attainment and quality.
+
+- Healthcare Quality Index:
+  The healthcare system in Qatar is robust, with high scores in healthcare quality indicators, reflecting strong healthcare infrastructure and services.
+
+- Human Development Index (HDI):
+  Qatar ranks very high on the Human Development Index, with an HDI of 0.848, indicating very high human development levels (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural Proximity Index:
+  Qatar’s cultural dimensions, based on Hofstede's framework, indicate high power distance and collectivism, reflecting a society with hierarchical structures and strong family ties.
+
+- Language Similarity Index:
+  Arabic is the official language of Qatar, which shares linguistic roots with other Arabic-speaking countries, facilitating regional communication.
+
+- Cross-cultural Communication Adaptability:
+  Qataris are known for their adaptability in cross-cultural communication, influenced by the country’s significant expatriate population and international business environment.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index:
+  Qatar scores moderately on the Environmental Performance Index, reflecting ongoing efforts in environmental sustainability, particularly in reducing carbon emissions and increasing the use of renewable energy.
+
+- Carbon Footprint per Capita:
+  Qatar’s carbon footprint per capita is relatively high at approximately 38.2 metric tons of CO2, due to its extensive energy production activities (World Bank, 2021).
+
+- Renewable Energy Usage Percentage:
+  Qatar is increasingly investing in renewable energy, with current efforts aimed at expanding its solar and wind energy capacities to reduce dependence on fossil fuels.

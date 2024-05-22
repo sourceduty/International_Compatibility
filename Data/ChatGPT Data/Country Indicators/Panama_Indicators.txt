@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation:
+  Panama is actively involved in numerous international agreements, particularly related to trade, maritime activities, and environmental standards. The country has signed various bilateral and multilateral agreements to enhance its trade and investment climate, including treaties on information exchange and double taxation to comply with global financial standards.
+
+- Political stability index:
+  According to the World Bank's Political Stability and Absence of Violence/Terrorism Index, Panama scores relatively well, indicating a stable political environment compared to regional averages.
+
+- Corruption perception index:
+  Panama ranked 101st out of 180 countries in Transparency International's Corruption Perception Index 2022, reflecting moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per capita:
+  As of the latest data, Panama's GDP per capita is approximately $14,516 (World Bank, 2022).
+
+- Trade openness index:
+  Panama is highly open to trade, with trade constituting a significant portion of its GDP. The Trade Openness Index reflects the ratio of trade (exports + imports) to GDP, and Panama scores well above the global average due to its strategic location and the Panama Canal.
+
+- Foreign direct investment (FDI) inflows:
+  In 2022, Panama attracted significant FDI inflows, amounting to approximately $5 billion, highlighting its role as a regional financial hub and attractive destination for foreign investors (World Bank).
+
+Social Factors (S)
+
+- Education index:
+  Panama has made significant investments in education, resulting in an Education Index score of 0.727, reflecting the average years of schooling and expected years of schooling (UNDP).
+
+- Healthcare quality index:
+  The healthcare system in Panama is relatively advanced for the region, with the country achieving a Healthcare Quality Index score of 68.5 (Lancet Healthcare Access and Quality Index).
+
+- Human development index (HDI):
+  Panama ranks 57th globally with an HDI of 0.815, indicating high human development levels (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural proximity index:
+  Panama’s cultural proximity, particularly with Latin American countries, can be analyzed using Hofstede's cultural dimensions which show similarities in power distance, collectivism, and masculinity scores.
+
+- Language similarity index:
+  Spanish is the official language of Panama, which aligns closely with most Latin American countries, enhancing cross-cultural communication within the region.
+
+- Cross-cultural communication adaptability:
+  Panama's strategic position and historical openness to international trade have fostered a population adept at cross-cultural communication, particularly in commerce and maritime industries.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  Panama scores 54.1 in the Environmental Performance Index (EPI) 2022, ranking 58th globally. This reflects the country's efforts in biodiversity, climate change, and pollution control.
+
+- Carbon footprint per capita:
+  Panama’s carbon footprint per capita is relatively low at approximately 2.5 metric tons of CO2 (World Bank, 2021).
+
+- Renewable energy usage percentage:
+  Around 35% of Panama’s energy consumption comes from renewable sources, mainly hydropower, highlighting the country’s commitment to sustainable energy practices (IRENA, 2022).

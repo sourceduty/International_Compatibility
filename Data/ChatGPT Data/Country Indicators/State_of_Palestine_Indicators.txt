@@ -1,0 +1,56 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Party to numerous international agreements including key human rights treaties.
+- Recognized by 143 UN member states and holds non-member observer status at the UN.
+
+Political Stability Index
+- Severely affected by the ongoing Israeli-Palestinian conflict.
+
+Corruption Perception Index
+- High levels of corruption affecting various sectors.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $3,200 USD.
+
+Trade Openness Index
+- Limited due to restrictions and blockades.
+
+Foreign Direct Investment (FDI) Inflows
+- Minimal, with efforts to improve the investment climate.
+
+Social Factors (S)
+
+Education Index
+- High literacy rate and substantial enrollment in education.
+
+Healthcare Quality Index
+- Compromised by conflict, with efforts to improve infrastructure and services.
+
+Human Development Index (HDI)
+- Reflects challenges in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High degree of collectivism and strong family ties.
+
+Language Similarity Index
+- Arabic is the official language, shared with many countries in the region.
+
+Cross-Cultural Communication Adaptability
+- Highly adaptable due to historical interactions and a diverse expatriate community.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Significant environmental challenges with ongoing improvement efforts.
+
+Carbon Footprint Per Capita
+- Relatively low carbon footprint.
+
+Renewable Energy Usage Percentage
+- Growing focus on renewable energy, with initiatives for solar and wind energy.

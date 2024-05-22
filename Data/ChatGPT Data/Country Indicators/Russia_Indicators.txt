@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International Agreements Participation:
+  Russia participates in various international agreements, although its engagement has been significantly impacted by geopolitical tensions, particularly following the invasion of Ukraine. Russia's participation in organizations like the United Nations continues, but it faces numerous sanctions and has withdrawn from several agreements, including those with Finland and the International Space Station.
+
+- Political Stability Index:
+  Russia has a relatively low political stability index due to internal and external conflicts, including the ongoing war in Ukraine, domestic protests, and political repression.
+
+- Corruption Perception Index:
+  According to Transparency International, Russia ranks 137th out of 180 countries in the 2022 Corruption Perception Index, indicating high levels of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per Capita:
+  As of the latest data, Russia's GDP per capita is approximately $12,194 (World Bank, 2022).
+
+- Trade Openness Index:
+  Russia has a moderate trade openness index. Its economy relies heavily on energy exports, and international sanctions have affected its trade dynamics.
+
+- Foreign Direct Investment (FDI) Inflows:
+  FDI inflows to Russia have decreased significantly due to international sanctions and geopolitical instability. In 2022, FDI inflows were reported to be around $9.7 billion, a significant drop from previous years (World Bank).
+
+Social Factors (S)
+
+- Education Index:
+  Russia has a high education index, reflecting substantial investments in education and high literacy rates among its population.
+
+- Healthcare Quality Index:
+  The healthcare system in Russia scores moderately, with significant regional disparities. Access to quality healthcare remains a challenge in many areas.
+
+- Human Development Index (HDI):
+  Russia ranks 52nd globally with an HDI of 0.824, indicating high human development levels but also highlighting areas needing improvement (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural Proximity Index:
+  Russia scores high on collectivism and power distance based on Hofstede's cultural dimensions, indicating a society that values hierarchical structures and collective well-being.
+
+- Language Similarity Index:
+  Russian is the official language, and it is widely understood in many former Soviet states, facilitating regional communication.
+
+- Cross-cultural Communication Adaptability:
+  Russians show moderate adaptability in cross-cultural communication, influenced by their historical interactions with various cultures within and outside the former Soviet Union.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index:
+  Russia scores 50.7 in the Environmental Performance Index (EPI) 2022, reflecting moderate performance with significant challenges in areas such as air quality and waste management.
+
+- Carbon Footprint per Capita:
+  Russia’s carbon footprint per capita is relatively high at approximately 11.3 metric tons of CO2, due to its large energy sector (World Bank, 2021).
+
+- Renewable Energy Usage Percentage:
+  About 17% of Russia’s energy consumption comes from renewable sources, primarily hydro and wind power, reflecting ongoing efforts to diversify its energy mix (IRENA, 2022).

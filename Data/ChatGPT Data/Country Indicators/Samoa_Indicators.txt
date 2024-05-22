@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International Agreements Participation:
+  Samoa actively participates in numerous international agreements, including the United Nations, the Commonwealth, and the Pacific Islands Forum. Recently, Samoa signed the Samoa Agreement with the European Union and the Organisation of African, Caribbean and Pacific States (OACPS), which focuses on climate change, human rights, democracy, and sustainable economic development.
+
+- Political Stability Index:
+  Samoa maintains a stable political environment, as reflected in its governance strategies and involvement in regional stability efforts. According to recent assessments, the country has shown resilience in maintaining political stability despite global challenges.
+
+- Corruption Perception Index:
+  Efforts to combat corruption are ongoing in Samoa. While specific recent rankings are not detailed, the government has shown commitment to enhancing transparency and integrity in public life.
+
+Economic Factors (E)
+
+- GDP per Capita:
+  As of the latest data, Samoa's GDP per capita is approximately $4,123 (World Bank, 2022).
+
+- Trade Openness Index:
+  Samoa has a high trade openness index due to its active engagement in regional and international trade agreements, reflecting significant import and export activities.
+
+- Foreign Direct Investment (FDI) Inflows:
+  In 2022, Samoa attracted notable FDI, particularly in sectors such as tourism and agriculture, driven by favorable investment policies and regional trade agreements (World Bank).
+
+Social Factors (S)
+
+- Education Index:
+  Samoa has an Education Index score of 0.634, indicating ongoing improvements in educational attainment and access to education (UNDP).
+
+- Healthcare Quality Index:
+  The healthcare system in Samoa scores moderately, with ongoing efforts to improve healthcare access and quality through national initiatives and international cooperation.
+
+- Human Development Index (HDI):
+  Samoa ranks 111th globally with an HDI of 0.715, reflecting medium human development levels with significant room for improvement (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural Proximity Index:
+  Based on Hofstede's cultural dimensions, Samoa scores high on collectivism and power distance, reflecting a society with strong community ties and hierarchical structures.
+
+- Language Similarity Index:
+  Samoan and English are the official languages, facilitating communication within the region and with global partners.
+
+- Cross-cultural Communication Adaptability:
+  Samoans exhibit high adaptability in cross-cultural communication, influenced by their multilingual capabilities and historical interactions with various cultures.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index:
+  Samoa scores 54.3 in the Environmental Performance Index (EPI) 2022, indicating moderate performance with ongoing efforts to improve environmental sustainability.
+
+- Carbon Footprint per Capita:
+  Samoa’s carbon footprint per capita is relatively low at approximately 0.9 metric tons of CO2 (World Bank, 2021), reflecting its low industrial base.
+
+- Renewable Energy Usage Percentage:
+  About 30% of Samoa’s energy consumption comes from renewable sources, primarily solar and hydropower, highlighting the country’s commitment to sustainable energy practices.

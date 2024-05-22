@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation:
+  The Philippines is actively engaged in numerous international agreements, including the WTO's Investment Facilitation for Development (IFD) Agreement and regional trade agreements such as those with ASEAN and the EU. The country aims to enhance its trade relations through these agreements and has recently resumed negotiations for a comprehensive free trade agreement with the EU.
+
+- Political stability index:
+  The Philippines has faced moderate political stability challenges, with issues such as political unrest and regional conflicts impacting its stability index. The country’s political stability index score as of the latest data is -1.06 (World Bank, 2022).
+
+- Corruption perception index:
+  In Transparency International's Corruption Perception Index 2022, the Philippines is ranked 116th out of 180 countries, indicating significant corruption issues.
+
+Economic Factors (E)
+
+- GDP per capita:
+  The GDP per capita in the Philippines is approximately $3,548 as of 2022 (World Bank).
+
+- Trade openness index:
+  The Philippines has a relatively high trade openness index, with trade constituting a significant portion of its GDP. In 2022, trade in goods between the EU and the Philippines amounted to €18.4 billion.
+
+- Foreign direct investment (FDI) inflows:
+  The Philippines attracted about $10.5 billion in FDI inflows in 2022, reflecting strong investment interest in various sectors including manufacturing, finance, and real estate.
+
+Social Factors (S)
+
+- Education index:
+  The Philippines has an Education Index score of 0.662, reflecting moderate educational attainment levels (UNDP).
+
+- Healthcare quality index:
+  The healthcare system in the Philippines scores 56.2 on the Healthcare Access and Quality Index, indicating significant challenges in healthcare delivery and quality.
+
+- Human development index (HDI):
+  The Philippines ranks 107th globally with an HDI of 0.718, indicating medium human development levels (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural proximity index:
+  Using Hofstede's cultural dimensions, the Philippines scores high on collectivism and power distance, reflecting a society with strong familial ties and hierarchical structures.
+
+- Language similarity index:
+  The official languages are Filipino and English, facilitating effective communication both domestically and internationally. The country's linguistic diversity also includes numerous regional languages.
+
+- Cross-cultural communication adaptability:
+  Filipinos are known for their adaptability in cross-cultural communication, influenced by their multilingual capabilities and historical interactions with various cultures.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  The Philippines scores 46.2 in the Environmental Performance Index (EPI) 2022, indicating significant challenges in environmental sustainability, particularly in waste management and air quality.
+
+- Carbon footprint per capita:
+  The carbon footprint per capita in the Philippines is approximately 1.1 metric tons of CO2 (World Bank, 2021).
+
+- Renewable energy usage percentage:
+  Around 29% of the Philippines' energy consumption comes from renewable sources, primarily geothermal and hydropower, reflecting the country's efforts to enhance sustainable energy practices (IRENA, 2022).

@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Member of NATO since 2024, actively involved in climate initiatives and international trade agreements.
+
+Political Stability Index
+- High level of political stability with robust democratic governance.
+
+Corruption Perception Index
+- Among the least corrupt countries globally.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $60,000 USD.
+
+Trade Openness Index
+- Highly open to international trade, with strong participation in EU trade agreements.
+
+Foreign Direct Investment (FDI) Inflows
+- Substantial FDI, especially in technology, manufacturing, and renewable energy.
+
+Social Factors (S)
+
+Education Index
+- High education index with a strong emphasis on quality education and high literacy rates.
+
+Healthcare Quality Index
+- High-quality, comprehensive healthcare services.
+
+Human Development Index (HDI)
+- Very high HDI, reflecting excellent outcomes in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High individualism, low power distance, high indulgence.
+
+Language Similarity Index
+- Swedish is closely related to other Scandinavian languages.
+
+Cross-Cultural Communication Adaptability
+- High adaptability, supported by a diverse population and inclusive society.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Leader in environmental performance, excelling in air quality, biodiversity, and sustainability.
+
+Carbon Footprint per Capita
+- Relatively low carbon footprint for a developed country.
+
+Renewable Energy Usage Percentage
+- Significant portion of energy from renewable sources, with plans to increase capacity.

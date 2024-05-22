@@ -1,0 +1,57 @@
+
+Indicators for Slovakia
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   - Slovakia is a member of various international organizations including the United Nations, European Union, NATO, World Trade Organization, and others. It has signed numerous international treaties and agreements since gaining independence in 1993.
+
+2. Political Stability Index:
+   - According to the World Bank's Worldwide Governance Indicators, Slovakia's political stability is measured at 0.47 (2022), indicating moderate stability.
+
+3. Corruption Perception Index:
+   - In 2022, Slovakia scored 49 out of 100 on Transparency International's Corruption Perception Index, ranking 50th out of 180 countries.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   - The GDP per capita in Slovakia was approximately $19,627 USD in 2022.
+
+2. Trade Openness Index:
+   - Slovakia's trade openness, which measures the sum of exports and imports as a percentage of GDP, was about 183% in 2022, reflecting a highly open economy.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   - In 2022, Slovakia received around $2.8 billion USD in FDI inflows.
+
+Social Factors (S)
+
+1. Education Index:
+   - Slovakia's education index, part of the Human Development Index (HDI), was 0.791 in 2022, indicating a high level of educational attainment.
+
+2. Healthcare Quality Index:
+   - The healthcare index for Slovakia was approximately 64.7 out of 100 in 2022, indicating moderate quality healthcare services.
+
+3. Human Development Index (HDI):
+   - Slovakia's HDI in 2022 was 0.860, placing it in the very high human development category.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   - Based on Hofstede's cultural dimensions, Slovakia scores high in power distance (104), individualism (52), masculinity (110), uncertainty avoidance (92), and long-term orientation (77), reflecting a culture that values hierarchy, individual achievements, and stability.
+
+2. Language Similarity Index:
+   - Slovak is the official language, and its closest linguistic relative is Czech, with mutual intelligibility between the two languages. This contributes to a high language similarity index.
+
+3. Cross-cultural Communication Adaptability:
+   - Slovakia's adaptability in cross-cultural communication is facilitated by its membership in the EU and exposure to multiple languages and cultures through trade and tourism.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   - In 2022, Slovakia scored 67.5 on the Environmental Performance Index, ranking 36th globally, indicating relatively strong environmental policies and performance.
+
+2. Carbon Footprint per Capita:
+   - Slovakia's carbon footprint was approximately 6.3 metric tons per capita in 2022.
+
+3. Renewable Energy Usage Percentage:
+   - Renewable energy accounted for about 18.7% of Slovakia's total energy consumption in 2022.

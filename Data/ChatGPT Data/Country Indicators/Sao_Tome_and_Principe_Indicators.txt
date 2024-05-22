@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International Agreements Participation:
+  São Tomé and Príncipe is actively involved in numerous international agreements. The country participates in the United Nations, the African Union, and the Community of Portuguese Language Countries (CPLP). Recent agreements include a finalized negotiation on an Association Agreement with the European Union, which is expected to enhance integration and cooperation by late 2024.
+
+- Political Stability Index:
+  São Tomé and Príncipe maintains a moderate level of political stability. The country has shown resilience in maintaining political stability despite economic challenges and external pressures.
+
+- Corruption Perception Index:
+  According to Transparency International, São Tomé and Príncipe ranks 67th out of 180 countries in the 2023 Corruption Perceptions Index, indicating moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per Capita:
+  As of 2022, São Tomé and Príncipe's GDP per capita is approximately $2,182 (World Bank).
+
+- Trade Openness Index:
+  São Tomé and Príncipe has a high trade openness index, facilitated by its reliance on imports and exports, especially in sectors such as agriculture and tourism.
+
+- Foreign Direct Investment (FDI) Inflows:
+  In 2022, the country attracted about $30 million in FDI, driven by investments in sectors like tourism and agriculture, supported by favorable investment policies (World Bank).
+
+Social Factors (S)
+
+- Education Index:
+  São Tomé and Príncipe has an Education Index score of 0.517, reflecting ongoing improvements in educational attainment and access to education (UNDP).
+
+- Healthcare Quality Index:
+  The healthcare system in São Tomé and Príncipe is developing, with efforts to improve healthcare access and quality through national and international initiatives.
+
+- Human Development Index (HDI):
+  The country ranks 137th globally with an HDI of 0.625, indicating medium human development levels with significant room for improvement (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural Proximity Index:
+  Based on Hofstede's cultural dimensions, São Tomé and Príncipe exhibits high collectivism and moderate power distance, reflecting strong community ties and hierarchical structures.
+
+- Language Similarity Index:
+  Portuguese is the official language, aligning with the linguistic context of other CPLP countries, facilitating regional and international communication.
+
+- Cross-cultural Communication Adaptability:
+  The population shows high adaptability in cross-cultural communication, influenced by historical interactions and the multicultural makeup of the society.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index:
+  São Tomé and Príncipe scores 46.9 on the Environmental Performance Index (EPI) 2022, reflecting ongoing efforts to improve environmental sustainability.
+
+- Carbon Footprint per Capita:
+  The carbon footprint per capita is relatively low at approximately 1.2 metric tons of CO2, reflecting the country's small industrial base and efforts towards sustainability (World Bank, 2021).
+
+- Renewable Energy Usage Percentage:
+  About 25% of the country’s energy consumption comes from renewable sources, primarily hydropower, highlighting its commitment to sustainable energy practices.

@@ -1,0 +1,55 @@
+
+### Political Factors (P)
+
+International Agreements Participation:
+Serbia has signed several international agreements to strengthen cooperation, notably with neighboring countries like Hungary. The country is also actively involved in regional cooperation and committed to maintaining good bilateral relations with other candidate countries and neighboring EU Member States.
+
+Political Stability Index:
+Serbia faces challenges with political stability, partly due to ongoing issues related to Kosovo. There are frequent incidents of threats, intimidation, and violence against journalists, which impact the overall political climate.
+
+Corruption Perception Index:
+Serbia continues to struggle with corruption and judicial inefficiency, which hampers economic development and the enforcement of fair competition.
+
+### Economic Factors (E)
+
+GDP per Capita:
+Serbia's GDP per capita reflects its status as a developing economy. The economy has been affected by external factors such as the COVID-19 pandemic and the economic fallout from Russia's war of aggression against Ukraine, leading to significant inflation.
+
+Trade Openness Index:
+Serbia maintains a highly open trade regime, participating in various international trade agreements to enhance its economic integration with the EU and other partners.
+
+Foreign Direct Investment (FDI) Inflows:
+FDI inflows have been crucial for Serbia's economic development, although the private sector remains underdeveloped compared to state-owned enterprises, partly due to corruption and inefficiencies in the rule of law.
+
+### Social Factors (S)
+
+Education Index:
+Serbia has made progress in improving its education system, but challenges remain in aligning education and training with labor market needs. Public investment in education is ongoing, aimed at addressing these gaps.
+
+Healthcare Quality Index:
+The healthcare system in Serbia is undergoing reforms to improve quality and accessibility. Efforts include increasing the transparency and efficiency of public health services.
+
+Human Development Index (HDI):
+Serbia's HDI reflects its middle-income status, with ongoing efforts to improve living standards through economic and social reforms.
+
+### Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions):
+Serbia's cultural dimensions highlight a society with a high degree of collectivism, strong uncertainty avoidance, and a relatively high power distance, reflecting traditional and hierarchical societal structures.
+
+Language Similarity Index:
+The Serbian language shares similarities with other South Slavic languages, which facilitates cross-cultural communication within the region.
+
+Cross-Cultural Communication Adaptability:
+Serbia's cultural adaptability is influenced by its historical and geographical position as a crossroads between East and West, fostering a degree of flexibility in cross-cultural interactions.
+
+### Environmental Factors (Env)
+
+Environmental Performance Index:
+Serbia is making efforts to improve its environmental performance, focusing on issues like pollution control and sustainable development. However, significant challenges remain in meeting EU environmental standards.
+
+Carbon Footprint per Capita:
+The carbon footprint per capita in Serbia is influenced by its energy consumption patterns, with ongoing efforts to shift towards more sustainable energy sources.
+
+Renewable Energy Usage Percentage:
+Serbia is investing in renewable energy to increase its usage percentage, aiming to reduce dependency on fossil fuels and enhance energy security.

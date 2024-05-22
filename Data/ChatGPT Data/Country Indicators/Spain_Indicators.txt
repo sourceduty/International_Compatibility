@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Active member of the UN since 1955, signatory to the Paris Agreement and Rome Statute.
+
+Political Stability Index
+- High political stability with a well-established democratic system.
+
+Corruption Perception Index
+- Moderate ranking on Transparency International's Corruption Perceptions Index.
+
+Economic Factors (E)
+
+GDP Per Capita
+- Approximately $30,000 USD, reflecting a high standard of living.
+
+Trade Openness Index
+- Highly integrated into the global economy, with significant trade as part of GDP.
+
+Foreign Direct Investment (FDI) Inflows
+- Attracts substantial FDI in sectors like renewable energy and technology.
+
+Social Factors (S)
+
+Education Index
+- High education index with nearly 100% literacy and strong public education system.
+
+Healthcare Quality Index
+- Among the top globally for healthcare quality, with universal coverage.
+
+Human Development Index (HDI)
+- Very high HDI, reflecting long life expectancy, high education, and good living standards.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High individualism and indulgence, moderate power distance and uncertainty avoidance.
+
+Language Similarity Index
+- Spanish is widely spoken and closely related to other Romance languages.
+
+Cross-Cultural Communication Adaptability
+- High adaptability driven by a diverse population and extensive international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Strong performance with significant progress in renewable energy and environmental protection.
+
+Carbon Footprint Per Capita
+- Moderate carbon footprint, reflecting efforts to reduce greenhouse gas emissions.
+
+Renewable Energy Usage Percentage
+- Leader in renewable energy usage, particularly in wind and solar power.

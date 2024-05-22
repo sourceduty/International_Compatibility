@@ -1,0 +1,56 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Active participant in WTO and numerous FTAs, including with the US, EU, and ASEAN.
+- Involved in Horizon Europe for research and innovation collaboration.
+
+Political Stability Index
+- Evaluated using the World Bank's Political Stability and Absence of Violence/Terrorism index.
+
+Corruption Perception Index
+- Ranked 32nd out of 180 countries (Transparency International).
+
+Economic Factors (E)
+
+GDP Per Capita
+- Approximately $33,000 USD (World Bank).
+
+Trade Openness Index
+- Highly open economy with substantial integration into the global market.
+
+Foreign Direct Investment (FDI) Inflows
+- Significant FDI destination (UNCTAD).
+
+Social Factors (S)
+
+Education Index
+- High mean years of schooling and expected years of schooling (UNDP).
+
+Healthcare Quality Index
+- High global ranking in healthcare quality (HAQ Index).
+
+Human Development Index (HDI)
+- High human development category (UNDP).
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High in Power Distance and Long-Term Orientation (Hofstede).
+
+Language Similarity Index
+- Korean is a language isolate.
+
+Cross-Cultural Communication Adaptability
+- Measured through surveys and studies on cross-cultural communication.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Reflects high standards in environmental health and ecosystem vitality (Yale University).
+
+Carbon Footprint Per Capita
+- Data from the Global Carbon Atlas.
+
+Renewable Energy Usage Percentage
+- Increasing capacity in renewable energy (IRENA).

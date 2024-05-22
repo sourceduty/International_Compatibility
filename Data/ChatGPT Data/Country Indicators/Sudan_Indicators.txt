@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Participant in several international agreements, including the Convention on Biological Diversity, the Paris Agreement, and the Kyoto Protocol.
+
+Political Stability Index
+- Severely impacted by ongoing conflict, particularly between the Sudanese Armed Forces and the Rapid Support Forces.
+
+Corruption Perception Index
+- High levels of corruption affecting governance and public services.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $600 USD.
+
+Trade Openness Index
+- Limited by conflict and economic sanctions.
+
+Foreign Direct Investment (FDI) Inflows
+- Minimal, with efforts to improve the investment climate.
+
+Social Factors (S)
+
+Education Index
+- Faces significant challenges, including inadequate infrastructure and resources.
+
+Healthcare Quality Index
+- Compromised by conflict and economic challenges, with limited access to services.
+
+Human Development Index (HDI)
+- Low, reflecting challenges in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High power distance and collectivism, with strong family and community ties.
+
+Language Similarity Index
+- Arabic is the official language, facilitating regional communication.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse ethnic groups and languages.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Faces significant challenges, including deforestation and water scarcity.
+
+Carbon Footprint per Capita
+- Relatively low carbon footprint.
+
+Renewable Energy Usage Percentage
+- Growing focus on solar and wind energy to reduce dependence on fossil fuels.

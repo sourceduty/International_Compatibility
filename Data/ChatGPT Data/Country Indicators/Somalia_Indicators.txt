@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International agreements participation: Somalia has recently signed key agreements with Kenya to boost bilateral relations, covering political consultations, education, defense, foreign affairs, security, economy, trade, and social services.
+- Political stability index: Somalia remains highly unstable with ongoing conflicts, particularly with Al-Shabaab insurgency, and limited government control over its territory.
+- Corruption perception index: Somalia consistently ranks among the most corrupt countries in the world, reflecting severe governance and corruption issues.
+
+Economic Factors (E)
+
+- GDP per capita: Somalia's GDP per capita remains one of the lowest globally due to extensive poverty, high unemployment, and lack of infrastructure. Agriculture, particularly livestock, accounts for a significant portion of the GDP.
+- Trade openness index: Somalia's economy is highly dependent on imports, particularly for consumption and essential goods. Trade is a crucial component, but the lack of regulation and infrastructure poses challenges.
+- Foreign direct investment (FDI) inflows: The level of FDI in Somalia is limited due to the high-risk environment. However, there are opportunities in sectors like telecommunications and mobile money services.
+
+Social Factors (S)
+
+- Education index: The education system in Somalia is fragmented with significant disparities. The adult literacy rate varies widely, with urban areas like Mogadishu having higher rates compared to rural regions.
+- Healthcare quality index: Healthcare services in Somalia are severely limited, with significant challenges in accessibility and quality, exacerbated by ongoing conflict and instability.
+- Human development index (HDI): Somalia ranks very low on the HDI, reflecting poor outcomes in health, education, and income.
+
+Cultural Factors (C)
+
+- Cultural proximity index: Somalia's culture is influenced by traditional clan systems and Islamic practices, with significant emphasis on oral traditions and communal living.
+- Language similarity index: Somali is the official language, and Arabic is also widely used, reflecting the country's cultural and religious ties to the Arab world.
+- Cross-cultural communication adaptability: Somali society has a strong oral culture, and effective communication often relies on understanding local customs and clan dynamics.
+
+Environmental Factors (Env)
+
+- Environmental performance index: Somalia faces severe environmental challenges, including deforestation, soil degradation, and water scarcity. Environmental policies are in place but are poorly implemented.
+- Carbon footprint per capita: Due to limited industrial activity, Somalia's carbon footprint per capita is relatively low. However, deforestation for charcoal production remains a significant issue.
+- Renewable energy usage percentage: Renewable energy use is minimal, with most energy needs met through traditional biomass and imported fuels.

@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International Agreements Participation:
+  San Marino is actively involved in numerous international agreements. The country participates in the United Nations, the Council of Europe, and recently, it has finalized negotiations on an Association Agreement with the European Union, expected to enhance its integration with the EU’s internal market and cooperation in other policy areas by late 2024.
+
+- Political Stability Index:
+  San Marino maintains a stable political environment. The political stability is reflected in its governance and low levels of political unrest, making it one of the more stable microstates in Europe.
+
+- Corruption Perception Index:
+  San Marino has shown commitment to transparency and anti-corruption measures. It is not ranked in the major global corruption indices, but its efforts in harmonizing fiscal laws with international standards indicate a relatively low level of corruption.
+
+Economic Factors (E)
+
+- GDP per Capita:
+  As of the latest data, San Marino’s GDP per capita is approximately $47,374, reflecting its status as one of the wealthiest countries in the world per capita (World Bank, 2022).
+
+- Trade Openness Index:
+  San Marino has a high trade openness index due to its small economy, which relies significantly on trade, particularly with the EU and Italy.
+
+- Foreign Direct Investment (FDI) Inflows:
+  San Marino attracts moderate levels of FDI, primarily in sectors like banking, finance, and tourism, driven by its favorable tax environment and political stability.
+
+Social Factors (S)
+
+- Education Index:
+  San Marino boasts a high education index, with a well-established education system that includes international collaborations and exchanges (UNDP).
+
+- Healthcare Quality Index:
+  The healthcare system in San Marino is highly developed, scoring well on healthcare access and quality indices due to its robust infrastructure and services.
+
+- Human Development Index (HDI):
+  San Marino ranks very high on the Human Development Index, with a score of 0.960, reflecting its advanced social and economic development (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural Proximity Index:
+  Based on Hofstede's cultural dimensions, San Marino exhibits traits similar to other Southern European cultures, with high scores in individualism and moderate power distance, indicating a balance between community ties and personal freedom.
+
+- Language Similarity Index:
+  Italian is the official language, closely aligning with the cultural and linguistic context of its neighboring country, Italy.
+
+- Cross-cultural Communication Adaptability:
+  San Marino’s population shows high adaptability in cross-cultural communication, facilitated by its multilingual capabilities and extensive interaction with international communities.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index:
+  San Marino scores 65.3 on the Environmental Performance Index (EPI) 2022, reflecting strong environmental policies and sustainability efforts.
+
+- Carbon Footprint per Capita:
+  The carbon footprint per capita in San Marino is relatively low at approximately 4.9 metric tons of CO2, reflecting its small industrial base and efforts towards sustainability (World Bank, 2021).
+
+- Renewable Energy Usage Percentage:
+  About 20% of San Marino’s energy consumption comes from renewable sources, primarily solar and hydroelectric power, highlighting its commitment to green energy practices.

@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Ratified the Maputo Protocol on women's rights and the Convention on Cluster Munitions.
+
+Political Stability Index
+- Severe political instability driven by conflict and governance issues.
+
+Corruption Perception Index
+- Ranked as one of the most corrupt countries globally.
+
+Economic Factors (E)
+
+GDP Per Capita
+- Extremely low, heavily dependent on oil exports.
+
+Trade Openness Index
+- Limited due to conflict, infrastructural deficiencies, and economic instability.
+
+Foreign Direct Investment (FDI) Inflows
+- Minimal, deterred by high-risk environment and instability.
+
+Social Factors (S)
+
+Education Index
+- Very low, significant barriers to education access.
+
+Healthcare Quality Index
+- Extremely poor, limited access to medical services.
+
+Human Development Index (HDI)
+- Near the bottom, with severe deficits in health, education, and living standards.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High power distance and collectivism, hierarchical and community-oriented society.
+
+Language Similarity Index
+- Over 60 languages spoken, complicating communication.
+
+Cross-Cultural Communication Adaptability
+- Critical but challenging due to linguistic and cultural diversity.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Poor, struggling with deforestation, land degradation, and pollution.
+
+Carbon Footprint Per Capita
+- Relatively low, reliance on biomass for energy.
+
+Renewable Energy Usage Percentage
+- Minimal, limited development of renewable energy infrastructure.

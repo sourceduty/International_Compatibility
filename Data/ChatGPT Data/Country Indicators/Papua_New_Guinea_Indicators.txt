@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation:
+  Papua New Guinea is a participant in various international agreements, including those related to trade, environmental protection, and regional cooperation. It is a member of the United Nations, the Commonwealth of Nations, the Pacific Islands Forum, and the World Trade Organization.
+
+- Political stability index:
+  According to the World Bank's Political Stability and Absence of Violence/Terrorism Index, Papua New Guinea has a relatively low score, indicating challenges in political stability and security.
+
+- Corruption perception index:
+  Papua New Guinea ranked 124th out of 180 countries in Transparency International's Corruption Perception Index 2022, indicating high levels of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per capita:
+  As of the latest data, Papua New Guinea's GDP per capita is approximately $2,677 (World Bank, 2022).
+
+- Trade openness index:
+  Papua New Guinea's trade openness index reflects its dependence on commodity exports, particularly minerals and agricultural products. The index is moderate compared to global standards.
+
+- Foreign direct investment (FDI) inflows:
+  In 2022, Papua New Guinea attracted modest FDI inflows, amounting to around $500 million, driven by investments in mining and natural resources (World Bank).
+
+Social Factors (S)
+
+- Education index:
+  Papua New Guinea has an Education Index score of 0.521, reflecting challenges in the education sector, including low literacy rates and limited access to quality education (UNDP).
+
+- Healthcare quality index:
+  The healthcare system in Papua New Guinea faces significant challenges, with a Healthcare Quality Index score of 45.3 (Lancet Healthcare Access and Quality Index).
+
+- Human development index (HDI):
+  Papua New Guinea ranks 155th globally with an HDI of 0.555, indicating low human development levels (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural proximity index:
+  Papua New Guinea’s cultural proximity can be analyzed using Hofstede's cultural dimensions, showing high levels of collectivism and power distance, and low levels of individualism.
+
+- Language similarity index:
+  Papua New Guinea is one of the most linguistically diverse countries in the world, with over 800 languages spoken. Tok Pisin and English are widely used as lingua franca, facilitating communication.
+
+- Cross-cultural communication adaptability:
+  The diverse cultural landscape of Papua New Guinea requires significant adaptability in cross-cultural communication, particularly in business and governance.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  Papua New Guinea scores 42.7 in the Environmental Performance Index (EPI) 2022, reflecting efforts in biodiversity and ecosystem conservation, but facing challenges in air quality and climate change mitigation.
+
+- Carbon footprint per capita:
+  Papua New Guinea’s carbon footprint per capita is relatively low at approximately 0.8 metric tons of CO2 (World Bank, 2021).
+
+- Renewable energy usage percentage:
+  Around 40% of Papua New Guinea’s energy consumption comes from renewable sources, mainly hydropower, indicating a strong reliance on renewable energy (IRENA, 2022).

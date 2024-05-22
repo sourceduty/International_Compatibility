@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Active participant in WTO, CARICOM, and various environmental agreements like the Paris Agreement.
+
+Political Stability Index
+- Relatively stable political environment with ongoing governance challenges.
+
+Corruption Perception Index
+- Corruption remains a significant issue, impacting various sectors.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $5,600 USD.
+
+Trade Openness Index
+- Moderately open to international trade, benefiting from CARICOM membership and global trade agreements.
+
+Foreign Direct Investment (FDI) Inflows
+- Significant FDI, especially in mining and energy sectors.
+
+Social Factors (S)
+
+Education Index
+- High literacy rate with strong commitment to improving educational outcomes.
+
+Healthcare Quality Index
+- Improving healthcare quality and accessibility with government and international support.
+
+Human Development Index (HDI)
+- Moderate ranking, with ongoing efforts to address socio-economic disparities.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High level of collectivism and moderate power distance.
+
+Language Similarity Index
+- Dutch is the official language, shared with the Netherlands and parts of the Caribbean.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse ethnic and cultural composition.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Strong performance in forest conservation and biodiversity.
+
+Carbon Footprint per Capita
+- Relatively low carbon footprint.
+
+Renewable Energy Usage Percentage
+- Increasing focus on renewable energy, particularly hydroelectric power.

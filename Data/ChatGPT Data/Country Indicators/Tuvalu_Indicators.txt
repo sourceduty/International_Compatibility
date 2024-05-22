@@ -1,0 +1,25 @@
+Political Factors (P):
+  - International agreements participation: Yes
+  - Political stability index: 1.2 (on a scale of -2.5 to 2.5)
+  - Corruption perception index: n/a
+
+Economic Factors (E):
+  - GDP per capita: $3,683 (2023)
+  - Trade openness index: 45.6 (2023)
+  - Foreign direct investment (FDI) inflows: $8 million (2022)
+
+Social Factors (S):
+  - Education index: 0.590 (2023)
+  - Healthcare quality index: 50.3 (2023)
+  - Human development index (HDI): 0.607 (2023)
+
+Cultural Factors (C):
+  - Cultural proximity index: Low (Hofstede's dimensions)
+  - Language similarity index: Tuvaluan (official), English (official)
+  - Cross-cultural communication adaptability: Moderate
+
+Environmental Factors (Env):
+  - Environmental performance index: 51.3 (2022)
+  - Carbon footprint per capita: 0.9 metric tons (2023)
+  - Renewable energy usage percentage: 60% (2023)
+

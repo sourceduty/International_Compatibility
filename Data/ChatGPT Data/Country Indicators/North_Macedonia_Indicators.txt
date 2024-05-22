@@ -1,0 +1,42 @@
+
+North Macedonia Indicators
+
+Political Factors (P)
+
+- International Agreements Participation: North Macedonia is a member of numerous international organizations, including the United Nations, NATO, and the World Trade Organization (WTO). It also participates in regional organizations such as the Central European Free Trade Agreement (CEFTA) and has signed various bilateral and multilateral treaties.
+
+- Political Stability Index: North Macedonia's political stability index reflects a relatively stable but occasionally volatile political environment. The latest available index score from the World Bank is -0.05 on a scale from -2.5 (weak) to 2.5 (strong) (2022).
+
+- Corruption Perception Index: According to Transparency International's Corruption Perceptions Index (CPI) 2022, North Macedonia scored 40 out of 100, ranking 87th out of 180 countries, indicating a moderate level of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per Capita: North Macedonia's GDP per capita was approximately $6,200 USD in 2023, according to the World Bank.
+
+- Trade Openness Index: North Macedonia has a trade openness index of approximately 101.5, indicating a high level of trade activity relative to GDP (2022 data).
+
+- Foreign Direct Investment (FDI) Inflows: FDI inflows into North Macedonia were approximately $326 million USD in 2022, highlighting moderate attractiveness to foreign investors.
+
+Social Factors (S)
+
+- Education Index: North Macedonia has an education index of 0.669, reflecting moderate educational attainment (UNDP, 2022).
+
+- Healthcare Quality Index: The healthcare quality index score for North Macedonia is 63.5, indicating moderate healthcare system quality (2023).
+
+- Human Development Index (HDI): The Human Development Index for North Macedonia is 0.774, placing it in the high human development category (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural Proximity Index: Based on Hofstede's cultural dimensions, North Macedonia scores high on collectivism and uncertainty avoidance, similar to many Balkan countries.
+
+- Language Similarity Index: The official language, Macedonian, shares significant linguistic similarities with other South Slavic languages, particularly Bulgarian and Serbian.
+
+- Cross-Cultural Communication Adaptability: North Macedonia has a moderate level of cross-cultural communication adaptability, facilitated by its multilingual population and diverse cultural interactions.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index: North Macedonia scores 47.5 on the Environmental Performance Index (EPI), reflecting moderate environmental sustainability (2022).
+
+- Carbon Footprint per Capita: The carbon footprint per capita in North Macedonia is approximately 4.5 metric tons (2022).
+
+- Renewable Energy Usage Percentage: About 23% of North Macedonia's energy consumption comes from renewable sources, mainly hydroelectric power (2022).

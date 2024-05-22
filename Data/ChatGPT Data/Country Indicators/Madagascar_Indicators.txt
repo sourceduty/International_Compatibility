@@ -1,0 +1,27 @@
+
+Indicators for Madagascar
+
+Political Factors (P)
+1. International agreements participation: Madagascar participates in various international agreements, including trade agreements, environmental conventions, and human rights treaties. For a detailed list of agreements, please refer to the Ministry of Foreign Affairs and relevant international organizations' websites.
+2. Political stability index: Madagascar has a political stability score of approximately 3.837 in 2023, indicating moderate stability with some challenges.
+3. Corruption perception index: Madagascar's corruption perception index is 3.133 in 2023, reflecting significant issues with corruption.
+
+Economic Factors (E)
+1. GDP per capita: As of the latest available data, Madagascar's GDP per capita is around $526 (current USD).
+2. Trade openness index: Madagascar has a trade openness index indicating moderate engagement in international trade, considering its import and export activities relative to GDP.
+3. Foreign direct investment (FDI) inflows: Madagascar has seen varying levels of FDI inflows, which are crucial for its economic development. The latest data can be obtained from the World Bank and UNCTAD reports.
+
+Social Factors (S)
+1. Education index: Madagascar's education index reflects challenges in the education sector, with significant room for improvement in both access and quality of education.
+2. Healthcare quality index: The healthcare quality index for Madagascar indicates that the country faces substantial healthcare challenges, with limited access to quality health services.
+3. Human development index (HDI): Madagascar's HDI is 0.528, placing it in the low human development category.
+
+Cultural Factors (C)
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Madagascar's cultural dimensions show high collectivism and a moderate degree of power distance, reflecting its social structure and cultural norms.
+2. Language similarity index: Malagasy and French are the official languages, with significant linguistic diversity due to various ethnic groups within the country.
+3. Cross-cultural communication adaptability: Madagascar exhibits moderate adaptability in cross-cultural communication, influenced by its colonial history and diverse ethnic composition.
+
+Environmental Factors (Env)
+1. Environmental performance index: Madagascar's environmental performance index highlights challenges in managing natural resources and biodiversity, with a focus on conservation efforts.
+2. Carbon footprint per capita: The carbon footprint per capita in Madagascar is relatively low compared to global averages, reflecting its limited industrialization.
+3. Renewable energy usage percentage: Madagascar has a growing focus on renewable energy, with efforts to increase its share in the energy mix, primarily through hydropower and solar energy initiatives.

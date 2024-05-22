@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International agreements participation: Slovenia is a member of multiple international organizations, including the European Union, United Nations, NATO, and the Organization for Security and Co-operation in Europe (OSCE). Slovenia actively participates in international agreements and maintains bilateral and multilateral relations globally.
+- Political stability index: According to the World Bank's Worldwide Governance Indicators, Slovenia has a high score in political stability and absence of violence/terrorism, indicating a stable political environment.
+- Corruption perception index: Slovenia ranks 41st out of 180 countries on Transparency International's Corruption Perceptions Index 2023, indicating moderate levels of perceived public sector corruption.
+
+Economic Factors (E)
+
+- GDP per capita: As of 2023, Slovenia's GDP per capita (PPP) is approximately $41,000, reflecting a well-developed economy with a high standard of living.
+- Trade openness index: Slovenia has a high trade openness index, with trade (exports and imports) accounting for around 153% of GDP, demonstrating significant integration into the global economy.
+- Foreign direct investment (FDI) inflows: Slovenia attracts considerable FDI, with inflows totaling approximately $1.2 billion in 2023, reflecting its favorable investment climate and strategic location in Europe.
+
+Social Factors (S)
+
+- Education index: Slovenia has a high education index, with an average of 12.5 years of schooling and a literacy rate close to 100%. The country ranks well in education quality globally.
+- Healthcare quality index: Slovenia's healthcare system is ranked 21st in the world according to the Health Care Index 2023, indicating high-quality healthcare services and outcomes.
+- Human development index (HDI): Slovenia has an HDI score of 0.917, placing it in the very high human development category. This reflects significant achievements in health, education, and standard of living.
+
+Cultural Factors (C)
+
+- Cultural proximity index: According to Hofstede's cultural dimensions, Slovenia scores high on individualism and uncertainty avoidance, reflecting its cultural characteristics and similarities with other Central European countries.
+- Language similarity index: Slovenian is the official language, closely related to other South Slavic languages. Multilingualism is common, with many Slovenians fluent in English, German, and Italian.
+- Cross-cultural communication adaptability: Slovenia ranks high in cross-cultural communication adaptability, with a population well-versed in multiple languages and cultural norms, facilitating effective international interactions.
+
+Environmental Factors (Env)
+
+- Environmental performance index: Slovenia ranks 18th globally on the Environmental Performance Index 2023, showcasing strong environmental policies and performance, particularly in biodiversity and habitat.
+- Carbon footprint per capita: Slovenia's carbon footprint is approximately 7.5 metric tons per capita, reflecting ongoing efforts to reduce emissions through renewable energy and sustainability initiatives.
+- Renewable energy usage percentage: Slovenia generates about 22% of its energy from renewable sources, with significant investments in hydropower, solar, and wind energy.

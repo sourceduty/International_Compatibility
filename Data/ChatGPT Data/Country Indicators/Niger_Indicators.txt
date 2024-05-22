@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International Agreements Participation: Niger has recently signed economic and health cooperation agreements with Iran. Additionally, the country has suspended military cooperation agreements with the United States and the European Union following a coup in July 2023. Niger's participation in regional and international agreements has been significantly impacted by the recent political upheaval.
+- Political Stability Index: Niger has experienced considerable political instability, especially following the military coup in July 2023. This has led to a suspension of democratic institutions and widespread political unrest.
+- Corruption Perception Index: Niger is perceived to have high levels of corruption. Transparency International's Corruption Perceptions Index ranks Niger 123rd out of 180 countries in 2022, indicating significant corruption issues.
+
+Economic Factors (E)
+
+- GDP per Capita: Niger's GDP per capita is approximately $570 USD as of the latest data. The country remains one of the poorest in the world, with economic conditions exacerbated by political instability and sanctions.
+- Trade Openness Index: The recent lifting of ECOWAS sanctions is expected to reopen trade routes and restore economic activities. This will likely improve Niger's trade openness index in the future.
+- Foreign Direct Investment (FDI) Inflows: FDI inflows have been negatively affected by political instability and recent sanctions. However, new cooperation agreements with countries like Iran suggest potential for future investments.
+
+Social Factors (S)
+
+- Education Index: Niger faces significant challenges in education, with low literacy rates and limited access to educational resources. The country's education index reflects these ongoing difficulties.
+- Healthcare Quality Index: Healthcare quality in Niger is relatively low, with severe disparities in access to medical services, particularly in rural areas. Recent cooperation agreements with Iran aim to improve healthcare infrastructure.
+- Human Development Index (HDI): Niger's HDI is 0.394, placing it among the lowest in the world. This low HDI reflects challenges in health, education, and income.
+
+Cultural Factors (C)
+
+- Cultural Proximity Index: Niger shares cultural dimensions with other West African countries, exhibiting high levels of collectivism and power distance, as reflected in Hofstede's cultural dimensions.
+- Language Similarity Index: French is the official language of Niger, which facilitates cultural and linguistic proximity with other Francophone countries in Africa.
+- Cross-cultural Communication Adaptability: Nigeriens generally exhibit adaptability in cross-cultural communication, influenced by traditional values and multilingualism.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index: Niger ranks low on the Environmental Performance Index, struggling with issues like deforestation, desertification, and limited access to clean water.
+- Carbon Footprint per Capita: Niger's carbon footprint per capita is low, primarily due to its limited industrial activity. However, environmental degradation remains a significant concern.
+- Renewable Energy Usage Percentage: Niger has a low percentage of renewable energy usage, relying heavily on imported energy. Efforts to develop renewable energy sources are ongoing but face significant challenges.

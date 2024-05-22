@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Set to join WTO and in process of acceding to ASEAN, enhancing trade and investment frameworks.
+
+Political Stability Index
+- Improved political stability since independence, with government maintaining order through national police and military.
+
+Corruption Perception Index
+- Significant corruption challenges affecting various sectors.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $2,050 USD.
+
+Trade Openness Index
+- Increasing trade openness through WTO membership and ASEAN accession.
+
+Foreign Direct Investment (FDI) Inflows
+- Relatively low but expected to grow with improved trade policies and investment climate.
+
+Social Factors (S)
+
+Education Index
+- Progress in improving education with ongoing challenges, particularly in rural areas.
+
+Healthcare Quality Index
+- Challenges in healthcare quality and accessibility, with efforts to improve services.
+
+Human Development Index (HDI)
+- Low HDI reflecting challenges in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High power distance and collectivism.
+
+Language Similarity Index
+- Tetum and Portuguese are official languages; English and Indonesian also used.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse linguistic and cultural heritage.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Challenges in environmental management with ongoing improvement efforts.
+
+Carbon Footprint per Capita
+- Relatively low carbon footprint.
+
+Renewable Energy Usage Percentage
+- Significant potential for renewable energy, particularly solar and hydroelectric power.

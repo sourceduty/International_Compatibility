@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Active involvement in international agreements, including a recent trilateral agreement to improve migrant worker conditions and several free trade agreements.
+
+Political Stability Index
+- Moderate political stability with occasional unrest.
+
+Corruption Perception Index
+- Ongoing challenges with corruption affecting various sectors.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $7,189 USD.
+
+Trade Openness Index
+- Highly open to international trade, with streamlined processes for imports and exports.
+
+Foreign Direct Investment (FDI) Inflows
+- Substantial FDI, particularly in manufacturing, technology, and renewable energy.
+
+Social Factors (S)
+
+Education Index
+- Significant investments in education with ongoing disparities between urban and rural areas.
+
+Healthcare Quality Index
+- Recognized for quality and accessibility with universal healthcare coverage.
+
+Human Development Index (HDI)
+- High HDI reflecting progress in health, education, and income levels.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High power distance and collectivism.
+
+Language Similarity Index
+- Thai as the official language with similarities to Lao; English widely used in business and tourism.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse population and strong tourism industry.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Challenges in deforestation, pollution, and waste management with ongoing improvement efforts.
+
+Carbon Footprint per Capita
+- Moderate carbon footprint with efforts to reduce emissions.
+
+Renewable Energy Usage Percentage
+- Significant investments in renewable energy, particularly solar and wind power.

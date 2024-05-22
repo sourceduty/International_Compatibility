@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International Agreements Participation:
+  Rwanda is actively involved in numerous international agreements, including the United Nations, the African Union, the East African Community, and the Commonwealth. Rwanda has signed the European Union-East African Community Economic Partnership Agreement and various bilateral agreements, particularly focusing on trade, environmental protection, and regional cooperation.
+
+- Political Stability Index:
+  Rwanda maintains a relatively stable political environment. According to the World Bank's political stability index, Rwanda has shown significant resilience, although challenges remain due to regional conflicts and governance issues.
+
+- Corruption Perception Index:
+  Rwanda ranks 49th out of 180 countries in Transparency International's Corruption Perception Index 2022, reflecting its efforts to combat corruption and enhance transparency.
+
+Economic Factors (E)
+
+- GDP per Capita:
+  As of 2022, Rwanda's GDP per capita is approximately $820, reflecting its status as a low-income country with ongoing efforts to improve its economic situation (World Bank).
+
+- Trade Openness Index:
+  Rwanda has a high trade openness index, facilitated by its membership in regional trade blocs like the East African Community (EAC) and the Common Market for Eastern and Southern Africa (COMESA). Trade constitutes a significant portion of its GDP.
+
+- Foreign Direct Investment (FDI) Inflows:
+  In 2022, Rwanda attracted about $500 million in FDI, driven by investments in sectors such as energy, agriculture, and manufacturing (World Bank).
+
+Social Factors (S)
+
+- Education Index:
+  Rwanda has an Education Index score of 0.512, indicating ongoing improvements in educational attainment and access to education (UNDP).
+
+- Healthcare Quality Index:
+  The healthcare system in Rwanda scores 51.2 on the Healthcare Access and Quality Index, showing progress but also highlighting the need for continued development.
+
+- Human Development Index (HDI):
+  Rwanda ranks 160th globally with an HDI of 0.543, reflecting medium human development levels with significant room for improvement (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural Proximity Index:
+  Based on Hofstede's cultural dimensions, Rwanda scores high on collectivism and power distance, reflecting a society with strong community ties and hierarchical structures.
+
+- Language Similarity Index:
+  Kinyarwanda, French, and English are official languages in Rwanda, facilitating communication within the country and with other Francophone and Anglophone nations.
+
+- Cross-cultural Communication Adaptability:
+  Rwandans exhibit high adaptability in cross-cultural communication, influenced by their multilingual capabilities and historical interactions with various cultures.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index:
+  Rwanda scores 51.3 in the Environmental Performance Index (EPI) 2022, indicating moderate performance with ongoing efforts to improve environmental sustainability.
+
+- Carbon Footprint per Capita:
+  Rwanda’s carbon footprint per capita is relatively low at approximately 0.7 metric tons of CO2 (World Bank, 2021), reflecting its low industrial base.
+
+- Renewable Energy Usage Percentage:
+  About 48% of Rwanda’s energy consumption comes from renewable sources, primarily hydropower, highlighting the country’s commitment to sustainable energy practices.

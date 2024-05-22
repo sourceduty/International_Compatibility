@@ -1,0 +1,25 @@
+Political Factors (P):
+  - International agreements participation: Yes
+  - Political stability index: -1.5 (on a scale of -2.5 to 2.5)
+  - Corruption perception index: 32 (2023)
+
+Economic Factors (E):
+  - GDP per capita: $4,157 (2023)
+  - Trade openness index: 75.4 (2023)
+  - Foreign direct investment (FDI) inflows: $3.5 billion (2022)
+
+Social Factors (S):
+  - Education index: 0.788 (2023)
+  - Healthcare quality index: 55.2 (2023)
+  - Human development index (HDI): 0.773 (2023)
+
+Cultural Factors (C):
+  - Cultural proximity index: Medium (Hofstede's dimensions)
+  - Language similarity index: Ukrainian (official), Russian (widely spoken)
+  - Cross-cultural communication adaptability: High
+
+Environmental Factors (Env):
+  - Environmental performance index: 44.3 (2022)
+  - Carbon footprint per capita: 4.5 metric tons (2023)
+  - Renewable energy usage percentage: 13% (2023)
+

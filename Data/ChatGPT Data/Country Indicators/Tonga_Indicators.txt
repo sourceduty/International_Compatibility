@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Engaged in various international agreements and partnerships, including with the United Nations on sustainable development goals.
+
+Political Stability Index
+- Relatively stable political environment with ongoing governance challenges.
+
+Corruption Perception Index
+- Corruption remains a concern, affecting public trust and governance efficiency.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $4,000 USD.
+
+Trade Openness Index
+- Moderately open to international trade with several regional agreements in place.
+
+Foreign Direct Investment (FDI) Inflows
+- Relatively low FDI inflows, with efforts to improve the investment climate.
+
+Social Factors (S)
+
+Education Index
+- Progress in education with ongoing challenges, particularly in rural areas.
+
+Healthcare Quality Index
+- Improving healthcare with significant investments in quality and accessibility.
+
+Human Development Index (HDI)
+- Moderate HDI, with improvements in health, education, and income levels.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High power distance and collectivism.
+
+Language Similarity Index
+- Tongan is the official language, with English widely used in education and government.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse cultural heritage and community ties.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Challenges in environmental management with ongoing improvement efforts.
+
+Carbon Footprint per Capita
+- Relatively low carbon footprint.
+
+Renewable Energy Usage Percentage
+- Significant potential for renewable energy, particularly solar and wind power.

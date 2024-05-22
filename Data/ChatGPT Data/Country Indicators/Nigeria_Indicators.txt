@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International Agreements Participation: Nigeria is an active participant in numerous international agreements, including the African Continental Free Trade Area (AfCFTA), the African Growth and Opportunity Act (AGOA), and it has signed a Joint Declaration on Cooperation with the European Free Trade Area (EFTA).
+- Political Stability Index: Nigeria's political stability index score is -2.13 (on a scale from -2.5 to 2.5, where lower scores indicate less stability) according to the World Bank's 2022 data.
+- Corruption Perception Index: Nigeria scores 24 out of 100 on the Corruption Perceptions Index 2022, ranking 150 out of 180 countries.
+
+Economic Factors (E)
+
+- GDP per Capita: Nigeria's GDP per capita is approximately $2,097 (World Bank, 2022).
+- Trade Openness Index: Nigeria's trade openness, measured as the ratio of trade (exports + imports) to GDP, is around 32% (World Bank, 2022).
+- Foreign Direct Investment (FDI) Inflows: In 2022, Nigeria attracted FDI inflows of approximately $2.6 billion (UNCTAD, 2023).
+
+Social Factors (S)
+
+- Education Index: Nigeria's Education Index, as part of the Human Development Index, is 0.498 (UNDP, 2022).
+- Healthcare Quality Index: The Healthcare Quality Index score for Nigeria is approximately 43.2 (Healthcare Access and Quality Index, 2023).
+- Human Development Index (HDI): Nigeria's HDI is 0.539, ranking 163 out of 191 countries (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural Proximity Index (Hofstede's Cultural Dimensions): Nigeria scores high on Power Distance (80), moderately on Individualism (30), and low on Uncertainty Avoidance (55), showing a hierarchical society with collective tendencies and moderate comfort with uncertainty (Hofstede Insights).
+- Language Similarity Index: Nigeria's primary language is English, which shares high similarity with other English-speaking countries, enhancing communication and cultural exchange.
+- Cross-Cultural Communication Adaptability: Nigerians are generally adaptable in cross-cultural communication due to a high degree of linguistic and cultural diversity within the country.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index: Nigeria ranks 168 out of 180 countries with a score of 33.7 on the Environmental Performance Index 2022.
+- Carbon Footprint per Capita: Nigeria's carbon footprint per capita is approximately 0.61 metric tons (World Bank, 2022).
+- Renewable Energy Usage Percentage: Nigeria's renewable energy consumption as a percentage of total energy consumption is about 13% (IEA, 2022).

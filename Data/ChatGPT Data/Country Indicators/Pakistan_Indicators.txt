@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation:
+  Pakistan is a participant in several international agreements, including those related to trade, environment, and human rights. Recently, Pakistan and Germany signed agreements worth 45 million euros aimed at supporting renewable energy and vocational training. Pakistan also engages actively with China under the China-Pakistan Economic Corridor (CPEC), marking significant bilateral cooperation.
+
+- Political stability index:
+  According to the World Bank's Political Stability and Absence of Violence/Terrorism Index, Pakistan scores low, indicating significant challenges in political stability.
+
+- Corruption perception index:
+  Transparency International's Corruption Perceptions Index (CPI) for 2023 ranks Pakistan 140 out of 180 countries, highlighting persistent issues with corruption.
+
+Economic Factors (E)
+
+- GDP per capita:
+  As of the latest data from the World Bank, Pakistan's GDP per capita is approximately USD 1,539.
+
+- Trade openness index:
+  The Trade Openness Index, which measures the ratio of a country's total trade (exports + imports) to its GDP, is around 30%.
+
+- Foreign direct investment (FDI) inflows:
+  FDI inflows to Pakistan were approximately USD 2.2 billion in 2023, reflecting a mixed trend influenced by various economic policies and regional stability.
+
+Social Factors (S)
+
+- Education index:
+  According to the United Nations Development Programme (UNDP), Pakistan's Education Index score is 0.401, indicating significant room for improvement in education quality and accessibility.
+
+- Healthcare quality index:
+  The Healthcare Access and Quality (HAQ) Index places Pakistan in the lower half globally, reflecting challenges in healthcare service delivery and access.
+
+- Human development index (HDI):
+  Pakistan's HDI for 2023 is 0.557, ranking it 154 out of 189 countries, indicating medium human development but highlighting critical areas needing attention such as health and education.
+
+Cultural Factors (C)
+
+- Cultural proximity index:
+  Using Hofstede's cultural dimensions, Pakistan scores high on power distance and masculinity, indicating a hierarchical society with traditional gender roles.
+
+- Language similarity index:
+  Pakistan's official languages are Urdu and English, with a high degree of linguistic diversity among its regional languages. The similarity to other South Asian languages is notable.
+
+- Cross-cultural communication adaptability:
+  Pakistan demonstrates moderate adaptability in cross-cultural communication, influenced by its colonial history and diverse ethnic composition.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  Pakistan ranks 169 out of 180 in the Environmental Performance Index (EPI) 2022, indicating significant environmental challenges, particularly in air quality and biodiversity.
+
+- Carbon footprint per capita:
+  Pakistan's carbon footprint per capita is relatively low at approximately 1 metric ton per year, reflecting its lower industrial base and higher reliance on agriculture.
+
+- Renewable energy usage percentage:
+  Renewable energy accounts for about 6% of Pakistan's total energy consumption, with ongoing efforts to increase this share through investments in hydro, solar, and wind energy projects.

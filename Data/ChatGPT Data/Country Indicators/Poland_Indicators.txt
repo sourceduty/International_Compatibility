@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation:
+  Poland is a highly active member of several significant international organizations. The country is part of NATO and the European Union, which it joined in 1999 and 2004, respectively. Poland is also a participant in the Paris Agreement, emphasizing its commitment to global climate change mitigation efforts.
+
+- Political stability index:
+  Poland has faced challenges in political stability, with issues such as judicial reforms and political polarization affecting its stability index. The latest data from the World Bank indicates a score reflecting these challenges.
+
+- Corruption perception index:
+  According to Transparency International's Corruption Perception Index 2022, Poland ranks 45th out of 180 countries, highlighting moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per capita:
+  Poland's GDP per capita is approximately $19,000 (World Bank, 2022), reflecting its status as one of the largest and most dynamic economies in Central Europe.
+
+- Trade openness index:
+  Poland has a high trade openness index due to its significant export and import activities within the EU and globally. The country is known for its strong industrial and agricultural sectors.
+
+- Foreign direct investment (FDI) inflows:
+  In 2022, Poland attracted about $24 billion in FDI, reflecting its favorable investment climate and strategic location in Europe (World Bank).
+
+Social Factors (S)
+
+- Education index:
+  Poland has an Education Index score of 0.780, indicating a high level of educational attainment and access (UNDP).
+
+- Healthcare quality index:
+  The healthcare system in Poland scores well, with a Healthcare Access and Quality Index score of 75.1, showing robust healthcare services.
+
+- Human development index (HDI):
+  Poland ranks 35th globally with an HDI of 0.880, indicating very high human development levels (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural proximity index:
+  Poland’s cultural dimensions, based on Hofstede's framework, show high individualism and moderate power distance, reflecting a society with significant personal freedom and hierarchical structures.
+
+- Language similarity index:
+  Polish is the official language, which shares linguistic roots with other Slavic languages, enhancing regional communication.
+
+- Cross-cultural communication adaptability:
+  Poles are known for their adaptability in cross-cultural communication, influenced by their historical interactions with various European cultures.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  Poland scores 54.3 in the Environmental Performance Index (EPI) 2022, indicating moderate performance in environmental sustainability but facing challenges in air quality and emissions control.
+
+- Carbon footprint per capita:
+  Poland’s carbon footprint per capita is relatively high at approximately 7.8 metric tons of CO2 (World Bank, 2021), due to its reliance on coal for energy.
+
+- Renewable energy usage percentage:
+  About 15% of Poland’s energy consumption comes from renewable sources, primarily wind and solar power, reflecting efforts to diversify its energy mix (IRENA, 2022).

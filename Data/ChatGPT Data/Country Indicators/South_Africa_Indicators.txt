@@ -1,0 +1,27 @@
+
+South Africa: Key Indicators
+
+Political Factors (P)
+1. International Agreements Participation: Party to numerous agreements including the Antarctic Treaty, Biodiversity, Climate Change (Kyoto Protocol and Paris Agreement), Endangered Species.
+2. Political Stability Index: -0.27 in 2022.
+3. Corruption Perception Index: Score of 44/100 in 2022, ranked 69th out of 180 countries.
+
+Economic Factors (E)
+1. GDP per Capita: $6,994 in 2022.
+2. Trade Openness Index: 59.1% in 2022.
+3. Foreign Direct Investment (FDI) Inflows: $4.6 billion in 2022.
+
+Social Factors (S)
+1. Education Index: 6.6% of GDP spent on education; literacy rate 95%; school life expectancy 13 years.
+2. Healthcare Quality Index: Ranked 49th globally, score of 63.4/100 in 2020.
+3. Human Development Index (HDI): 0.709 in 2022, ranked 114th out of 189 countries.
+
+Cultural Factors (C)
+1. Cultural Proximity Index: High level of collectivism, moderate power distance.
+2. Language Similarity Index: 11 official languages including English.
+3. Cross-Cultural Communication Adaptability: High adaptability due to diverse cultural history.
+
+Environmental Factors (Env)
+1. Environmental Performance Index: 43.1/100 in 2022, ranked 102nd globally.
+2. Carbon Footprint per Capita: 8.2 metric tons per capita in 2022.
+3. Renewable Energy Usage Percentage: 11% in 2022.

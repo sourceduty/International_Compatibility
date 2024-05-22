@@ -1,0 +1,40 @@
+
+**Political Factors (P)**
+
+1. **International agreements participation**: Saudi Arabia participates in numerous international agreements, including membership in the United Nations, World Trade Organization, and various bilateral and multilateral trade agreements. Recently, Saudi Arabia signed a Memorandum of Understanding with the OECD to enhance cooperation on public policy initiatives, including economy, corporate governance, and sustainability.
+
+2. **Political stability index**: According to the World Bank’s Worldwide Governance Indicators, Saudi Arabia's political stability index for 2022 stands at -0.36 (on a scale from -2.5 to 2.5, with higher values indicating greater stability).
+
+3. **Corruption perception index**: The Transparency International Corruption Perception Index (CPI) ranks Saudi Arabia 52nd out of 180 countries, with a score of 53/100 for 2023.
+
+**Economic Factors (E)**
+
+1. **GDP per capita**: As of 2022, Saudi Arabia’s GDP per capita (PPP) is approximately $48,000, according to the International Monetary Fund (IMF).
+
+2. **Trade openness index**: The World Bank reports that Saudi Arabia's trade openness index (sum of exports and imports as a percentage of GDP) for 2022 is 69.2%.
+
+3. **Foreign direct investment (FDI) inflows**: According to UNCTAD, Saudi Arabia received $19 billion in FDI inflows in 2022.
+
+**Social Factors (S)**
+
+1. **Education index**: The UNDP Human Development Index (HDI) places Saudi Arabia’s education index at 0.7, reflecting high enrollment in primary, secondary, and tertiary education.
+
+2. **Healthcare quality index**: According to the World Health Organization (WHO), Saudi Arabia has a healthcare index score of 72.4, reflecting access to quality healthcare services.
+
+3. **Human development index (HDI)**: The UNDP’s HDI for Saudi Arabia is 0.854 in 2023, categorizing it as a "Very High" human development country.
+
+**Cultural Factors (C)**
+
+1. **Cultural proximity index**: Utilizing Hofstede's cultural dimensions, Saudi Arabia scores highly in power distance (95) and uncertainty avoidance (80), indicating a hierarchical society with low tolerance for uncertainty.
+
+2. **Language similarity index**: Arabic is the official language of Saudi Arabia, with significant linguistic homogeneity within the country.
+
+3. **Cross-cultural communication adaptability**: Saudi Arabia scores relatively low on the individualism index (25), indicating a collectivist culture that may impact cross-cultural communication adaptability.
+
+**Environmental Factors (Env)**
+
+1. **Environmental performance index**: The 2022 Environmental Performance Index (EPI) by Yale University ranks Saudi Arabia 90th out of 180 countries, with a score of 55.7.
+
+2. **Carbon footprint per capita**: As of 2022, Saudi Arabia’s carbon footprint per capita is approximately 16.2 metric tons of CO2.
+
+3. **Renewable energy usage percentage**: Saudi Arabia aims to produce 50% of its energy from renewable sources by 2030. As of 2022, renewable energy accounts for about 0.6% of the total energy mix.

@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Active participant in numerous international agreements and organizations. Recently opened negotiations with the EU and signed a framework agreement with Zambia.
+
+Political Stability Index
+- Known for high political stability supported by robust democratic governance.
+
+Corruption Perception Index
+- Among the least corrupt countries globally, with a strong legal framework and transparent governance.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $86,000 USD.
+
+Trade Openness Index
+- Highly open to international trade, benefiting from numerous free trade agreements.
+
+Foreign Direct Investment (FDI) Inflows
+- Attracts substantial FDI, particularly in financial services, pharmaceuticals, and technology.
+
+Social Factors (S)
+
+Education Index
+- High education index with a strong emphasis on quality education and research.
+
+Healthcare Quality Index
+- High-quality healthcare system with excellent outcomes.
+
+Human Development Index (HDI)
+- Very high HDI, reflecting excellent outcomes in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- Low power distance, high individualism, and high uncertainty avoidance.
+
+Language Similarity Index
+- Four national languages (German, French, Italian, Romansh) facilitating communication and cultural exchange.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse population and strong tradition of international cooperation.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Leader in environmental performance, excelling in air quality, biodiversity, and sustainability.
+
+Carbon Footprint per Capita
+- Moderate carbon footprint for a developed country.
+
+Renewable Energy Usage Percentage
+- Significant portion of energy from hydroelectric power, with growing investments in solar and wind energy.

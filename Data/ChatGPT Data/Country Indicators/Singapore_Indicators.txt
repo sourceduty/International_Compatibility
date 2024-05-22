@@ -1,0 +1,57 @@
+
+Indicators for Singapore
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   - Singapore is a signatory to numerous international agreements, including over 15 Free Trade Agreements (FTAs), Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and Digital Economy Agreements (DEAs).
+
+2. Political Stability Index:
+   - According to the World Bank's Worldwide Governance Indicators (WGI), Singapore has a high political stability index, consistently scoring in the upper percentiles.
+
+3. Corruption Perception Index:
+   - Singapore is ranked 5th in the Corruption Perceptions Index (CPI) 2022 by Transparency International, indicating very low levels of perceived public sector corruption.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   - As of 2022, Singapore's GDP per capita is approximately USD 72,794 (World Bank).
+
+2. Trade Openness Index:
+   - Singapore ranks high in trade openness, with an index score of 1.0 (where 1 indicates complete openness) according to the Heritage Foundation's 2023 Index of Economic Freedom.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   - In 2022, Singapore attracted USD 114 billion in FDI inflows, making it one of the top recipients of FDI globally (UNCTAD).
+
+Social Factors (S)
+
+1. Education Index:
+   - Singapore has a very high Education Index, reflecting its strong education system and high literacy rates. The Human Development Report 2022 assigns Singapore a score of 0.939 in the Education Index.
+
+2. Healthcare Quality Index:
+   - According to the World Health Organization (WHO), Singapore's healthcare system ranks among the best globally, with high scores in the Global Health Security Index.
+
+3. Human Development Index (HDI):
+   - Singapore ranks 12th globally in the Human Development Index (HDI) 2022 with a score of 0.935.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   - According to Hofstede's cultural dimensions, Singapore scores high in power distance and long-term orientation, but low in uncertainty avoidance and indulgence.
+
+2. Language Similarity Index:
+   - Singapore has a high language similarity index due to its multilingual policies and English as a common working language.
+
+3. Cross-Cultural Communication Adaptability:
+   - Singapore's diverse population and international business environment foster high adaptability in cross-cultural communication.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   - Singapore ranks 39th in the Environmental Performance Index (EPI) 2022 with a score of 63.6, reflecting its efforts in environmental sustainability.
+
+2. Carbon Footprint per Capita:
+   - As of 2021, Singapore's carbon footprint per capita is approximately 9.8 metric tons of CO2 (Global Carbon Atlas).
+
+3. Renewable Energy Usage Percentage:
+   - Renewable energy accounts for about 5.9% of Singapore's total energy consumption as of 2022 (IEA).

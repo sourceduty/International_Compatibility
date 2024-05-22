@@ -1,0 +1,25 @@
+Political Factors (P):
+  - International agreements participation: Yes
+  - Political stability index: -2.5 (on a scale of -2.5 to 2.5)
+  - Corruption perception index: 15 (2023)
+
+Economic Factors (E):
+  - GDP per capita: $745 (2023)
+  - Trade openness index: 23.7 (2023)
+  - Foreign direct investment (FDI) inflows: $250 million (2022)
+
+Social Factors (S):
+  - Education index: 0.398 (2023)
+  - Healthcare quality index: 33.1 (2023)
+  - Human development index (HDI): 0.482 (2023)
+
+Cultural Factors (C):
+  - Cultural proximity index: Low (Hofstede's dimensions)
+  - Language similarity index: Arabic (official)
+  - Cross-cultural communication adaptability: Low
+
+Environmental Factors (Env):
+  - Environmental performance index: 25.2 (2022)
+  - Carbon footprint per capita: 0.5 metric tons (2023)
+  - Renewable energy usage percentage: 1% (2023)
+

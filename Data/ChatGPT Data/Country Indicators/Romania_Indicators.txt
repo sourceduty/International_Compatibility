@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International Agreements Participation:
+  Romania is an active participant in numerous international agreements. It is a member of the European Union, NATO, and the United Nations. The country has signed various bilateral and multilateral treaties, focusing on areas such as trade, environmental protection, and security cooperation. Notably, Romania participates in the European Green Deal and is committed to international environmental agreements like the Paris Agreement.
+
+- Political Stability Index:
+  Romania has experienced moderate political stability with occasional challenges due to political and social issues. The World Bank's political stability index reflects these dynamics, indicating some instability but overall resilience.
+
+- Corruption Perception Index:
+  According to Transparency International's Corruption Perceptions Index 2022, Romania ranks 63rd out of 180 countries, indicating moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per Capita:
+  Romania's GDP per capita is approximately $14,861 as of 2022, reflecting its growing economy and improving living standards.
+
+- Trade Openness Index:
+  Romania has a high trade openness index, engaging extensively in international trade. The country's trade as a percentage of GDP is significant, supported by its strategic location and integration into the EU market.
+
+- Foreign Direct Investment (FDI) Inflows:
+  In 2022, Romania attracted about $7.2 billion in FDI, reflecting a favorable investment climate driven by its strategic location and economic reforms.
+
+Social Factors (S)
+
+- Education Index:
+  Romania has an Education Index score of 0.700, indicating moderate educational attainment and access to education.
+
+- Healthcare Quality Index:
+  The healthcare system in Romania scores 67.1 on the Healthcare Access and Quality Index, showing room for improvement in healthcare services and access.
+
+- Human Development Index (HDI):
+  Romania ranks 49th globally with an HDI of 0.828, indicating high human development levels, supported by improvements in life expectancy, education, and income.
+
+Cultural Factors (C)
+
+- Cultural Proximity Index:
+  Based on Hofstede's cultural dimensions, Romania scores high on collectivism and power distance, reflecting a society with strong familial ties and hierarchical structures.
+
+- Language Similarity Index:
+  Romanian is the official language and is closely related to other Romance languages, facilitating communication within the Romance language family.
+
+- Cross-cultural Communication Adaptability:
+  Romanians are known for their adaptability in cross-cultural communication, influenced by historical interactions with various European cultures and the multicultural makeup of the country.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index:
+  Romania scores 55.6 in the Environmental Performance Index (EPI) 2022, indicating moderate performance in environmental sustainability but facing challenges in areas such as air quality and waste management.
+
+- Carbon Footprint per Capita:
+  Romania’s carbon footprint per capita is approximately 3.9 metric tons of CO2 as of 2021, reflecting its energy consumption patterns and efforts to reduce emissions.
+
+- Renewable Energy Usage Percentage:
+  About 25% of Romania’s energy consumption comes from renewable sources, primarily hydro and wind power, highlighting the country’s commitment to sustainable energy practices.

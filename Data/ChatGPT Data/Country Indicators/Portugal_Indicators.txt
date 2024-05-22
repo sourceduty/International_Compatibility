@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International Agreements Participation:
+  Portugal is an active member of numerous international agreements, including the European Union, NATO, and the United Nations. The country has also signed various bilateral agreements with Brazil covering energy, geology, mining, and biomedical cooperation.
+
+- Political Stability Index:
+  Portugal maintains a stable political environment. According to the World Bank, the country's political stability index score is relatively high, indicating a secure and stable political climate.
+
+- Corruption Perception Index:
+  In Transparency International's Corruption Perception Index 2022, Portugal ranks 33rd out of 180 countries, reflecting moderate levels of corruption.
+
+Economic Factors (E)
+
+- GDP per Capita:
+  Portugal's GDP per capita is approximately $23,319 (World Bank, 2022).
+
+- Trade Openness Index:
+  Portugal has a high trade openness index, engaging significantly in international trade, especially with European and North American countries. The country's trade as a percentage of GDP is substantial due to its robust export and import activities.
+
+- Foreign Direct Investment (FDI) Inflows:
+  In 2022, Portugal attracted around $5.4 billion in FDI, reflecting its favorable investment climate and strategic location in Europe (World Bank).
+
+Social Factors (S)
+
+- Education Index:
+  Portugal has an Education Index score of 0.796, reflecting high levels of educational attainment and access (UNDP).
+
+- Healthcare Quality Index:
+  The healthcare system in Portugal is well-developed, with a Healthcare Access and Quality Index score of 80.3, indicating strong healthcare services.
+
+- Human Development Index (HDI):
+  Portugal ranks 38th globally with an HDI of 0.864, indicating very high human development levels (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural Proximity Index:
+  Portugal’s cultural dimensions, based on Hofstede's framework, show high individualism and low power distance, reflecting a society with significant personal freedom and flat hierarchical structures.
+
+- Language Similarity Index:
+  Portuguese is the official language of Portugal, closely related to other Romance languages, facilitating communication within the Lusophone world.
+
+- Cross-cultural Communication Adaptability:
+  The Portuguese are known for their adaptability in cross-cultural communication, influenced by their historical connections and global diaspora.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index:
+  Portugal scores 65.3 in the Environmental Performance Index (EPI) 2022, indicating strong performance in environmental sustainability efforts, particularly in renewable energy and waste management.
+
+- Carbon Footprint per Capita:
+  Portugal’s carbon footprint per capita is relatively moderate at approximately 4.7 metric tons of CO2 (World Bank, 2021).
+
+- Renewable Energy Usage Percentage:
+  About 30% of Portugal’s energy consumption comes from renewable sources, primarily wind and solar power, reflecting the country’s commitment to sustainable energy practices (IRENA, 2022).

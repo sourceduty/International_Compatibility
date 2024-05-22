@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Limited participation due to internal instability and external sanctions.
+
+Political Stability Index
+- Extremely low political stability due to prolonged civil war and ongoing conflicts.
+
+Corruption Perception Index
+- Considered one of the most corrupt countries globally.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $870 USD.
+
+Trade Openness Index
+- Severely restricted by international sanctions and ongoing conflict.
+
+Foreign Direct Investment (FDI) Inflows
+- Minimal due to high-risk environment and economic sanctions.
+
+Social Factors (S)
+
+Education Index
+- Severely damaged education system with limited access to education.
+
+Healthcare Quality Index
+- Dire state of healthcare due to destruction of facilities and shortage of supplies.
+
+Human Development Index (HDI)
+- Low HDI reflecting significant challenges in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High power distance and collectivism, similar to other Arab nations.
+
+Language Similarity Index
+- Arabic is the official language, facilitating regional communication.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse ethnic and cultural composition.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Numerous environmental challenges exacerbated by ongoing conflict.
+
+Carbon Footprint per Capita
+- Relatively low due to reduced industrial activity.
+
+Renewable Energy Usage Percentage
+- Limited focus on renewable energy development.

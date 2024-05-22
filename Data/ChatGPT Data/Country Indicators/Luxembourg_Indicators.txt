@@ -1,0 +1,27 @@
+
+Indicators for Luxembourg
+
+Political Factors (P)
+- International agreements participation: Luxembourg is actively involved in numerous international agreements, particularly within the European Union and United Nations frameworks. It participates in treaties related to trade, climate change, and human rights, among others.
+- Political stability index: Luxembourg ranks highly on the Political Stability Index, reflecting its consistent political environment and low levels of violence and terrorism.
+- Corruption perception index: Luxembourg scores well on the Corruption Perceptions Index, indicating a low level of perceived corruption in the public sector.
+
+Economic Factors (E)
+- GDP per capita: Luxembourg has one of the highest GDP per capita in the world, estimated at around $131,000 in 2022, reflecting its prosperous economy.
+- Trade openness index: The country's trade openness index is high due to its small size and significant reliance on international trade.
+- Foreign direct investment (FDI) inflows: Luxembourg attracts substantial FDI inflows, with a notable increase in recent years due to its favorable business environment and strategic location in Europe.
+
+Social Factors (S)
+- Education index: Luxembourg scores highly on the education index, with a strong emphasis on multilingual education and high literacy rates.
+- Healthcare quality index: The healthcare system in Luxembourg is of high quality, with extensive coverage and high expenditure per capita.
+- Human development index (HDI): Luxembourg ranks very high on the HDI, indicating excellent standards in health, education, and income.
+
+Cultural Factors (C)
+- Cultural proximity index (e.g., Hofstede's cultural dimensions): Luxembourg displays a unique cultural mix influenced by its diverse population and multilingual environment.
+- Language similarity index: Luxembourgish, French, and German are official languages, facilitating cross-cultural communication within Europe.
+- Cross-cultural communication adaptability: Luxembourg's population is highly adaptable to cross-cultural communication due to its multilingual education system and diverse expatriate community.
+
+Environmental Factors (Env)
+- Environmental performance index: Luxembourg ranks highly on the Environmental Performance Index, reflecting its commitment to environmental sustainability and green policies.
+- Carbon footprint per capita: The carbon footprint per capita is moderate, with ongoing efforts to reduce emissions through renewable energy initiatives.
+- Renewable energy usage percentage: Luxembourg is steadily increasing its use of renewable energy, aiming to meet EU targets for sustainable energy usage.

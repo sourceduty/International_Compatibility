@@ -1,0 +1,25 @@
+Political Factors (P):
+  - International agreements participation: Yes
+  - Political stability index: -1.5 (on a scale of -2.5 to 2.5)
+  - Corruption perception index: 24 (2023)
+
+Economic Factors (E):
+  - GDP per capita: $1,300 (2023)
+  - Trade openness index: 40.5 (2023)
+  - Foreign direct investment (FDI) inflows: $280 million (2022)
+
+Social Factors (S):
+  - Education index: 0.520 (2023)
+  - Healthcare quality index: 40.2 (2023)
+  - Human development index (HDI): 0.571 (2023)
+
+Cultural Factors (C):
+  - Cultural proximity index: Medium (Hofstede's dimensions)
+  - Language similarity index: English (official), Shona, Ndebele
+  - Cross-cultural communication adaptability: High
+
+Environmental Factors (Env):
+  - Environmental performance index: 37.0 (2022)
+  - Carbon footprint per capita: 0.9 metric tons (2023)
+  - Renewable energy usage percentage: 33% (2023)
+

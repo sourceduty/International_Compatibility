@@ -1,0 +1,56 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Engaged in international cooperation, including military and security relations with the U.S. and Russia.
+- Preparing for 2024 elections with validated electoral register.
+
+Political Stability Index
+- Efforts to improve political stability with recent credible election preparations.
+
+Corruption Perception Index
+- Significant corruption challenges affecting various sectors.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $2,125 USD.
+
+Trade Openness Index
+- Moderately open to international trade with ongoing policy improvements.
+
+Foreign Direct Investment (FDI) Inflows
+- Attracting FDI in mining, agriculture, and infrastructure sectors.
+
+Social Factors (S)
+
+Education Index
+- Progress in education with ongoing challenges in rural areas.
+
+Healthcare Quality Index
+- Challenges in healthcare quality and accessibility, with efforts to improve services.
+
+Human Development Index (HDI)
+- Low HDI reflecting challenges in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High power distance and collectivism.
+
+Language Similarity Index
+- French as the official language; indigenous languages widely spoken.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse linguistic and cultural heritage.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Challenges in environmental management with ongoing improvement efforts.
+
+Carbon Footprint per Capita
+- Relatively low carbon footprint.
+
+Renewable Energy Usage Percentage
+- Significant potential for renewable energy, particularly solar and wind power.

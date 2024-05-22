@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International Agreements Participation: North Korea is known for its limited participation in international agreements. It has joined a few treaties, such as the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) and the Convention on the Rights of the Child, but its overall engagement is minimal and often contentious.
+- Political Stability Index: North Korea does not have a published Political Stability Index. However, the regime maintains strict control over the population through authoritarian rule, significant military presence, and severe restrictions on freedoms.
+- Corruption Perception Index: Transparency International does not publish a Corruption Perception Index for North Korea. Nevertheless, corruption is reportedly pervasive, with power and resources concentrated in the hands of the elite and widespread bribery at all levels of society.
+
+Economic Factors (E)
+
+- GDP per Capita: North Korea's GDP per capita is estimated to be very low, around $1,700 according to the CIA World Factbook.
+- Trade Openness Index: North Korea's trade is highly restricted due to international sanctions and its self-reliant economic policies. The country's primary trade partners are China and Russia.
+- Foreign Direct Investment (FDI) Inflows: FDI in North Korea is minimal due to its isolationist policies and international sanctions. Most foreign investments come through Chinese partnerships in special economic zones.
+
+Social Factors (S)
+
+- Education Index: North Korea's education system is state-controlled, with a focus on ideological indoctrination. Accurate metrics for the Education Index are unavailable, but education quality is generally considered poor due to limited resources and infrastructure.
+- Healthcare Quality Index: The healthcare system in North Korea is severely under-resourced, leading to poor health outcomes. There are no reliable international metrics available for the Healthcare Quality Index in North Korea.
+- Human Development Index (HDI): The UN does not publish an HDI ranking for North Korea, but it is generally believed to be very low due to poor health, education, and living standards.
+
+Cultural Factors (C)
+
+- Cultural Proximity Index (Hofstede's Cultural Dimensions): Hofstede's cultural dimensions are not available for North Korea. The country maintains a unique culture heavily influenced by its political ideology and isolation.
+- Language Similarity Index: Korean is the official language, with dialectical differences between North and South Korea. The regime emphasizes the use of "pure" Korean and actively suppresses foreign linguistic influences.
+- Cross-Cultural Communication Adaptability: Cross-cultural communication is limited, given the country's isolation and stringent control over information exchange. Adaptability in this area is very low.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index: North Korea does not feature in the Environmental Performance Index (EPI) due to a lack of reliable data. However, environmental degradation is a concern due to deforestation and pollution from industrial activities.
+- Carbon Footprint per Capita: Specific data on North Korea's carbon footprint per capita is unavailable, but it is likely low due to limited industrial activity compared to other nations.
+- Renewable Energy Usage Percentage: North Korea's renewable energy usage is minimal. The country relies heavily on coal and hydropower, with limited development in other renewable sources.

@@ -1,0 +1,25 @@
+Political Factors (P):
+  - International agreements participation: Yes
+  - Political stability index: -0.1 (on a scale of -2.5 to 2.5)
+  - Corruption perception index: 26 (2023)
+
+Economic Factors (E):
+  - GDP per capita: $1,831 (2023)
+  - Trade openness index: 43.5 (2023)
+  - Foreign direct investment (FDI) inflows: $2.0 billion (2022)
+
+Social Factors (S):
+  - Education index: 0.670 (2023)
+  - Healthcare quality index: 52.7 (2023)
+  - Human development index (HDI): 0.720 (2023)
+
+Cultural Factors (C):
+  - Cultural proximity index: Low (Hofstede's dimensions)
+  - Language similarity index: Uzbek (official), Russian (widely spoken)
+  - Cross-cultural communication adaptability: Moderate
+
+Environmental Factors (Env):
+  - Environmental performance index: 47.1 (2022)
+  - Carbon footprint per capita: 3.4 metric tons (2023)
+  - Renewable energy usage percentage: 10% (2023)
+

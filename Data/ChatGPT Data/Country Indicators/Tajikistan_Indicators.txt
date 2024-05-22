@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Active participation in regional and global initiatives, with bilateral agreements with several countries.
+
+Political Stability Index
+- Faces challenges due to internal conflicts and regional tensions.
+
+Corruption Perception Index
+- Significant corruption issues affecting various sectors.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $870 USD.
+
+Trade Openness Index
+- Moderate trade openness with efforts to expand through various agreements.
+
+Foreign Direct Investment (FDI) Inflows
+- Growing FDI, particularly in energy, mining, and infrastructure sectors.
+
+Social Factors (S)
+
+Education Index
+- Gradually improving education system with ongoing challenges.
+
+Healthcare Quality Index
+- Significant challenges in healthcare quality and accessibility.
+
+Human Development Index (HDI)
+- Low HDI reflecting challenges in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High power distance and collectivism.
+
+Language Similarity Index
+- Tajik closely related to Persian and Dari; Russian widely used.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse ethnic composition.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Challenges in environmental management, with ongoing improvement efforts.
+
+Carbon Footprint per Capita
+- Relatively low carbon footprint.
+
+Renewable Energy Usage Percentage
+- Significant potential for renewable energy, particularly hydroelectric power.

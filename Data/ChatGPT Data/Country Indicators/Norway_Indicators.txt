@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation:
+  Norway actively participates in numerous international agreements, including environmental treaties, trade agreements, and human rights conventions. Norway is also involved in mediation efforts in international conflicts and has a significant role in global peacebuilding efforts.
+
+- Political stability index:
+  Norway scores high in political stability, reflecting its stable government, low levels of violence and terrorism, and effective rule of law. The latest score from the World Bank's Worldwide Governance Indicators places Norway among the top stable countries globally.
+
+- Corruption perception index:
+  Norway is ranked 7th out of 180 countries in the 2023 Corruption Perceptions Index by Transparency International, indicating very low levels of corruption in the public sector.
+
+Economic Factors (E)
+
+- GDP per capita:
+  As of the latest data, Norway's GDP per capita is approximately $89,000, reflecting a high standard of living and a robust economy.
+
+- Trade openness index:
+  Norway's trade openness index, which measures the ratio of trade (exports + imports) to GDP, is about 80%, indicating a high level of engagement in international trade.
+
+- Foreign direct investment (FDI) inflows:
+  Norway received about $14 billion in FDI inflows in 2022, reflecting its attractive investment climate and stable economic environment.
+
+Social Factors (S)
+
+- Education index:
+  Norway has a high education index score of 0.899, reflecting a well-developed education system with high literacy rates and widespread access to quality education.
+
+- Healthcare quality index:
+  The healthcare quality in Norway is excellent, with a healthcare index score of 76.9, indicating high standards of medical care and accessibility.
+
+- Human development index (HDI):
+  Norway ranks 1st in the 2023 HDI, with a score of 0.961, reflecting very high levels of life expectancy, education, and per capita income.
+
+Cultural Factors (C)
+
+- Cultural proximity index:
+  Norway’s cultural dimensions reflect a high degree of individualism, low power distance, and high levels of gender equality, according to Hofstede’s cultural dimensions.
+
+- Language similarity index:
+  Norwegian is closely related to other Scandinavian languages, such as Swedish and Danish, facilitating cross-cultural communication within the region.
+
+- Cross-cultural communication adaptability:
+  Norwegians are generally proficient in English, enhancing their ability to adapt and communicate in international settings.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  Norway ranks 8th globally in the 2022 Environmental Performance Index, with strong performance in air quality, biodiversity, and climate change mitigation.
+
+- Carbon footprint per capita:
+  Norway's carbon footprint per capita is approximately 8.3 metric tons, reflecting its efforts to balance high living standards with environmental sustainability.
+
+- Renewable energy usage percentage:
+  About 98% of Norway's electricity production comes from renewable sources, primarily hydropower, showcasing its commitment to sustainable energy.

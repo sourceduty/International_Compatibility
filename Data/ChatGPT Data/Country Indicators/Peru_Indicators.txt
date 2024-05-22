@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation:
+  Peru participates in numerous international agreements, including the Pacific Alliance, various United Nations treaties, and regional environmental accords.
+
+- Political stability index:
+  Peru has a political stability index of -1.06, indicating moderate instability due to political turmoil and social unrest (World Bank, 2022).
+
+- Corruption perception index:
+  Peru ranked 105th out of 180 countries in Transparency International's Corruption Perception Index 2022, reflecting ongoing corruption challenges.
+
+Economic Factors (E)
+
+- GDP per capita:
+  Peru's GDP per capita is approximately $6,807 (World Bank, 2022).
+
+- Trade openness index:
+  Peru has a high trade openness index due to its significant exports in mining, agriculture, and fisheries, making it vulnerable to global market fluctuations.
+
+- Foreign direct investment (FDI) inflows:
+  In 2022, Peru attracted about $8.2 billion in FDI, reflecting strong investment interest in its mining and energy sectors (World Bank).
+
+Social Factors (S)
+
+- Education index:
+  Peru has an Education Index score of 0.650, indicating moderate educational attainment levels (UNDP).
+
+- Healthcare quality index:
+  The healthcare system in Peru scores 59.2 on the Healthcare Access and Quality Index, indicating room for improvement in healthcare services.
+
+- Human development index (HDI):
+  Peru ranks 79th globally with an HDI of 0.777, indicating high human development levels (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural proximity index:
+  Peru’s cultural dimensions indicate high collectivism and power distance, similar to other Latin American countries (Hofstede Insights).
+
+- Language similarity index:
+  Spanish is the official language of Peru, with significant indigenous languages spoken, enhancing cultural diversity and communication.
+
+- Cross-cultural communication adaptability:
+  Peruvians exhibit high adaptability in cross-cultural communication, influenced by their multicultural and multilingual environment.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  Peru scores 39.9 in the Environmental Performance Index (EPI) 2022, reflecting significant challenges in environmental sustainability.
+
+- Carbon footprint per capita:
+  Peru’s carbon footprint per capita is relatively low at approximately 1.8 metric tons of CO2 (World Bank, 2021).
+
+- Renewable energy usage percentage:
+  About 59% of Peru's energy consumption comes from renewable sources, primarily hydropower, indicating a strong commitment to sustainable energy practices (IRENA, 2022).

@@ -1,0 +1,16 @@
+                                                      Indicator                           Latest Data                                        Source
+                         International agreements participation Active in 35 international agreements                          UN Treaties Database
+                                      Political stability index                                  -0.9                                    World Bank
+                                    Corruption perception index                                    29                    Transparency International
+                                                 GDP per capita                                  3500                                    World Bank
+                                           Trade openness index                                  60.3                                    World Bank
+                        Foreign direct investment (FDI) inflows                                   3.6                                        UNCTAD
+                                                Education index                                  0.62                                          UNDP
+                                       Healthcare quality index                                  45.0                                           WHO
+                                  Human development index (HDI)                                 0.614                                          UNDP
+Cultural proximity index (e.g., Hofstede's cultural dimensions)                                    70                             Hofstede Insights
+                                      Language similarity index                                  0.97                                    Ethnologue
+                      Cross-cultural communication adaptability                                    58  Intercultural Development Research Institute
+                                Environmental performance index                                  45.3          Yale Environmental Performance Index
+                                    Carbon footprint per capita                                   1.2                           Global Carbon Atlas
+                              Renewable energy usage percentage                                   5.0 International Renewable Energy Agency (IRENA)

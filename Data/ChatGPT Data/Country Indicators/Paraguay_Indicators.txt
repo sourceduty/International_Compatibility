@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation:
+  Paraguay is active in numerous international agreements, including trade agreements with Brazil and significant participation in global environmental and tax cooperation treaties.
+
+- Political stability index:
+  Paraguay experiences moderate political stability, with recurring social protests impacting its stability score negatively.
+
+- Corruption perception index:
+  Paraguay ranked 137th out of 180 countries in Transparency International's Corruption Perception Index 2022, indicating significant corruption issues.
+
+Economic Factors (E)
+
+- GDP per capita:
+  Paraguay's GDP per capita is approximately $5,820 (World Bank, 2022).
+
+- Trade openness index:
+  Paraguay has a high trade openness index due to its significant exports in agriculture, livestock, and hydropower, making it vulnerable to external shocks.
+
+- Foreign direct investment (FDI) inflows:
+  In 2022, Paraguay attracted about $589 million in FDI, reflecting a steady interest in its growing economy (World Bank).
+
+Social Factors (S)
+
+- Education index:
+  Paraguay has an Education Index score of 0.631, indicating moderate educational attainment levels (UNDP).
+
+- Healthcare quality index:
+  The healthcare system in Paraguay scores 56.3 on the Healthcare Access and Quality Index, showing room for improvement.
+
+- Human development index (HDI):
+  Paraguay ranks 98th globally with an HDI of 0.724, indicating medium human development levels (UNDP, 2022).
+
+Cultural Factors (C)
+
+- Cultural proximity index:
+  Paraguay’s cultural dimensions indicate high collectivism and power distance, similar to other Latin American countries (Hofstede Insights).
+
+- Language similarity index:
+  Spanish and Guarani are the official languages of Paraguay, enhancing communication within the region.
+
+- Cross-cultural communication adaptability:
+  Paraguayans exhibit high adaptability in cross-cultural communication, influenced by their bilingual and bicultural environment.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  Paraguay scores 47.6 in the Environmental Performance Index (EPI) 2022, reflecting challenges in environmental sustainability.
+
+- Carbon footprint per capita:
+  Paraguay’s carbon footprint per capita is relatively low at approximately 1.6 metric tons of CO2 (World Bank, 2021).
+
+- Renewable energy usage percentage:
+  About 90% of Paraguay's energy consumption comes from renewable sources, primarily hydropower, underscoring its commitment to sustainable energy practices (IRENA, 2022).

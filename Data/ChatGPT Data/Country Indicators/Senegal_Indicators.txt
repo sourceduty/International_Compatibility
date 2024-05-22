@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   - Senegal is a participant in numerous international organizations and agreements, including the African Union (AU), the Economic Community of West African States (ECOWAS), and the United Nations (UN). It has ratified environmental agreements such as those on biodiversity, climate change, and desertification.
+
+2. Political Stability Index:
+   - Senegal is generally considered politically stable with a history of peaceful transitions of power through democratic elections, though it faces occasional challenges from separatist movements, particularly in the Casamance region.
+
+3. Corruption Perception Index:
+   - As of 2023, Senegal scored 43 out of 100 on Transparency International's Corruption Perceptions Index, ranking 70th out of 180 countries, indicating moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   - In 2022, Senegal's GDP per capita was approximately $1,480 USD, reflecting a lower-middle-income economy.
+
+2. Trade Openness Index:
+   - Senegal has a trade openness index of 58.3, indicating moderate engagement in international trade relative to its GDP.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   - In 2022, Senegal attracted about $1.6 billion USD in foreign direct investment, primarily in the mining, oil, and gas sectors.
+
+Social Factors (S)
+
+1. Education Index:
+   - Senegal's Education Index, as part of the Human Development Index (HDI), stands at 0.509, indicating significant room for improvement in educational attainment and literacy rates.
+
+2. Healthcare Quality Index:
+   - The healthcare system in Senegal is under-resourced but improving, with significant investments in infrastructure and personnel training. The healthcare index value stands at around 0.45, reflecting moderate quality and accessibility.
+
+3. Human Development Index (HDI):
+   - Senegal's HDI is 0.512, placing it in the low human development category, with improvements needed in life expectancy, education, and income.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   - Senegal scores moderately on cultural proximity measures, influenced by its Francophone heritage and diverse ethnic composition, including Wolof, Fula, and Serer groups.
+
+2. Language Similarity Index:
+   - French is the official language, widely used in education and administration, while several indigenous languages such as Wolof and Pulaar are also spoken, indicating a moderate degree of language similarity and multilingualism.
+
+3. Cross-Cultural Communication Adaptability:
+   - Senegal exhibits high adaptability in cross-cultural communication, owing to its historical and contemporary interactions with various global cultures and its strategic position in West Africa.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   - Senegal ranks 117th out of 180 countries on the Environmental Performance Index, indicating challenges in managing environmental health and ecosystem vitality.
+
+2. Carbon Footprint per Capita:
+   - The carbon footprint per capita in Senegal is relatively low, at approximately 0.3 metric tons of CO2, reflecting its status as a developing nation with lower industrial activity.
+
+3. Renewable Energy Usage Percentage:
+   - Renewable energy accounts for around 30% of Senegal's total energy consumption, with significant investments in solar and wind power projects.

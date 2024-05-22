@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International Agreements Participation: Nicaragua is a participant in various international agreements, including the Central America-Dominican Republic Free Trade Agreement (CAFTA-DR) and agreements with Russia for peaceful use of nuclear energy.
+- Political Stability Index: Nicaragua has faced significant political instability, with reports of systematic human rights violations, suppression of political opposition, and severe restrictions on freedoms of expression and association.
+- Corruption Perception Index: Transparency International ranked Nicaragua 159th out of 180 countries in its 2022 Corruption Perception Index, indicating high levels of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per Capita: As of the latest data, Nicaragua's GDP per capita is approximately $2,200 USD.
+- Trade Openness Index: Nicaragua is engaged in several trade agreements, including CAFTA-DR, which facilitate trade openness.
+- Foreign Direct Investment (FDI) Inflows: FDI inflows into Nicaragua have been fluctuating due to political instability and economic challenges. Recent agreements with countries like Russia indicate efforts to attract more FDI.
+
+Social Factors (S)
+
+- Education Index: Nicaragua's education index reflects challenges in educational quality and access, significantly impacted by the political and economic climate.
+- Healthcare Quality Index: Healthcare quality in Nicaragua is relatively low, with significant disparities in access and services, especially in rural areas.
+- Human Development Index (HDI): Nicaragua's HDI is 0.667, placing it in the medium human development category, with significant room for improvement in health, education, and income.
+
+Cultural Factors (C)
+
+- Cultural Proximity Index: Using Hofstede's cultural dimensions, Nicaragua scores high on power distance and collectivism, reflecting a hierarchical society with strong family ties.
+- Language Similarity Index: Spanish is the official language of Nicaragua, creating cultural and linguistic proximity with other Spanish-speaking countries in Latin America.
+- Cross-cultural Communication Adaptability: Nicaraguans generally exhibit adaptability in cross-cultural communication, facilitated by cultural values of collectivism and high-context communication styles.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index: Nicaragua ranks low on the Environmental Performance Index, indicating significant challenges in environmental protection and sustainability efforts.
+- Carbon Footprint per Capita: Nicaragua's carbon footprint per capita is relatively low due to its lower industrial activity but is rising with increasing energy consumption.
+- Renewable Energy Usage Percentage: Nicaragua has made strides in renewable energy, with a significant percentage of its energy coming from renewable sources, particularly geothermal and wind.

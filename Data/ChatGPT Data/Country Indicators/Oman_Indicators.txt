@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation:
+  Oman actively participates in various international agreements, including recent involvement in the COP28 summit, demonstrating its commitment to global environmental standards.
+
+- Political stability index:
+  According to the World Bank's latest data, Oman has a political stability index of -0.19 in 2021, reflecting a relatively stable political environment.
+
+- Corruption perception index:
+  Transparency International's Corruption Perceptions Index for 2022 places Oman at a score of 52 out of 100, ranking it 69th globally, indicating moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per capita:
+  The World Bank reports Oman's GDP per capita at approximately $16,415 in 2022.
+
+- Trade openness index:
+  The World Bank's trade (% of GDP) indicator shows Oman with a trade openness index of 84.8% in 2022.
+
+- Foreign direct investment (FDI) inflows:
+  Oman received around $4.1 billion in FDI inflows in 2022, highlighting its appeal to foreign investors.
+
+Social Factors (S)
+
+- Education index:
+  Oman's education index, as part of the Human Development Index, stands at 0.647 in 2021, reflecting improvements in educational attainment.
+
+- Healthcare quality index:
+  According to the World Health Organization, Oman has a healthcare quality index score of 0.67, indicating a relatively high level of healthcare services.
+
+- Human development index (HDI):
+  The United Nations Development Programme (UNDP) reports Oman’s HDI at 0.813 in 2022, categorizing it in the "high human development" group.
+
+Cultural Factors (C)
+
+- Cultural proximity index (Hofstede's cultural dimensions):
+  Hofstede's cultural dimensions for Oman show a high score in power distance (80), indicating a society that accepts hierarchical order without much need for justification.
+
+- Language similarity index:
+  Arabic, the official language of Oman, shares linguistic similarities with other Arabic-speaking countries, facilitating communication within the region.
+
+- Cross-cultural communication adaptability:
+  Oman's cultural adaptability is reflected in its diverse expatriate population and the widespread use of English in business and government, fostering effective cross-cultural interactions.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  Oman scored 47.4 in the 2022 Environmental Performance Index (EPI), indicating room for improvement in environmental sustainability efforts.
+
+- Carbon footprint per capita:
+  The World Bank reports Oman's carbon footprint per capita at approximately 14.3 metric tons in 2022.
+
+- Renewable energy usage percentage:
+  Oman aims to increase its renewable energy usage to 30% by 2030, with significant investments in green hydrogen and biofuels.

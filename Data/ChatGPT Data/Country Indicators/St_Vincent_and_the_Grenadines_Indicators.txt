@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Active participant in international agreements like the Paris Agreement and the Kyoto Protocol.
+
+Political Stability Index
+- Stable parliamentary democracy with regular elections and peaceful power transfers.
+
+Corruption Perception Index
+- Faces challenges with corruption; ongoing efforts to improve transparency and governance.
+
+Economic Factors (E)
+
+GDP Per Capita
+- Approximately $7,000 USD.
+
+Trade Openness Index
+- Moderately open to international trade with significant regional trade agreements.
+
+Foreign Direct Investment (FDI) Inflows
+- Increasing FDI, particularly in tourism and infrastructure sectors.
+
+Social Factors (S)
+
+Education Index
+- Allocates around 5.7% of GDP to education; high literacy rate and school life expectancy.
+
+Healthcare Quality Index
+- Comprehensive healthcare system with good health outcomes.
+
+Human Development Index (HDI)
+- High HDI, reflecting progress in health, education, and income levels.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- Shares cultural similarities with other Caribbean nations; high degree of collectivism.
+
+Language Similarity Index
+- English is the official language, facilitating communication and cultural exchange.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse cultural background and prevalence of English.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Faces environmental challenges; efforts to improve through international agreements.
+
+Carbon Footprint Per Capita
+- Relatively low carbon footprint.
+
+Renewable Energy Usage Percentage
+- Committed to increasing renewable energy share through solar, wind, and hydroelectric power development.

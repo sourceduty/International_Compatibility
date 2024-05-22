@@ -1,0 +1,25 @@
+Political Factors (P):
+  - International agreements participation: Yes
+  - Political stability index: 0.6 (on a scale of -2.5 to 2.5)
+  - Corruption perception index: 35 (2023)
+
+Economic Factors (E):
+  - GDP per capita: $3,084 (2023)
+  - Trade openness index: 58.4 (2023)
+  - Foreign direct investment (FDI) inflows: $60 million (2022)
+
+Social Factors (S):
+  - Education index: 0.512 (2023)
+  - Healthcare quality index: 47.3 (2023)
+  - Human development index (HDI): 0.607 (2023)
+
+Cultural Factors (C):
+  - Cultural proximity index: Medium (Hofstede's dimensions)
+  - Language similarity index: Bislama (official), English (official), French (official)
+  - Cross-cultural communication adaptability: High
+
+Environmental Factors (Env):
+  - Environmental performance index: 54.2 (2022)
+  - Carbon footprint per capita: 0.4 metric tons (2023)
+  - Renewable energy usage percentage: 34% (2023)
+

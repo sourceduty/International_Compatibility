@@ -1,0 +1,25 @@
+Political Factors (P):
+  - International agreements participation: Yes
+  - Political stability index: -0.4 (on a scale of -2.5 to 2.5)
+  - Corruption perception index: 33 (2023)
+
+Economic Factors (E):
+  - GDP per capita: $1,128 (2023)
+  - Trade openness index: 47.3 (2023)
+  - Foreign direct investment (FDI) inflows: $1.1 billion (2022)
+
+Social Factors (S):
+  - Education index: 0.554 (2023)
+  - Healthcare quality index: 45.9 (2023)
+  - Human development index (HDI): 0.584 (2023)
+
+Cultural Factors (C):
+  - Cultural proximity index: Medium (Hofstede's dimensions)
+  - Language similarity index: English (official), Bemba (widely spoken)
+  - Cross-cultural communication adaptability: High
+
+Environmental Factors (Env):
+  - Environmental performance index: 39.4 (2022)
+  - Carbon footprint per capita: 0.3 metric tons (2023)
+  - Renewable energy usage percentage: 84% (2023)
+

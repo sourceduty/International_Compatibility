@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Party to numerous international environmental agreements, including those on Biodiversity, Climate Change (Kyoto Protocol and Paris Agreement), Desertification, and Endangered Species.
+
+Political Stability Index
+- Relatively stable political environment with efforts to reduce internal conflicts through reforms and reconciliation.
+
+Corruption Perception Index
+- Significant corruption challenges affecting various sectors.
+
+Economic Factors (E)
+
+GDP per Capita
+- Approximately $1,120 USD.
+
+Trade Openness Index
+- Moderately open to international trade, with major partners including India, China, and South Africa.
+
+Foreign Direct Investment (FDI) Inflows
+- Substantial FDI, particularly from China, in sectors like infrastructure, mining, and agriculture.
+
+Social Factors (S)
+
+Education Index
+- Improving education system with significant investments aimed at increasing access and quality.
+
+Healthcare Quality Index
+- Improving healthcare system with challenges in infrastructure and access, especially in rural areas.
+
+Human Development Index (HDI)
+- Low HDI reflecting challenges in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index (e.g., Hofstede's Cultural Dimensions)
+- High power distance and collectivism.
+
+Language Similarity Index
+- Swahili as the official language, facilitating regional communication; English widely used in business and government.
+
+Cross-Cultural Communication Adaptability
+- High adaptability due to diverse population and history of cultural interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index (EPI)
+- Challenges in environmental management with ongoing improvement efforts.
+
+Carbon Footprint per Capita
+- Relatively low carbon footprint.
+
+Renewable Energy Usage Percentage
+- Significant potential for renewable energy, particularly hydroelectric and solar power.

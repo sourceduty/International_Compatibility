@@ -1,0 +1,25 @@
+
+Political Factors (P)
+- International agreements participation: Sierra Leone actively participates in several international agreements, including the Economic Community of West African States (ECOWAS) and the United Nations (UN). Recently, the country has strengthened its ties with China through a comprehensive strategic cooperative partnership, which underscores its commitment to international diplomacy and cooperation.
+- Political stability index: Sierra Leone has faced challenges with political stability due to its history of civil conflict. However, efforts to stabilize and improve governance are ongoing.
+- Corruption perception index: According to Transparency International's Corruption Perceptions Index 2022, Sierra Leone ranks 110 out of 180 countries, indicating significant issues with corruption that affect governance and development.
+
+Economic Factors (E)
+- GDP per capita: As of the latest World Bank data, Sierra Leone's GDP per capita is approximately $500, reflecting a low-income economy with significant development challenges.
+- Trade openness index: Sierra Leone has a relatively open economy with efforts to enhance trade through regional and international agreements. Its trade openness index reflects moderate trade integration in the global economy.
+- Foreign direct investment (FDI) inflows: Sierra Leone has been attracting FDI primarily in the mining and agriculture sectors, although the overall volume remains modest compared to more developed economies.
+
+Social Factors (S)
+- Education index: Sierra Leone faces substantial challenges in education, with low enrollment rates and quality issues. The government and international partners are working on improving educational outcomes.
+- Healthcare quality index: Healthcare quality in Sierra Leone is generally poor, with limited access to medical facilities and services. Recent efforts focus on enhancing healthcare infrastructure and services.
+- Human development index (HDI): Sierra Leone's HDI is 0.452, ranking it 182 out of 189 countries, reflecting significant challenges in health, education, and standard of living.
+
+Cultural Factors (C)
+- Cultural proximity index (e.g., Hofstede's cultural dimensions): Sierra Leone's culture is characterized by high collectivism, strong community ties, and respect for tradition. Hofstede's dimensions highlight a high power distance and uncertainty avoidance.
+- Language similarity index: English is the official language, but Krio is widely spoken and serves as a lingua franca among different ethnic groups, facilitating communication across cultural lines.
+- Cross-cultural communication adaptability: Sierra Leoneans are generally adaptable in cross-cultural communication, with a history of diverse ethnic interactions and a legacy of colonial influence promoting multilingualism.
+
+Environmental Factors (Env)
+- Environmental performance index: Sierra Leone scores relatively low on the Environmental Performance Index, reflecting challenges in managing natural resources and environmental policies.
+- Carbon footprint per capita: The carbon footprint per capita in Sierra Leone is low, primarily due to limited industrialization and reliance on traditional energy sources.
+- Renewable energy usage percentage: Efforts are underway to increase renewable energy usage, with a focus on hydroelectric and solar power projects to enhance sustainable energy access.

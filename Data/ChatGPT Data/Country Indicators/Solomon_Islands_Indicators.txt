@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International agreements participation: The Solomon Islands has participated in various international agreements, including bilateral security agreements with China and Australia. These agreements focus on enhancing security cooperation, disaster response, and maintaining social order.
+- Political stability index: The political stability index for the Solomon Islands is relatively low due to frequent political turmoil and security concerns, exacerbated by geopolitical competition between major powers such as China and Australia.
+- Corruption perception index: According to Transparency International, the Solomon Islands has a moderate level of perceived corruption, with a score of 42 out of 100 in the latest Corruption Perceptions Index, where 0 indicates a highly corrupt country and 100 indicates a very clean one.
+
+Economic Factors (E)
+
+- GDP per capita: The GDP per capita of the Solomon Islands is approximately USD 2,150 as of the latest World Bank data, reflecting its status as a lower-middle-income country.
+- Trade openness index: The Solomon Islands has a trade openness index of about 65%, indicating a moderate level of engagement in international trade relative to its GDP.
+- Foreign direct investment (FDI) inflows: FDI inflows into the Solomon Islands have been significant, particularly from China, which has invested heavily in infrastructure and mining projects as part of its Belt and Road Initiative.
+
+Social Factors (S)
+
+- Education index: The Education Index, part of the Human Development Index (HDI), indicates that the Solomon Islands has made strides in education, but still faces challenges. The latest data suggests an average level of education attainment compared to global standards.
+- Healthcare quality index: The Solomon Islands struggles with healthcare quality, ranking lower on global indices due to limited access to healthcare services and infrastructure.
+- Human development index (HDI): The Solomon Islands has an HDI of 0.567, which places it in the medium human development category, reflecting moderate performance in health, education, and income.
+
+Cultural Factors (C)
+
+- Cultural proximity index: Cultural proximity can be assessed through the lens of shared languages and historical ties. The Solomon Islands' diverse cultural landscape includes Melanesian, Polynesian, and Micronesian influences, with a strong sense of community and tradition.
+- Language similarity index: The Solomon Islands' primary languages are English and Solomon Islands Pijin, with English serving as the official language and Pijin as the lingua franca.
+- Cross-cultural communication adaptability: The Solomon Islands' society exhibits a high level of adaptability in cross-cultural communication due to its diverse ethnic composition and history of interaction with various international partners.
+
+Environmental Factors (Env)
+
+- Environmental performance index: The Environmental Performance Index (EPI) for the Solomon Islands indicates a moderate level of performance, with particular challenges in managing its natural resources and addressing the impacts of climate change.
+- Carbon footprint per capita: The carbon footprint per capita in the Solomon Islands is relatively low, reflecting its limited industrial activity and reliance on traditional energy sources.
+- Renewable energy usage percentage: Renewable energy usage is increasing, with a focus on harnessing solar and hydropower to reduce dependence on imported fossil fuels.
