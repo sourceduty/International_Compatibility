@@ -89,9 +89,7 @@ ChatGPT Data:
 - Business Compatibility Report
 - Cultural Compatibility Report
 - Educational Compatibility Report
-
 - 195 x Country Indicator Data Files
-- 195 x Country ICS Data Files
 
 ***
 
