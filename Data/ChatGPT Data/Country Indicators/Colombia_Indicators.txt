@@ -1,0 +1,51 @@
+
+Political Factors (P)
+1. International Agreements Participation:
+   - Colombia is a participant in numerous international agreements, including 17 Free Trade Agreements with countries such as the United States, Canada, the European Union, and members of the Pacific Alliance.
+   - Colombia is also a signatory to the Paris Agreement, aimed at combating climate change.
+
+2. Political Stability Index:
+   - According to the World Bank's Worldwide Governance Indicators, Colombia's political stability and absence of violence/terrorism score for 2022 is -1.15 on a scale from -2.5 (weak) to 2.5 (strong).
+
+3. Corruption Perception Index:
+   - Transparency International's Corruption Perceptions Index (CPI) for 2022 ranks Colombia 87th out of 180 countries, with a score of 39 out of 100 (where 0 is highly corrupt and 100 is very clean).
+
+Economic Factors (E)
+1. GDP per Capita:
+   - The World Bank reports Colombia's GDP per capita (current US$) was approximately $6,100 in 2022.
+
+2. Trade Openness Index:
+   - The Heritage Foundation’s 2022 Index of Economic Freedom lists Colombia's trade freedom score as 70.6 out of 100.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   - According to UNCTAD's World Investment Report 2022, Colombia received $7.7 billion in FDI inflows in 2021.
+
+Social Factors (S)
+1. Education Index:
+   - The UNDP Human Development Report 2022 indicates Colombia's Education Index is 0.658, based on mean years of schooling (8.2 years) and expected years of schooling (14.3 years).
+
+2. Healthcare Quality Index:
+   - The Legatum Prosperity Index 2022 ranks Colombia 78th out of 167 countries in the Health pillar, reflecting access to quality healthcare services.
+
+3. Human Development Index (HDI):
+   - The UNDP Human Development Index for 2022 places Colombia at 0.752, ranking 83rd out of 189 countries.
+
+Cultural Factors (C)
+1. Cultural Proximity Index (e.g., Hofstede's cultural dimensions):
+   - According to Hofstede's cultural dimensions, Colombia scores high on power distance (score of 67), indicating acceptance of hierarchical order, and low on individualism (score of 13), showing a preference for collectivism.
+
+2. Language Similarity Index:
+   - Spanish is the official language of Colombia, facilitating linguistic and cultural proximity with other Spanish-speaking nations in Latin America.
+
+3. Cross-cultural Communication Adaptability:
+   - Colombia demonstrates strong cross-cultural communication adaptability, partly due to its diverse population and the influence of various cultural heritages.
+
+Environmental Factors (Env)
+1. Environmental Performance Index:
+   - The 2022 Environmental Performance Index (EPI) ranks Colombia 47th out of 180 countries with a score of 55.3 out of 100, reflecting moderate environmental health and ecosystem vitality.
+
+2. Carbon Footprint per Capita:
+   - Colombia's carbon footprint per capita was approximately 1.79 metric tons of CO2 in 2021, as reported by the Global Carbon Atlas.
+
+3. Renewable Energy Usage Percentage:
+   - According to the International Renewable Energy Agency (IRENA), renewable energy accounted for about 28% of Colombia's total final energy consumption in 2022.

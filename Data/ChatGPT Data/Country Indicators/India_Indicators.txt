@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: India has signed multiple international agreements, including 14 Free Trade Agreements (FTAs) with various countries, including the European Free Trade Association (EFTA). India has also been a significant player in international climate negotiations, contributing its Intended Nationally Determined Contribution (INDC) under the Paris Agreement to reduce emissions intensity and increase non-fossil fuel energy capacity.
+
+2. Political stability index: India faces challenges in political stability due to regional conflicts, social unrest, and political disputes. The overall political environment remains complex, impacting governance and policy implementation.
+
+3. Corruption perception index: According to Transparency International, India scored 40 out of 100 in the 2022 Corruption Perceptions Index, indicating moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: India's GDP per capita was approximately $2,277 USD in 2022. The economy continues to grow, driven by sectors such as services, manufacturing, and information technology.
+
+2. Trade openness index: India's trade openness index reflects significant engagement in international trade, with ongoing negotiations for new trade agreements to boost exports and market access.
+
+3. Foreign direct investment (FDI) inflows: India attracted around $60 billion in FDI in 2022, with significant investments in sectors like technology, pharmaceuticals, and manufacturing.
+
+Social Factors (S)
+
+1. Education index: India has made substantial progress in education, with increasing literacy rates and expanding access to education. The country's education index continues to improve due to government initiatives and investments.
+
+2. Healthcare quality index: India's healthcare system faces challenges, but there have been improvements in healthcare quality and access, driven by both public and private sector efforts.
+
+3. Human development index (HDI): India's HDI is 0.645, placing it in the medium human development category, reflecting advancements in health, education, and living standards.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): India scores high on power distance and collectivism, indicating a hierarchical society with strong community ties. These cultural dimensions influence social and business interactions.
+
+2. Language similarity index: Hindi and English are the official languages, with English widely used in business and education. India's multilingualism enhances its global communication adaptability.
+
+3. Cross-cultural communication adaptability: India's diverse cultural heritage and extensive diaspora contribute to its high adaptability in cross-cultural communication.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: India scored 27.6 on the Environmental Performance Index, highlighting significant environmental challenges, including air and water pollution.
+
+2. Carbon footprint per capita: India's carbon footprint per capita is about 1.9 metric tons of CO2, reflecting its developing economy and large population.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 38% of India's total installed power capacity, with significant investments in solar, wind, and hydropower projects.

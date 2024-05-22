@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Dominica is a party to several international environmental agreements, including the Paris Agreement, the Kyoto Protocol, and treaties on biodiversity, desertification, and ozone layer protection.
+
+2. Political Stability Index:
+   Dominica enjoys relative political stability, which is vital for its economic and social development. The country's political environment supports its governance and policy-making processes.
+
+3. Corruption Perception Index:
+   While detailed rankings for Dominica are less frequently highlighted, the country works towards improving transparency and reducing corruption through various initiatives.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of 2022, Dominica's GDP per capita is approximately $8,351 USD.
+
+2. Trade Openness Index:
+   Dominica has an open economy with significant trade activities. The country engages in substantial export and import activities, with key exports including bananas, soap, and other agricultural products.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   Dominica has been attracting FDI, especially in sectors like tourism and infrastructure development. Recent projects, such as the construction of a new international airport, highlight ongoing FDI inflows.
+
+Social Factors (S)
+
+1. Education Index:
+   Dominica places a strong emphasis on education, resulting in high literacy rates and significant public investment in education. The Human Capital Index value stands at 0.5, reflecting educational outcomes.
+
+2. Healthcare Quality Index:
+   The healthcare system in Dominica provides essential services to its population, though improvements are ongoing to address gaps in rural healthcare delivery.
+
+3. Human Development Index (HDI):
+   Dominica's HDI is moderate, reflecting progress in life expectancy, education, and per capita income. Recent data place Dominica's HDI around 0.724, showing steady improvement over the years.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Dominica's culture is influenced by African, European, and indigenous traditions. Using Hofstede's dimensions, the country shows high collectivism and moderate power distance, indicating strong community ties and respect for hierarchical structures.
+
+2. Language Similarity Index:
+   The official language is English, facilitating communication with other English-speaking countries in the Caribbean and beyond. This linguistic alignment supports regional integration and international cooperation.
+
+3. Cross-Cultural Communication Adaptability:
+   Dominica's diverse cultural heritage fosters adaptability in cross-cultural communication, crucial for its tourism and expatriate communities.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Dominica is committed to environmental sustainability, with policies aimed at protecting its rich biodiversity and natural resources. The country is actively involved in international environmental agreements.
+
+2. Carbon Footprint per Capita:
+   Dominica's carbon footprint per capita is relatively low, around 2.3 metric tons, reflecting its small size and limited industrial activities.
+
+3. Renewable Energy Usage Percentage:
+   Dominica is increasing its use of renewable energy sources, with a focus on geothermal, wind, and solar energy projects. This transition supports the country's goals for sustainable development and energy independence.

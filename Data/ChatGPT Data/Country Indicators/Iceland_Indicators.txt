@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Iceland is a party to numerous international environmental agreements, including the Paris Agreement, Kyoto Protocol, Law of the Sea, and the Comprehensive Nuclear Test Ban. The country is actively involved in global efforts to combat climate change and promote sustainable development.
+
+2. Political stability index: Iceland enjoys high political stability, reflected in its consistent democratic governance and low levels of political unrest. The country's political environment is characterized by strong institutions and transparent governance.
+
+3. Corruption perception index: According to Transparency International, Iceland scored 75 out of 100 on the Corruption Perceptions Index in 2022, placing it among the countries with low levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: In 2022, Iceland's GDP per capita was approximately $66,945 USD, indicating a high standard of living and a robust economy driven by tourism, fishing, and renewable energy sectors.
+
+2. Trade openness index: Iceland's trade openness is significant, with international trade representing a substantial portion of its GDP. The country benefits from various trade agreements, including those with the EU and North America.
+
+3. Foreign direct investment (FDI) inflows: Iceland attracted about $700 million in FDI in 2021, mainly in the tourism, energy, and technology sectors, reflecting its favorable investment climate and strategic location.
+
+Social Factors (S)
+
+1. Education index: Iceland places a strong emphasis on education, with high literacy rates and significant investments in its education system. The country ranks highly in global education indices.
+
+2. Healthcare quality index: Iceland's healthcare system is well-developed, with high expenditure on health services and excellent healthcare outcomes. The country has a life expectancy of 84 years, one of the highest in the world.
+
+3. Human development index (HDI): Iceland has an HDI of 0.949, placing it in the very high human development category. This reflects strong performance in health, education, and income.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Iceland scores low on power distance and high on individualism, indicating a culture that values equality and personal freedom. These cultural traits influence business practices and social interactions.
+
+2. Language similarity index: Icelandic is the official language, which is unique and not closely related to other languages. However, English is widely spoken, especially in business and tourism sectors.
+
+3. Cross-cultural communication adaptability: Iceland's history of international trade and cooperation, along with its high levels of education and English proficiency, enhance its adaptability in cross-cultural communications.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Iceland scored 90.5 on the Environmental Performance Index, reflecting strong environmental policies and sustainability practices. The country is a leader in renewable energy usage and environmental protection.
+
+2. Carbon footprint per capita: Iceland’s carbon footprint per capita is approximately 7.7 metric tons of CO2, reflecting its energy-intensive industries balanced by extensive use of renewable energy.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 85% of Iceland’s total energy consumption, primarily from geothermal and hydroelectric sources. The country is a global leader in renewable energy utilization.

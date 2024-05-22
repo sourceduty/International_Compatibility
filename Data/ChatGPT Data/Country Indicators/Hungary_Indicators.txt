@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Hungary is actively involved in various international agreements. Recently, Hungary signed 18 significant agreements with China during President Xi Jinping's visit, covering areas such as infrastructure development, economic cooperation, and environmental sustainability.
+
+2. Political stability index: Hungary has faced political challenges and concerns about the consolidation of power within the current administration. The political environment is characterized by ongoing debates over democratic processes and governance.
+
+3. Corruption perception index: According to Transparency International, Hungary scored 42 out of 100 on the Corruption Perceptions Index in 2022, indicating moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: In 2022, Hungary's GDP per capita was approximately $18,880 USD. The economy has shown resilience despite global economic challenges.
+
+2. Trade openness index: Hungary's trade openness is significant, with trade (exports and imports) representing a large portion of its GDP. The country benefits from its central location in Europe and its integration into the European Union's single market.
+
+3. Foreign direct investment (FDI) inflows: Hungary attracted around $5.7 billion in FDI in 2021, with substantial investments in sectors such as automotive, manufacturing, and technology.
+
+Social Factors (S)
+
+1. Education index: Hungary places a strong emphasis on education, with an education index reflecting a high level of literacy and educational attainment. The country has a well-developed education system with significant investments in higher education and vocational training.
+
+2. Healthcare quality index: Hungary's healthcare system is characterized by a mix of public and private services. The quality of healthcare has been improving, although challenges remain in areas such as access and funding.
+
+3. Human development index (HDI): Hungary's HDI is 0.854, placing it in the high human development category. This index reflects positive outcomes in health, education, and standard of living.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Hungary scores high on power distance and uncertainty avoidance, indicating a culture that values hierarchical structures and has a low tolerance for uncertainty. These cultural traits influence business practices and social interactions.
+
+2. Language similarity index: Hungarian is the official language, which is unique and not closely related to other European languages. However, English and German are widely spoken, especially in business and academic contexts.
+
+3. Cross-cultural communication adaptability: Hungary's central location in Europe and its history of international trade and cooperation enhance its adaptability in cross-cultural communications. The country is known for its multicultural interactions and openness to foreign influences.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Hungary scored 65.4 on the Environmental Performance Index, reflecting efforts in environmental protection and sustainability. The country is working on improving its environmental policies and practices.
+
+2. Carbon footprint per capita: The carbon footprint per capita in Hungary is approximately 5.7 metric tons of CO2, which is moderate compared to other European countries. The government is taking steps to reduce emissions through various green initiatives.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 14% of Hungary's total energy consumption, with ongoing projects aimed at increasing this share, particularly in solar and wind energy.

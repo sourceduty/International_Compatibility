@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Eswatini is a member of several international organizations and agreements, including the United Nations (UN), World Trade Organization (WTO), and the International Monetary Fund (IMF). The country is also a part of regional agreements such as the Southern African Development Community (SADC), the Common Market for Eastern and Southern Africa (COMESA), and the Southern African Customs Union (SACU). Additionally, Eswatini is a signatory to the Paris Agreement on climate change.
+
+2. Political Stability Index:
+   Eswatini faces political challenges, particularly due to its absolute monarchy system and recent civil unrest. Political stability is impacted by economic difficulties and demands for democratic reforms.
+
+3. Corruption Perception Index:
+   Transparency International ranks Eswatini low on the Corruption Perceptions Index, indicating significant issues with corruption. The lack of transparency and accountability in governance contributes to this low ranking.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of 2023, Eswatini's GDP per capita is approximately $3,823 USD. The economy relies heavily on services and manufacturing, with significant contributions from the agricultural sector.
+
+2. Trade Openness Index:
+   Eswatini has a high trade openness index, with substantial trade activities mainly with South Africa, which accounts for a significant portion of its exports and imports. The country is also working to diversify its trade partners within COMESA and beyond.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   Eswatini attracts FDI primarily in the manufacturing and agricultural sectors. Efforts are ongoing to improve the investment climate to attract more diverse investments.
+
+Social Factors (S)
+
+1. Education Index:
+   The education system in Eswatini faces challenges, with the country scoring 0.586 on the U.N. Education Index for several years. Government expenditure on education has been declining, affecting the quality of education, particularly in rural areas.
+
+2. Healthcare Quality Index:
+   The healthcare system in Eswatini is underdeveloped, with high rates of HIV/AIDS and tuberculosis. Healthcare expenditures are a significant concern, impacting overall healthcare quality and access.
+
+3. Human Development Index (HDI):
+   Eswatini's HDI is 0.611, indicating medium human development. The country has made progress in education and health, but economic challenges continue to affect overall development.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Eswatini exhibits high collectivism and power distance, reflecting a society that values hierarchical structures and community ties. These cultural dimensions influence social interactions and governance.
+
+2. Language Similarity Index:
+   siSwati and English are the official languages, facilitating communication within the region and internationally. The linguistic alignment with South Africa and other neighboring countries aids in regional cooperation.
+
+3. Cross-Cultural Communication Adaptability:
+   Eswatini's diverse cultural heritage and bilingualism contribute to strong cross-cultural communication adaptability, important for its international relations and trade.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Eswatini faces significant environmental challenges, including deforestation and climate change impacts. The country is making efforts to improve its environmental performance through various international agreements and national policies.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita in Eswatini is relatively low, reflecting limited industrial activity and reliance on renewable energy sources like hydropower and biomass.
+
+3. Renewable Energy Usage Percentage:
+   Eswatini is increasing its investment in renewable energy, with a substantial portion of its energy coming from hydropower and biomass. The country aims to further expand its renewable energy capacity to enhance sustainability.

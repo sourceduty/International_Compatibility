@@ -1,0 +1,50 @@
+
+Political Factors (P)
+- International agreements participation:
+  Chad is a participant in numerous international organizations such as the African Union (AU), United Nations (UN), International Monetary Fund (IMF), World Trade Organization (WTO), and the Paris Agreement on climate change.
+
+- Political stability index:
+  According to the World Bank, Chad's political stability and absence of violence/terrorism index was -2.21 in 2022 (on a scale from -2.5 to 2.5).
+
+- Corruption perception index:
+  Transparency International's Corruption Perceptions Index ranked Chad 162 out of 180 countries in 2022, indicating a high level of perceived corruption.
+
+Economic Factors (E)
+- GDP per capita:
+  As of 2022, Chad's GDP per capita was approximately $700 (current US dollars).
+
+- Trade openness index:
+  Chad's trade as a percentage of GDP was around 61.4% in 2022, reflecting moderate trade openness.
+
+- Foreign direct investment (FDI) inflows:
+  Chad received USD 614 million in FDI inflows in 2022.
+
+Social Factors (S)
+- Education index:
+  Chad's Education Index score was 0.289 in the 2022 Human Development Report, reflecting significant challenges in the education sector.
+
+- Healthcare quality index:
+  The World Health Organization (WHO) scores Chad's healthcare system as one of the lowest globally, with limited access to quality healthcare services.
+
+- Human development index (HDI):
+  Chad's HDI was 0.398 in 2022, placing it among the lowest globally.
+
+Cultural Factors (C)
+- Cultural proximity index:
+  Hofstede's cultural dimensions indicate Chad has high power distance and collectivism, which influence business and social interactions significantly.
+
+- Language similarity index:
+  French and Arabic are the official languages, with numerous local languages spoken, reflecting a diverse linguistic landscape.
+
+- Cross-cultural communication adaptability:
+  Adaptability is influenced by traditional practices and the mix of ethnic groups, requiring a nuanced understanding of local customs for effective communication.
+
+Environmental Factors (Env)
+- Environmental performance index:
+  Chad ranked 174 out of 180 countries in the 2022 Environmental Performance Index, highlighting severe environmental challenges.
+
+- Carbon footprint per capita:
+  Chad's carbon footprint per capita is very low due to limited industrial activity and reliance on traditional biomass for energy.
+
+- Renewable energy usage percentage:
+  Renewable energy accounts for a significant portion of energy consumption, primarily through traditional biomass and some hydroelectric power.

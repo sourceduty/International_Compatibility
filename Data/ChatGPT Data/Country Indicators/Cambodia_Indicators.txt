@@ -1,0 +1,60 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Cambodia actively participates in international agreements, including the Belt and Road Initiative (BRI) with China, which has led to significant investments in infrastructure and digital economy projects. Additionally, Cambodia has signed numerous bilateral investment treaties (BITs) and is a member of the ASEAN, enhancing regional trade and cooperation.
+
+Political Stability Index
+- Cambodia's political stability is moderate but faces challenges due to internal political dynamics and external economic dependencies. The recent political landscape has been marked by tensions and governmental transitions, impacting overall stability.
+
+Corruption Perception Index
+- According to Transparency International, Cambodia ranks low on the Corruption Perception Index, indicating high levels of corruption. Efforts to improve governance and reduce corruption are ongoing but face significant hurdles.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Cambodia's GDP per capita is approximately $1,650. The economy is growing, with significant contributions from the manufacturing sector, particularly electronics and solar panels, as well as a recovering tourism industry.
+
+Trade Openness Index
+- Cambodia has a high trade openness index, facilitated by its membership in ASEAN and various trade agreements. The country is working to improve its trade policies to adapt to its evolving economic status.
+
+Foreign Direct Investment (FDI) Inflows
+- Cambodia continues to attract foreign direct investment, particularly from China, in sectors such as infrastructure, energy, and digital economy. The government encourages FDI through various incentives and supportive policies.
+
+Social Factors (S)
+
+Education Index
+- Cambodia has made progress in education, with increasing school enrollment rates and literacy levels. However, disparities in educational quality and access remain between urban and rural areas.
+
+Healthcare Quality Index
+- The healthcare system in Cambodia is developing, with ongoing investments aimed at improving healthcare infrastructure and services. Access to quality healthcare is still limited in rural regions.
+
+Human Development Index (HDI)
+- Cambodia ranks low on the Human Development Index, reflecting challenges in health, education, and income levels. Continuous efforts are needed to improve these indicators and address socio-economic disparities.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Cambodia's cultural dimensions, influenced by its historical and cultural heritage, reflect high power distance and collectivism. These cultural traits significantly impact social interactions and organizational behavior within the country.
+
+Language Similarity Index
+- The official language of Cambodia is Khmer, which facilitates communication and cultural exchange within the region. English is also widely used in business and education, enhancing international interactions.
+
+Cross-Cultural Communication Adaptability
+- Cambodia’s multicultural society and emphasis on education contribute to adaptability in cross-cultural communication. The population's exposure to diverse cultures supports effective international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Cambodia faces significant environmental challenges, including deforestation and climate change impacts. The government is committed to enhancing environmental sustainability through various initiatives and policies.
+
+Carbon Footprint per Capita
+- Cambodia’s carbon footprint per capita is relatively low, reflecting its developing economy and limited industrial activities. Efforts are being made to increase the use of renewable energy and promote environmental conservation.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Cambodia is increasing, with investments in solar and wind energy projects. The government aims to diversify the energy mix and promote sustainability.
+
+Sources
+- IMF
+- CamboJA News
+- UNCTAD Investment Policy Hub

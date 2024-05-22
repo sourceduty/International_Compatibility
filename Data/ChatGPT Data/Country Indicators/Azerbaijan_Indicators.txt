@@ -1,0 +1,60 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Azerbaijan is a party to several international agreements, including the European Convention on Foreign Commercial Arbitration and the Bilateral Investment Treaty (BIT) with the United States. The country is also involved in various trade agreements and international standardization bodies, working to align its standards with international practices.
+
+Political Stability Index
+- Azerbaijan faces challenges related to political stability, particularly due to the ongoing conflict over Nagorno-Karabakh. The government has used military victories to consolidate power, which has led to a clampdown on dissent and restrictions on freedom of expression and assembly.
+
+Corruption Perception Index
+- Corruption remains a significant issue in Azerbaijan. Transparency International’s Corruption Perception Index highlights ongoing concerns regarding transparency and accountability within the government. Efforts to combat corruption have been inconsistent, with notable incidents of politically motivated charges against activists and journalists.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Azerbaijan's GDP per capita is approximately $5,500. The economy is heavily dependent on oil and gas exports, which significantly influence its economic stability and growth.
+
+Trade Openness Index
+- Azerbaijan maintains a moderate trade openness index, with a significant portion of its trade involving energy exports. The government continues to seek diversification of its trade partners and industries.
+
+Foreign Direct Investment (FDI) Inflows
+- Foreign Direct Investment in Azerbaijan is primarily concentrated in the energy sector. The government has implemented measures to attract more diverse FDI by improving the business climate and regulatory framework.
+
+Social Factors (S)
+
+Education Index
+- Azerbaijan has a high literacy rate and a well-established education system, although there are disparities in the quality of education between urban and rural areas. The government continues to invest in educational reforms to improve outcomes and accessibility.
+
+Healthcare Quality Index
+- The healthcare system in Azerbaijan faces challenges, including limited access to quality healthcare services, particularly in rural areas. Efforts are being made to improve healthcare infrastructure and services.
+
+Human Development Index (HDI)
+- Azerbaijan ranks moderately on the Human Development Index, reflecting progress in health, education, and living standards. Continued investments in social services are necessary to improve its HDI ranking further.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Azerbaijan’s cultural dimensions, based on Hofstede’s model, reflect a society with high power distance and collectivism. These cultural traits influence social interactions and organizational behavior within the country.
+
+Language Similarity Index
+- The official language of Azerbaijan is Azerbaijani, which is closely related to Turkish. This linguistic similarity facilitates cultural and economic interactions with Turkey and other Turkic-speaking countries.
+
+Cross-Cultural Communication Adaptability
+- Azerbaijan's diverse cultural heritage, including influences from Persian, Turkish, and Russian cultures, contributes to a moderate level of cross-cultural communication adaptability. Efforts to improve language education and cultural exchange programs are ongoing.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Azerbaijan faces significant environmental challenges, including pollution and resource management issues. The government is working on improving environmental sustainability through various initiatives and international cooperation.
+
+Carbon Footprint per Capita
+- Azerbaijan’s carbon footprint per capita is relatively high, primarily due to its reliance on fossil fuels. Efforts are being made to increase the use of renewable energy sources and reduce emissions.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Azerbaijan is increasing, with investments in solar, wind, and hydroelectric power. These initiatives are part of the broader strategy to diversify the energy mix and promote sustainability.
+
+Sources
+- U.S. Department of State
+- Trade.gov
+- Amnesty International

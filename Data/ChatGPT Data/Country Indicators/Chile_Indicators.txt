@@ -1,0 +1,50 @@
+
+Political Factors (P)
+- International agreements participation:
+  Chile is a participant in numerous international organizations and agreements, including the United Nations (UN), World Trade Organization (WTO), Paris Agreement, and various trade agreements with major economies such as the US and the EU.
+
+- Political stability index:
+  According to the World Bank, Chile's political stability index was -0.15 in 2022 (on a scale from -2.5 to 2.5).
+
+- Corruption perception index:
+  Transparency International's Corruption Perceptions Index ranked Chile 27 out of 180 countries in 2022, indicating relatively low levels of perceived corruption.
+
+Economic Factors (E)
+- GDP per capita:
+  As of 2022, Chile's GDP per capita was approximately $15,000 (current US dollars).
+
+- Trade openness index:
+  Chile's trade as a percentage of GDP was around 56% in 2022, reflecting significant trade openness.
+
+- Foreign direct investment (FDI) inflows:
+  Chile received USD 11 billion in FDI inflows in 2022.
+
+Social Factors (S)
+- Education index:
+  Chile's Education Index score was 0.78 in the 2022 Human Development Report, reflecting a relatively high level of education development.
+
+- Healthcare quality index:
+  The World Health Organization (WHO) rates Chile's healthcare system as one of the best in Latin America, with widespread access to quality healthcare services.
+
+- Human development index (HDI):
+  Chile's HDI was 0.855 in 2022, placing it in the very high human development category.
+
+Cultural Factors (C)
+- Cultural proximity index:
+  Hofstede's cultural dimensions indicate Chile has moderate power distance, high collectivism, and significant uncertainty avoidance, which influence business and social interactions.
+
+- Language similarity index:
+  Spanish is the official language of Chile, creating a high level of linguistic uniformity across the country.
+
+- Cross-cultural communication adaptability:
+  Chileans are known for their formal and respectful communication style, with adaptability influenced by their European and indigenous cultural heritage.
+
+Environmental Factors (Env)
+- Environmental performance index:
+  Chile ranked 44 out of 180 countries in the 2022 Environmental Performance Index, indicating strong environmental policies and practices.
+
+- Carbon footprint per capita:
+  Chile's carbon footprint per capita is moderate, with significant efforts to reduce emissions through renewable energy initiatives.
+
+- Renewable energy usage percentage:
+  Renewable energy accounts for about 45% of Chile's total energy consumption, primarily through hydroelectric, solar, and wind energy.

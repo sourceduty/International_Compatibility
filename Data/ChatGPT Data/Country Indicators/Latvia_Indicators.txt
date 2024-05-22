@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+- International Agreements Participation: Latvia is a member of numerous international organizations and agreements, including the United Nations, the International Monetary Fund (IMF), the International Organization for Migration (IOM), and the World Trade Organization (WTO). It participates actively in EU initiatives and has bilateral treaties with many countries, including investment and trade agreements.
+
+- Political Stability Index: According to the World Bank's Worldwide Governance Indicators, Latvia's political stability has seen fluctuations, particularly influenced by regional geopolitical tensions and internal political changes.
+
+- Corruption Perception Index: Transparency International's Corruption Perception Index (CPI) for 2023 ranks Latvia 36th out of 180 countries, indicating a moderate level of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per Capita: As of 2023, Latvia's GDP per capita is approximately $21,000, reflecting steady economic growth despite regional challenges and global economic uncertainties.
+
+- Trade Openness Index: Latvia's economy is highly open, with a trade-to-GDP ratio of around 100%. It benefits from its strategic location and integration into the EU market.
+
+- Foreign Direct Investment (FDI) Inflows: Latvia has attracted significant FDI, particularly in sectors such as information technology, manufacturing, and logistics. The net FDI inflows were about 3% of GDP in recent years.
+
+Social Factors (S)
+
+- Education Index: Latvia's education system is well-regarded, with a high literacy rate and strong performance in international assessments. The Education Index from the UNDP places Latvia among the top performers globally.
+
+- Healthcare Quality Index: Latvia has made significant improvements in healthcare, but challenges remain. The Healthcare Access and Quality Index scores Latvia around 80 out of 100, indicating room for further improvement.
+
+- Human Development Index (HDI): Latvia's HDI score is 0.866, ranking it in the very high human development category, reflecting strong performance in life expectancy, education, and income.
+
+Cultural Factors (C)
+
+- Cultural Proximity Index: Based on Hofstede's cultural dimensions, Latvia scores high on individualism and low on power distance, indicating a society that values independence and equality.
+
+- Language Similarity Index: Latvian, the official language, is part of the Baltic language group, with some similarities to Lithuanian but distinct from the neighboring Slavic and Germanic languages.
+
+- Cross-Cultural Communication Adaptability: Latvia has a diverse cultural landscape, with a significant Russian-speaking minority, which influences its adaptability in cross-cultural communication, particularly within the EU.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index: Latvia ranks well in the Environmental Performance Index, particularly in areas like air quality and biodiversity. Its 2022 score was around 70 out of 100.
+
+- Carbon Footprint per Capita: Latvia has one of the lower carbon footprints per capita in the EU, reflecting its extensive use of renewable energy sources and efficient energy policies.
+
+- Renewable Energy Usage Percentage: Renewable energy accounts for approximately 40% of Latvia's total energy consumption, driven by significant investments in hydropower, biomass, and wind energy.

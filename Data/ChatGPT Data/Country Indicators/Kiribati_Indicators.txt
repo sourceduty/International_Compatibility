@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Kiribati is a participant in several international agreements, particularly in environmental and maritime domains. It is a signatory to the Paris Agreement, Kyoto Protocol, and the Law of the Sea, among others. These agreements reflect Kiribati's commitment to addressing climate change and managing marine resources effectively.
+
+2. Political stability index: Kiribati enjoys a relatively stable political environment, although it faces challenges such as climate change and economic vulnerability. The upcoming presidential election in 2024 will be a critical event for maintaining this stability.
+
+3. Corruption perception index: Specific recent data on Kiribati's corruption perception index isn't readily available, but like many small island nations, it faces governance challenges that can impact perceptions of corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Kiribati's GDP per capita was approximately $1,890 USD in 2023. The economy is heavily reliant on fisheries, remittances, and aid from international partners.
+
+2. Trade openness index: Kiribati has a moderate trade openness index, with its economy significantly dependent on imports and limited exports mainly focused on fish and copra. 
+
+3. Foreign direct investment (FDI) inflows: FDI inflows to Kiribati are relatively low, constrained by its geographic isolation and limited market size. The country continues to seek investments particularly in sustainable fisheries and renewable energy.
+
+Social Factors (S)
+
+1. Education index: Kiribati invests significantly in education, achieving a literacy rate above 90%. However, challenges remain in terms of educational infrastructure and resources, especially in remote islands.
+
+2. Healthcare quality index: The healthcare system in Kiribati faces significant challenges, including limited facilities and resources. Efforts are ongoing to improve healthcare services, particularly in response to the impacts of climate change on public health.
+
+3. Human development index (HDI): Kiribati's HDI is estimated to be around 0.623, placing it in the medium human development category. This reflects the country's efforts in improving health and education amidst economic challenges.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Kiribati's culture is characterized by high collectivism and strong community ties. These cultural dimensions play a crucial role in social cohesion and community resilience.
+
+2. Language similarity index: The official languages of Kiribati are I-Kiribati and English. English is used in official and educational contexts, facilitating communication with international partners.
+
+3. Cross-cultural communication adaptability: Kiribati's extensive engagement with international organizations and its significant diaspora enhance its adaptability in cross-cultural communications. The nation's experience with international aid and development projects further supports this adaptability.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Kiribati scored low on the Environmental Performance Index, reflecting significant environmental challenges including coastal erosion, pollution, and the impacts of climate change.
+
+2. Carbon footprint per capita: Kiribati’s carbon footprint per capita is relatively low, around 0.6 metric tons of CO2, due to its low industrial activity and reliance on renewable energy sources.
+
+3. Renewable energy usage percentage: Renewable energy constitutes a significant portion of Kiribati’s energy consumption, with investments in solar energy projects aimed at reducing dependency on imported fossil fuels.

@@ -1,0 +1,62 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Bhutan is actively involved in international agreements, including the United Nations Convention Against Transnational Organized Crime (UNTOC) and its Protocol to Prevent, Suppress, and Punish Trafficking in Persons. The country is also a signatory to the Paris Agreement, aligning with global efforts to combat climate change.
+
+Political Stability Index
+- Bhutan maintains a relatively stable political environment, characterized by a hereditary monarchy and a parliamentary democracy. Recent elections have contributed to political stability, although regional geopolitical tensions, particularly with China and India, pose ongoing challenges.
+
+Corruption Perception Index
+- Transparency International ranks Bhutan relatively well in terms of low corruption levels, indicating effective governance and anti-corruption measures. Efforts to enhance transparency and reduce corruption continue.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Bhutan's GDP per capita is approximately $3,500. The economy is primarily driven by hydropower, agriculture, and tourism.
+
+Trade Openness Index
+- Bhutan has a moderate trade openness index, supported by its strategic trade agreements and efforts to diversify its economic base. The country is exploring carbon trading markets and has partnerships with countries like Singapore.
+
+Foreign Direct Investment (FDI) Inflows
+- Bhutan continues to attract foreign direct investment, particularly in sectors like hydropower and sustainable tourism. Regulatory reforms are being implemented to improve the investment climate.
+
+Social Factors (S)
+
+Education Index
+- Bhutan has made significant progress in education, with a high literacy rate and substantial government investment in education at all levels. Efforts focus on improving educational outcomes and accessibility.
+
+Healthcare Quality Index
+- The healthcare system in Bhutan provides comprehensive medical services, with ongoing investments to enhance healthcare infrastructure and services. The government prioritizes equitable access to quality healthcare for all citizens.
+
+Human Development Index (HDI)
+- Bhutan ranks moderately on the Human Development Index, reflecting progress in health, education, and living standards. Continued investments in social services are necessary to improve its HDI ranking further.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Bhutan's cultural dimensions reflect a society with high power distance and collectivism, influenced by its Buddhist heritage and traditional values. These cultural traits impact social interactions and organizational behavior.
+
+Language Similarity Index
+- The official language of Bhutan is Dzongkha, but English is widely used in education and government, facilitating communication and cultural exchange with other English-speaking countries.
+
+Cross-Cultural Communication Adaptability
+- Bhutan's emphasis on Gross National Happiness and its multicultural society contribute to strong adaptability in cross-cultural communication. Exposure to diverse cultures supports effective international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Bhutan faces environmental challenges but is committed to sustainability. The government implements policies to improve environmental performance, focusing on reducing emissions and promoting renewable energy.
+
+Carbon Footprint per Capita
+- Bhutan has a low carbon footprint per capita, maintaining emissions below its carbon removal capacity due to its extensive forest cover. The country is committed to remaining carbon-neutral.
+
+Renewable Energy Usage Percentage
+- Bhutan heavily invests in renewable energy, particularly hydropower, which constitutes a significant part of its energy mix. Efforts are ongoing to diversify into solar and wind energy.
+
+Sources
+- Carnegie Endowment for International Peace
+- United Nations in Bhutan
+- Kuensel Online
+- World Factbook
+- UNODC

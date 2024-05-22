@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Equatorial Guinea is a party to several international agreements and organizations, including the United Nations (UN), World Trade Organization (WTO), and the International Monetary Fund (IMF). The country also participates in numerous environmental agreements such as the Paris Agreement, Kyoto Protocol, and the Convention on Biological Diversity. Regionally, it is a member of the Central African Economic and Monetary Community (CEMAC) and the Economic Community of Central African States (ECCAS).
+
+2. Political Stability Index:
+   Equatorial Guinea has faced challenges with political stability, primarily due to long-standing leadership and limited political freedom. President Teodoro Obiang Nguema Mbasogo has been in power since 1979, which has led to concerns about the concentration of power and lack of political pluralism.
+
+3. Corruption Perception Index:
+   Transparency International ranks Equatorial Guinea low on the Corruption Perceptions Index, reflecting significant issues with corruption and governance. The country is noted for its lack of transparency and misuse of oil revenues.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, Equatorial Guinea's GDP per capita is approximately $17,000 USD (2020 estimate), driven largely by oil and gas exports. However, economic growth has been hampered by declining oil revenues and lack of diversification.
+
+2. Trade Openness Index:
+   The country's trade openness is influenced by its oil exports, which constitute the majority of its trade activities. Equatorial Guinea is working to diversify its economy and improve trade relations within and beyond the African continent.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   Equatorial Guinea has attracted FDI primarily in the oil and gas sectors. Efforts to diversify the economy include attracting investments in agriculture, mining, and infrastructure development.
+
+Social Factors (S)
+
+1. Education Index:
+   Equatorial Guinea's education system faces significant challenges. While the literacy rate is relatively high, at 95.3%, the quality of education and access to higher education remain areas needing improvement.
+
+2. Healthcare Quality Index:
+   The healthcare system is underdeveloped, with limited access to quality medical services. The country has a low physician density of 0.4 per 1,000 people, and healthcare expenditures are around 3.8% of GDP.
+
+3. Human Development Index (HDI):
+   Equatorial Guinea's HDI is 0.592, indicating low human development. Despite high GDP per capita, the benefits are not evenly distributed, and many citizens still live in poverty.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Using Hofstede’s cultural dimensions, Equatorial Guinea displays high power distance and collectivism, reflecting a society that values hierarchical structures and community ties.
+
+2. Language Similarity Index:
+   Spanish and French are the official languages, aligning the country with other Francophone and Hispanophone countries, facilitating regional integration and communication.
+
+3. Cross-Cultural Communication Adaptability:
+   The diverse ethnic composition and colonial history contribute to a complex cultural landscape, necessitating adaptability in cross-cultural communication.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Equatorial Guinea faces environmental challenges such as deforestation, water pollution, and biodiversity loss. The country has committed to several international environmental agreements to address these issues.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita is relatively low, around 5.65 megatons, due to limited industrial activity outside of the oil sector.
+
+3. Renewable Energy Usage Percentage:
+   Efforts are being made to increase renewable energy usage, although the country's energy sector is still heavily reliant on fossil fuels.

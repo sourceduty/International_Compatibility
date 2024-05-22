@@ -1,0 +1,25 @@
+
+Political Factors (P)
+- International agreements participation: Gabon is a participant in multiple international agreements, including the Paris Agreement, the Kyoto Protocol, and agreements on biodiversity, desertification, and hazardous wastes.
+- Political stability index: Following the lifting of sanctions by ECCAS in March 2024, Gabon's political risk has diminished, though instability risks remain. The country has experienced political changes that have affected investor confidence.
+- Corruption perception index: Gabon scored 29 out of 100 on the Corruption Perceptions Index 2023, indicating significant challenges with corruption.
+
+Economic Factors (E)
+- GDP per capita: The GDP per capita for Gabon in 2023 was approximately $8,600 USD.
+- Trade openness index: Gabon's trade openness index reflects its active engagement in global trade, with exports and imports forming a significant part of its economy.
+- Foreign direct investment (FDI) inflows: Gabon attracted around $1.5 billion USD in FDI inflows in 2023, with significant investments in the mining, timber, and agricultural sectors.
+
+Social Factors (S)
+- Education index: Gabon's education index is 0.592, reflecting moderate achievements in education with room for improvement.
+- Healthcare quality index: Gabon scores relatively low on the Healthcare Quality and Access (HAQ) Index, with significant disparities in access to healthcare services across the population.
+- Human development index (HDI): Gabon's HDI is 0.703, placing it in the medium human development category.
+
+Cultural Factors (C)
+- Cultural proximity index: Based on Hofstede's cultural dimensions, Gabon exhibits high power distance and uncertainty avoidance, indicating a culture that values hierarchical structures and prefers avoiding uncertainty.
+- Language similarity index: Gabon's official language is French, which is closely related to other Romance languages such as Spanish and Italian.
+- Cross-cultural communication adaptability: Gabon scores moderately on adaptability in cross-cultural communication, influenced by its diverse ethnic composition and interactions with international communities.
+
+Environmental Factors (Env)
+- Environmental performance index: Gabon ranks relatively high on the Environmental Performance Index, scoring 59.3 due to its significant forest cover and efforts in biodiversity protection.
+- Carbon footprint per capita: Gabon's carbon footprint per capita is approximately 1.8 metric tons of CO2 annually, lower than many developed nations but reflective of its industrial activities.
+- Renewable energy usage percentage: As of 2023, 12% of Gabon's energy consumption comes from renewable sources, primarily hydroelectric power.

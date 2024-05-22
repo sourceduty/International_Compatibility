@@ -1,0 +1,40 @@
+
+Political Factors (P)
+1. International Agreements Participation: 
+   Active participation in the Paris Agreement and multilateral development institutions.
+2. Political Stability Index: 
+   -0.33 (World Bank)
+3. Corruption Perception Index: 
+   42/100, Rank: 66 (Transparency International)
+
+Economic Factors (E)
+1. GDP per Capita: 
+   $12,556 USD (2022, World Bank)
+2. Trade Openness Index: 
+   37.7% of GDP
+3. Foreign Direct Investment (FDI) Inflows: 
+   $163 billion USD (2022, UNCTAD)
+
+Social Factors (S)
+1. Education Index: 
+   0.714 (2021, HDI)
+2. Healthcare Quality Index: 
+   48.2/100 (Global Health Security Index)
+3. Human Development Index (HDI): 
+   0.768, Rank: 85 (HDI)
+
+Cultural Factors (C)
+1. Cultural Proximity Index: 
+   High Power Distance (80), Long-Term Orientation (87) (Hofstede)
+2. Language Similarity Index: 
+   High, with Mandarin Chinese as the predominant language.
+3. Cross-Cultural Communication Adaptability: 
+   Improved but with existing challenges.
+
+Environmental Factors (Env)
+1. Environmental Performance Index: 
+   37.3, Rank: 120 (EPI)
+2. Carbon Footprint per Capita: 
+   7.6 metric tons CO2
+3. Renewable Energy Usage Percentage: 
+   26% (2022)

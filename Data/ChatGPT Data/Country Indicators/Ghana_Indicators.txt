@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International agreements participation: Ghana is actively involved in numerous international agreements, reflecting its commitment to multilateralism and regional cooperation. As a founding member of the Non-Aligned Movement, Ghana continues to engage in peacekeeping operations and fosters economic integration in Africa.
+- Political stability index: According to the World Bank, Ghana's political stability index score is -0.07 in 2021, indicating a relatively stable political environment.
+- Corruption perception index: Ghana scored 43 out of 100 on Transparency International's Corruption Perceptions Index in 2022, ranking 73rd out of 180 countries.
+
+Economic Factors (E)
+
+- GDP per capita: As of 2022, Ghana's GDP per capita is approximately $2,445 (World Bank).
+- Trade openness index: Ghana's trade openness index, which measures the sum of exports and imports as a percentage of GDP, was around 80.45% in 2021 (World Bank).
+- Foreign direct investment (FDI) inflows: Ghana attracted $2.6 billion in FDI in 2021 (UNCTAD).
+
+Social Factors (S)
+
+- Education index: Ghana has made significant strides in education, with an education index score of 0.622 in the Human Development Report 2021-2022.
+- Healthcare quality index: Ghana's healthcare quality index, as measured by the Global Health Security Index, stands at 35.7 out of 100 in 2021.
+- Human development index (HDI): Ghana's HDI is 0.632, ranking it 138th out of 191 countries in the 2021-2022 Human Development Report.
+
+Cultural Factors (C)
+
+- Cultural proximity index: Hofstede's cultural dimensions for Ghana indicate a relatively high power distance and collectivism, reflecting hierarchical structures and strong community ties.
+- Language similarity index: Ghana has a high language similarity index within West Africa due to the widespread use of English and indigenous languages such as Akan and Ewe.
+- Cross-cultural communication adaptability: Ghana's diverse linguistic landscape and history of multiculturalism contribute to a moderate level of cross-cultural communication adaptability.
+
+Environmental Factors (Env)
+
+- Environmental performance index: Ghana scored 42.0 out of 100 on the Environmental Performance Index in 2022, ranking 129th out of 180 countries.
+- Carbon footprint per capita: Ghana's carbon footprint is relatively low at about 0.5 metric tons per capita in 2021 (World Bank).
+- Renewable energy usage percentage: Approximately 22% of Ghana's energy consumption comes from renewable sources as of 2021 (International Renewable Energy Agency).

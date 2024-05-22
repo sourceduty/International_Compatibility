@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International Agreements Participation: Greece is a participant in numerous international agreements and organizations, including the United Nations, European Union, NATO, and recently, the Artemis Accords for space exploration, indicating active participation in international collaborations (Wikipedia, SpaceNews).
+
+2. Political Stability Index: Greece's political stability index, according to the World Bank, has seen fluctuations but generally hovers around the global average, reflecting moderate stability.
+
+3. Corruption Perception Index: According to Transparency International's 2022 report, Greece scored 52 out of 100, ranking 51st out of 180 countries, indicating moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per Capita: As of 2022, Greece's GDP per capita stands at approximately $20,876 (World Bank).
+
+2. Trade Openness Index: Greece's trade openness index, which measures the sum of exports and imports as a percentage of GDP, is around 62%, indicating a moderate level of trade activity (World Bank).
+
+3. Foreign Direct Investment (FDI) Inflows: Greece saw FDI inflows amounting to $4.85 billion in 2022, reflecting growing foreign investment interest (UNCTAD).
+
+Social Factors (S)
+
+1. Education Index: Greece has an education index of 0.793, reflecting a high level of educational attainment (UNDP).
+
+2. Healthcare Quality Index: Greece ranks 14th in the Bloomberg Healthiest Country Index, reflecting high healthcare quality.
+
+3. Human Development Index (HDI): Greece's HDI is 0.888, ranking it 32nd globally, indicating a very high level of human development (UNDP).
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index (Hofstede's Cultural Dimensions): Greece scores high on individualism and uncertainty avoidance, indicating a culture that values individual achievement and has a low tolerance for uncertainty (Hofstede Insights).
+
+2. Language Similarity Index: Greek is an Indo-European language, sharing moderate linguistic similarities with other languages in this family, but distinct in its unique script and grammar.
+
+3. Cross-Cultural Communication Adaptability: Greece's adaptability in cross-cultural communication is facilitated by its rich history in international trade and tourism, fostering a high degree of cultural exchange and adaptability (Ethnologue).
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index: Greece ranks 25th globally with a score of 71.1, reflecting strong performance in environmental health and ecosystem vitality (Yale EPI).
+
+2. Carbon Footprint per Capita: Greece's carbon footprint is approximately 6.5 metric tons per capita as of 2021, indicating a moderate level of emissions (World Bank).
+
+3. Renewable Energy Usage Percentage: Renewable energy accounts for about 20% of Greece's total energy consumption, reflecting a significant commitment to sustainable energy (IEA).

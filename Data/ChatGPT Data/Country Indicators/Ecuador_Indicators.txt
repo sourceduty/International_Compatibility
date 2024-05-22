@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Ecuador is a member of several international agreements and organizations, including the World Trade Organization (WTO), United Nations (UN), and the International Monetary Fund (IMF). Additionally, Ecuador participates in various environmental agreements such as the Paris Agreement, Kyoto Protocol, and the Convention on Biological Diversity. The country is also part of regional trade agreements like the Andean Community and the Comprehensive Trade Agreement with the European Union.
+
+2. Political Stability Index:
+   The World Bank's indicators show that Ecuador has faced political instability in recent years, influenced by factors such as economic challenges, social unrest, and governance issues.
+
+3. Corruption Perception Index:
+   Transparency International ranks Ecuador 105th out of 180 countries in the Corruption Perceptions Index, indicating significant issues with corruption within the public sector.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   According to recent data, Ecuador's GDP per capita is approximately $6,200 USD, reflecting a developing economy with substantial reliance on oil exports and remittances.
+
+2. Trade Openness Index:
+   Ecuador has a moderate trade openness index, facilitated by its participation in various trade agreements that promote exports and imports. Key trade partners include the United States, China, and the European Union.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   The country has seen a steady increase in FDI, particularly in sectors such as oil, mining, and manufacturing. Ecuador's government has implemented policies to attract more foreign investment, which is crucial for economic growth.
+
+Social Factors (S)
+
+1. Education Index:
+   Ecuador has made significant progress in education, with high enrollment rates in primary and secondary education. The country continues to invest in improving the quality of education and increasing access to higher education.
+
+2. Healthcare Quality Index:
+   The healthcare system in Ecuador has improved over the years, with better access to medical services and increased government spending on health. However, disparities remain, particularly between urban and rural areas.
+
+3. Human Development Index (HDI):
+   Ecuador's HDI is around 0.759, indicating a medium to high level of human development. The country has shown progress in life expectancy, education, and income per capita.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Using Hofstede's cultural dimensions, Ecuador scores high in collectivism and uncertainty avoidance, reflecting a society that values close-knit family structures and prefers stability and predictability.
+
+2. Language Similarity Index:
+   Spanish is the official language, facilitating communication and cultural exchange with other Spanish-speaking countries in Latin America and supporting regional integration.
+
+3. Cross-Cultural Communication Adaptability:
+   Ecuadorians are generally adaptable in cross-cultural communication, influenced by the country's diverse indigenous and mestizo heritage and the presence of international tourism and expatriate communities.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Ecuador faces environmental challenges such as deforestation and pollution. However, it has committed to various international environmental agreements to address these issues and improve its environmental policies.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita in Ecuador is relatively low, around 1.6 metric tons, due to its mix of energy sources and moderate industrial activity.
+
+3. Renewable Energy Usage Percentage:
+   Ecuador has been increasing its use of renewable energy sources, with significant investments in hydroelectric power, which now constitutes a substantial portion of its energy production.

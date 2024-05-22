@@ -1,0 +1,60 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Cameroon is a member of various international agreements and regional organizations. It has signed economic partnership agreements with the UK and participates actively in the African Continental Free Trade Area (AfCFTA), which aims to enhance intra-African trade. Additionally, Cameroon is involved in several bilateral and multilateral environmental and human rights agreements, contributing to its global engagement.
+
+Political Stability Index
+- Political stability in Cameroon is relatively low, primarily due to internal conflicts, particularly in the Anglophone regions. These areas have experienced significant unrest and violence due to separatist movements, affecting overall national stability.
+
+Corruption Perception Index
+- Transparency International ranks Cameroon low on the Corruption Perception Index, indicating high levels of corruption. The country faces significant challenges in governance and anti-corruption measures.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Cameroon’s GDP per capita is approximately $1,500. The economy is driven by agriculture, oil, and services, with ongoing efforts to diversify through sectors like technology and manufacturing.
+
+Trade Openness Index
+- Cameroon has a moderate trade openness index. The country exports a variety of products including petroleum oils, cocoa beans, and timber, and imports a significant amount from China, France, and India. Trade policies are influenced by its memberships in regional trade blocs and international agreements.
+
+Foreign Direct Investment (FDI) Inflows
+- Cameroon attracts foreign direct investment, particularly in the natural resources sector, including oil and gas, mining, and agriculture. Efforts to improve the investment climate are ongoing, although political and economic challenges persist.
+
+Social Factors (S)
+
+Education Index
+- Cameroon has made progress in education, with improving literacy rates and school enrollment. However, disparities in educational quality and access remain, particularly in rural areas and conflict-affected regions.
+
+Healthcare Quality Index
+- The healthcare system in Cameroon faces significant challenges, especially in rural areas. Access to quality healthcare services is limited, and the ongoing conflict in the Anglophone regions has further strained healthcare infrastructure.
+
+Human Development Index (HDI)
+- Cameroon ranks low on the Human Development Index, reflecting challenges in health, education, and income levels. Efforts to improve living standards and reduce socio-economic disparities are ongoing.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Cameroon’s cultural dimensions reflect high power distance and collectivism, influenced by its diverse ethnic composition and colonial history. These cultural traits impact social interactions and organizational behavior within the country.
+
+Language Similarity Index
+- The official languages of Cameroon are French and English, which facilitates communication and cultural exchange within the country and with international partners. This bilingual nature supports cross-cultural adaptability.
+
+Cross-Cultural Communication Adaptability
+- Cameroon’s multicultural society and emphasis on bilingual education contribute to adaptability in cross-cultural communication. The population’s exposure to diverse cultures supports effective international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Cameroon faces significant environmental challenges, including deforestation and pollution. The government is working on policies to enhance environmental sustainability and manage natural resources effectively.
+
+Carbon Footprint per Capita
+- Cameroon’s carbon footprint per capita is relatively low, reflecting its developing economy and limited industrial activities. Efforts to promote renewable energy and reduce emissions are ongoing.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Cameroon is increasing, with investments in hydropower and solar energy projects. These initiatives aim to diversify the energy mix and promote sustainability.
+
+Sources
+- UK Government
+- Human Rights Watch
+- International Trade Portal

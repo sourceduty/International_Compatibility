@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International agreements participation: Comoros has participated in various international agreements, including investment treaties with several countries. Notably, it has been part of numerous international investment agreements, contributing to its integration into the global economy.
+- Political stability index: According to the World Bank, Comoros has faced political instability, with scores reflecting challenges in governance and political turmoil.
+- Corruption perception index: Transparency International's Corruption Perceptions Index ranks Comoros with a score indicating significant challenges with corruption in governance.
+
+Economic Factors (E)
+
+- GDP per capita: As of the latest data, the GDP per capita for Comoros is around $1,428 USD.
+- Trade openness index: Comoros has a moderate level of trade openness, with a focus on improving trade relations and reducing barriers to trade.
+- Foreign direct investment (FDI) inflows: FDI inflows have been relatively low, with around $4 million USD recorded in recent years. The stock of FDI stood at approximately $145.5 million USD.
+
+Social Factors (S)
+
+- Education index: The education system in Comoros faces challenges, with lower scores on the education index reflecting issues in accessibility and quality.
+- Healthcare quality index: Healthcare quality is also limited, with infrastructure and resource constraints impacting the overall health index.
+- Human development index (HDI): Comoros has a low HDI, reflecting a combination of economic, health, and educational challenges impacting the overall development of the country.
+
+Cultural Factors (C)
+
+- Cultural proximity index: Comoros shares cultural similarities with other Swahili-speaking regions, with influences from African, Arab, and French cultures shaping its cultural landscape.
+- Language similarity index: The primary languages spoken in Comoros include Comorian, Arabic, and French, reflecting its historical and cultural connections.
+- Cross-cultural communication adaptability: The diverse cultural heritage of Comoros suggests moderate adaptability in cross-cultural communication, though there are challenges due to the diversity of influences and historical contexts.
+
+Environmental Factors (Env)
+
+- Environmental performance index: Comoros scores relatively low on the environmental performance index, facing issues with environmental sustainability and resource management.
+- Carbon footprint per capita: The carbon footprint per capita in Comoros is low, reflecting limited industrialization and lower levels of emissions compared to more developed nations.
+- Renewable energy usage percentage: Renewable energy usage is limited but growing, with efforts to increase reliance on renewable sources to improve sustainability.

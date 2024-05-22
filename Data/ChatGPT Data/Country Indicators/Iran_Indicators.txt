@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Iran has signed multiple international agreements. Notable among these is its involvement in the Iran-Turkey cooperation on regional security and energy projects, as well as agreements with Qatar covering trade, energy, and cultural cooperation. Iran also participates in the Astana format talks with Russia and Turkey to address the Syrian crisis.
+
+2. Political stability index: Iran's political environment is marked by significant challenges, including regional conflicts, economic sanctions, and internal unrest. The political stability index reflects these issues, with the country facing ongoing protests and geopolitical tensions.
+
+3. Corruption perception index: According to Transparency International, Iran scored 25 out of 100 in the 2022 Corruption Perceptions Index, indicating high levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Iran's GDP per capita was approximately $5,510 USD in 2022, reflecting economic struggles due to sanctions and internal economic policies.
+
+2. Trade openness index: Iran's trade openness is moderate, with significant trade relationships primarily within the region. The country's economic activities include substantial engagements with countries like Turkey and Qatar.
+
+3. Foreign direct investment (FDI) inflows: Iran's FDI inflows are limited due to international sanctions and economic isolation. Recent agreements with Qatar and Turkey aim to boost economic cooperation and investments.
+
+Social Factors (S)
+
+1. Education index: Iran places a strong emphasis on education, with high literacy rates and significant investments in higher education and research. However, the education system faces challenges due to economic constraints and political influences.
+
+2. Healthcare quality index: Iran's healthcare system is relatively developed but struggles with funding and resource allocation. The country has made advancements in medical research and healthcare infrastructure.
+
+3. Human development index (HDI): Iran's HDI is 0.783, placing it in the high human development category, reflecting improvements in health, education, and living standards.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Iran scores high on power distance and collectivism, indicating a hierarchical society with strong community ties. These cultural dimensions influence social and business interactions.
+
+2. Language similarity index: Persian (Farsi) is the official language, with other languages such as Kurdish, Azeri, and Arabic spoken in various regions. English is commonly taught and used in business and higher education contexts.
+
+3. Cross-cultural communication adaptability: Iran's rich cultural heritage and historical interactions with various civilizations enhance its adaptability in cross-cultural communications. The country has a significant diaspora, contributing to its global cultural connections.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Iran scored 38.4 on the Environmental Performance Index, highlighting significant environmental challenges, including air pollution and water scarcity.
+
+2. Carbon footprint per capita: Iran’s carbon footprint per capita is approximately 7.4 metric tons of CO2, reflecting its heavy reliance on fossil fuels for energy production.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 7% of Iran’s total energy consumption, with ongoing projects in solar, wind, and hydropower aimed at increasing this share.

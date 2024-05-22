@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Cyprus is a member of numerous international organizations, including the European Union (EU), United Nations (UN), World Trade Organization (WTO), and International Monetary Fund (IMF). It participates actively in various international treaties and agreements, such as the Paris Agreement on climate change and multiple bilateral investment treaties (BITs).
+
+2. Political Stability Index:
+   According to the World Bank's Worldwide Governance Indicators, Cyprus enjoys a high level of political stability, reflecting its well-established democratic institutions and governance structures.
+
+3. Corruption Perception Index:
+   Transparency International's Corruption Perceptions Index ranks Cyprus 52nd out of 180 countries, indicating a moderate level of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, Cyprus's GDP per capita is approximately $28,300 USD, positioning it as a high-income country within the EU.
+
+2. Trade Openness Index:
+   Cyprus has a high trade openness index, facilitated by its strategic location and membership in the EU, which allows for extensive trade relations with other member states and global partners.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   Cyprus attracts significant FDI, particularly in sectors like finance, real estate, and tourism. The country received about $5.3 billion USD in FDI inflows recently.
+
+Social Factors (S)
+
+1. Education Index:
+   Cyprus scores high on the education index, with a well-developed public education system and high literacy rates. The country invests significantly in education and research.
+
+2. Healthcare Quality Index:
+   The healthcare system in Cyprus is of high quality, with comprehensive coverage and services. The country ranks well in terms of healthcare access and outcomes.
+
+3. Human Development Index (HDI):
+   Cyprus has a high HDI score of 0.875, indicating significant achievements in life expectancy, education, and standard of living.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Using Hofstede's cultural dimensions, Cyprus shows high scores in collectivism and uncertainty avoidance, reflecting a society that values strong community ties and prefers structured situations.
+
+2. Language Similarity Index:
+   The official languages are Greek and Turkish, aligning Cyprus closely with Greece and Turkey, respectively. This linguistic proximity facilitates regional communication and integration.
+
+3. Cross-Cultural Communication Adaptability:
+   Cyprus exhibits strong adaptability in cross-cultural communication, supported by its tourism industry and multicultural interactions within the EU.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Cyprus ranks well on the Environmental Performance Index, reflecting strong environmental policies and practices in areas such as biodiversity and habitat conservation, and air quality.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita in Cyprus is relatively moderate compared to other European countries, with ongoing efforts to reduce emissions through renewable energy projects.
+
+3. Renewable Energy Usage Percentage:
+   Renewable energy accounts for a significant portion of Cyprus’s energy consumption, with substantial investments in wind, solar, and hydroelectric power.

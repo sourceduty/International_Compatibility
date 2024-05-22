@@ -1,0 +1,25 @@
+
+Political Factors (P)
+- International agreements participation: France is an active participant in numerous international agreements, including the Paris Agreement, the Artemis Accords for space exploration, and various EU trade agreements.
+- Political stability index: France's political stability index as of the latest data is 0.05 (on a scale from -2.5 to 2.5), indicating moderate stability.
+- Corruption perception index: France scores 71 out of 100 on the Corruption Perceptions Index 2023, ranking 23rd globally.
+
+Economic Factors (E)
+- GDP per capita: The GDP per capita for France in 2023 is approximately $44,800 USD.
+- Trade openness index: France has a trade openness index score of 57.3, reflecting the country's substantial integration into the global economy.
+- Foreign direct investment (FDI) inflows: In 2023, France attracted around $37 billion USD in FDI inflows.
+
+Social Factors (S)
+- Education index: France's education index is 0.847, ranking high on the UN's Education Index due to its comprehensive education system.
+- Healthcare quality index: France scores 84.7 on the Healthcare Quality and Access (HAQ) Index, making it one of the highest-ranking countries for healthcare quality.
+- Human development index (HDI): France's HDI is 0.901, placing it in the very high human development category.
+
+Cultural Factors (C)
+- Cultural proximity index: Based on Hofstede's cultural dimensions, France exhibits high individualism and uncertainty avoidance, reflecting a culture that values independence and structured environments.
+- Language similarity index: French is a Romance language, sharing significant lexical similarities with other Romance languages like Italian and Spanish.
+- Cross-cultural communication adaptability: France scores relatively high in adaptability in cross-cultural communication, due to its diverse population and extensive international interactions.
+
+Environmental Factors (Env)
+- Environmental performance index: France ranks 5th globally with a score of 80.0 on the Environmental Performance Index, indicating strong performance in sustainability and environmental health.
+- Carbon footprint per capita: France's carbon footprint per capita is approximately 4.6 metric tons of CO2 annually, lower than the global average.
+- Renewable energy usage percentage: As of 2023, 23% of France's energy consumption comes from renewable sources.

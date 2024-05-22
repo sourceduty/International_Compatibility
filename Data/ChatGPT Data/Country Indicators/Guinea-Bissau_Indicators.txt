@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Guinea-Bissau is a participant in multiple international organizations and agreements including the United Nations (UN), African Union (AU), Economic Community of West African States (ECOWAS), and several environmental treaties such as the Kyoto Protocol and the Paris Agreement on climate change.
+
+2. Political stability index: Guinea-Bissau has experienced significant political instability, characterized by frequent coups and government changes. The political stability index reflects these challenges, with ongoing efforts to stabilize the country.
+
+3. Corruption perception index: Guinea-Bissau scored 19 out of 100 on the Corruption Perceptions Index, indicating a high level of perceived corruption. This places the country among those with significant corruption issues.
+
+Economic Factors (E)
+
+1. GDP per capita: Guinea-Bissau's GDP per capita was approximately $2,057 in 2021, reflecting a modest economic status largely driven by agriculture and natural resource exports.
+
+2. Trade openness index: Guinea-Bissau's trade openness, which measures the sum of exports and imports as a percentage of GDP, indicates a moderate level of integration into the global economy.
+
+3. Foreign direct investment (FDI) inflows: FDI inflows were about 1.5% of GDP in 2020, showing limited but positive foreign investment interest in the country.
+
+Social Factors (S)
+
+1. Education index: Guinea-Bissau faces significant educational challenges with a low literacy rate and limited educational infrastructure. The education index reflects these difficulties, emphasizing the need for improvement in this sector.
+
+2. Healthcare quality index: Healthcare in Guinea-Bissau is underfunded and underdeveloped, with spending at around 0.9% of GDP. Life expectancy is low, highlighting the urgent need for improvements in healthcare services.
+
+3. Human development index (HDI): Guinea-Bissau's HDI is 0.477, placing it very low on the global scale of human development, reflecting poor outcomes in health, education, and standard of living.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Cultural indices for Guinea-Bissau suggest high power distance and collectivism, typical of many West African societies, indicating a culture that values hierarchy and community ties.
+
+2. Language similarity index: The official language is Portuguese, with several indigenous languages widely spoken, reflecting the country's colonial history and cultural diversity.
+
+3. Cross-cultural communication adaptability: Guinea-Bissau's diverse ethnic composition and history of international interactions enhance its adaptability in cross-cultural communications.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Guinea-Bissau scored 41.3 on the Environmental Performance Index, indicating significant environmental challenges and a need for better ecological management.
+
+2. Carbon footprint per capita: The carbon footprint per capita in Guinea-Bissau is low, at approximately 0.3 metric tons of CO2, reflecting limited industrial activity.
+
+3. Renewable energy usage percentage: Renewable energy accounts for a small but growing portion of Guinea-Bissau's energy consumption, with ongoing projects aimed at increasing this share.

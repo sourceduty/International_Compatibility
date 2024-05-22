@@ -1,0 +1,60 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Cabo Verde is actively involved in numerous international agreements. It is a member of the Economic Community of West African States (ECOWAS), the World Trade Organization (WTO), and has bilateral investment treaties (BITs) with countries such as Morocco. The country also participates in the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and various environmental and human rights agreements.
+
+Political Stability Index
+- Cabo Verde is recognized for its political stability, consistently maintaining a high-performing democracy. This stability is supported by regular and transparent elections, contributing to a favorable environment for economic and social development.
+
+Corruption Perception Index
+- According to Transparency International, Cabo Verde ranks well in terms of corruption perception, indicating relatively low levels of corruption compared to other countries in the region. This has been attributed to effective governance and legal frameworks.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Cabo Verde's GDP per capita is approximately $3,700. The economy is diversified with significant contributions from tourism, services, and remittances from the diaspora.
+
+Trade Openness Index
+- Cabo Verde has a high trade openness index, reflecting its integration into global markets. The country’s strategic location and favorable trade policies enhance its trade relationships, particularly in the tourism and services sectors.
+
+Foreign Direct Investment (FDI) Inflows
+- Cabo Verde continues to attract foreign direct investment, especially in tourism, renewable energy, and infrastructure development. The government actively promotes FDI through various incentives and supportive policies.
+
+Social Factors (S)
+
+Education Index
+- Cabo Verde has a high literacy rate and invests significantly in education, with substantial improvements in school enrollment and educational outcomes over recent years. The government prioritizes education in its development agenda.
+
+Healthcare Quality Index
+- The healthcare system in Cabo Verde is relatively well-developed, with ongoing investments aimed at improving healthcare infrastructure and services. The country has made significant progress in increasing access to healthcare.
+
+Human Development Index (HDI)
+- Cabo Verde ranks moderately on the Human Development Index, reflecting strong performance in health, education, and standard of living. Continuous efforts are made to enhance these indicators further.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Cabo Verde’s cultural dimensions, influenced by its Portuguese colonial history and African heritage, reflect high power distance and collectivism. These cultural traits impact social interactions and organizational behavior within the country.
+
+Language Similarity Index
+- The official language is Portuguese, while Cape Verdean Creole is widely spoken. This linguistic diversity facilitates communication and cultural exchange within the Lusophone world and with international partners.
+
+Cross-Cultural Communication Adaptability
+- Cabo Verde’s multicultural society and emphasis on education contribute to strong adaptability in cross-cultural communication. The population’s exposure to diverse cultures supports effective international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Cabo Verde faces significant environmental challenges, including climate change impacts like sea level rise and loss of biodiversity. The government is committed to enhancing environmental sustainability and resilience.
+
+Carbon Footprint per Capita
+- Cabo Verde’s carbon footprint per capita is low, reflecting its developing economy and limited industrial activities. Efforts are being made to promote renewable energy and reduce carbon emissions.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Cabo Verde is increasing, with significant investments in solar and wind energy projects. The country aims to generate 50% of its electricity from renewable sources by 2030.
+
+Sources
+- World Bank
+- UNCTAD Investment Policy Hub
+- International IDEA

@@ -1,0 +1,50 @@
+
+### Political Factors (P)
+1. International Agreements Participation:
+   - Georgia is a member of multiple international organizations, including the United Nations, World Trade Organization, and Council of Europe. It has signed various bilateral and multilateral agreements, particularly focused on trade and security.
+
+2. Political Stability Index:
+   - The latest value for Georgia's political stability index is -0.44 (2022) on a scale from -2.5 (weak) to 2.5 (strong). The country has shown improvements over the years, reflecting a relatively stable political environment compared to its past.
+
+3. Corruption Perception Index:
+   - In 2023, Georgia scored 56 on the Corruption Perceptions Index, indicating a moderate level of perceived corruption. This score reflects ongoing efforts to combat corruption and improve governance.
+
+### Economic Factors (E)
+1. GDP per Capita:
+   - As of 2022, Georgia's GDP per capita is approximately $6,073. This figure represents the average income per person and provides an overview of the country's economic performance.
+
+2. Trade Openness Index:
+   - Georgia maintains a high trade openness index, largely due to its strategic location and free trade agreements with the European Union and other countries. This index measures the ratio of trade (exports + imports) to GDP, emphasizing Georgia's integration into the global economy.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   - In recent years, Georgia has attracted significant FDI, with inflows reaching around $1.24 billion in 2022. These investments are crucial for economic growth and development.
+
+### Social Factors (S)
+1. Education Index:
+   - Georgia's education index is relatively high, with a strong emphasis on improving literacy rates and access to higher education. The index measures the average years of schooling for adults and expected years of schooling for children.
+
+2. Healthcare Quality Index:
+   - The healthcare quality index for Georgia shows progress in improving healthcare services, although challenges remain. The index considers various factors, including life expectancy, healthcare infrastructure, and access to medical services.
+
+3. Human Development Index (HDI):
+   - Georgia's HDI value for 2022 is 0.786, placing it in the high human development category. This composite index measures average achievement in key dimensions of human development: a long and healthy life, knowledge, and a decent standard of living.
+
+### Cultural Factors (C)
+1. Cultural Proximity Index:
+   - Based on Hofstede's cultural dimensions, Georgia exhibits characteristics such as high power distance and collectivism. These cultural traits influence business practices and social interactions within the country.
+
+2. Language Similarity Index:
+   - The primary language in Georgia is Georgian, with a high degree of language uniformity. However, Russian and English are also commonly spoken, especially in business and tourism sectors.
+
+3. Cross-Cultural Communication Adaptability:
+   - Georgia has a moderate level of adaptability in cross-cultural communication, with increasing exposure to international influences through tourism and business interactions.
+
+### Environmental Factors (Env)
+1. Environmental Performance Index:
+   - Georgia's environmental performance index score is 53.4, indicating moderate performance in terms of sustainability and environmental policies. This index assesses various factors such as air quality, biodiversity, and climate change policies.
+
+2. Carbon Footprint per Capita:
+   - The carbon footprint per capita in Georgia is relatively low compared to global averages, reflecting lower industrial activity and energy consumption levels.
+
+3. Renewable Energy Usage Percentage:
+   - Approximately 30% of Georgia's energy comes from renewable sources, primarily hydroelectric power. This percentage highlights the country's commitment to sustainable energy practices and reducing reliance on fossil fuels.

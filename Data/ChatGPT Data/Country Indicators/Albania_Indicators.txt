@@ -1,0 +1,58 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Albania is actively participating in several international agreements, particularly with the European Union. The EU and Albania have finalized the IPA22 and IPA23 agreements, providing substantial financial assistance for various projects, including environmental protection, youth empowerment, strengthening democracy, and aligning with EU standards.
+
+Political Stability Index
+- Albania has made significant progress in stabilizing its political environment, although challenges remain. The country is engaged in structural reforms aimed at enhancing governance and public service delivery, which are essential for political stability.
+
+Corruption Perception Index
+- Albania continues to struggle with corruption. According to Transparency International, Albania's corruption perception remains high, indicating ongoing issues with governance and public trust in institutions.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Albania's GDP per capita is approximately $6,743, reflecting its status as an upper-middle-income country. The economy has shown resilience despite global challenges, with growth driven by private consumption, exports, and investment.
+
+Trade Openness Index
+- Albania's trade openness has improved, facilitated by efforts to enhance regional connectivity and access to global markets. These efforts are crucial for promoting economic growth and diversification.
+
+Foreign Direct Investment (FDI) Inflows
+- Foreign direct investment in Albania has seen positive trends, particularly in sectors like tourism, agriculture, and digitization. The government's focus on these areas is expected to attract more foreign investment in the coming years.
+
+Social Factors (S)
+
+Education Index
+- Albania has made significant strides in improving its education system. The government continues to invest in educational reforms to ensure higher quality and accessibility for all citizens.
+
+Healthcare Quality Index
+- The healthcare system in Albania is improving, with increased investments aimed at enhancing the quality of healthcare services. The focus on healthcare reforms is expected to lead to better health outcomes for the population.
+
+Human Development Index (HDI)
+- Albania ranks relatively well on the Human Development Index, reflecting improvements in health, education, and living standards. Continued efforts in these areas are crucial for further progress.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Albania's cultural proximity, as measured by indices like Hofstede's cultural dimensions, indicates a society with moderate levels of individualism and uncertainty avoidance, reflecting its historical and social context.
+
+Language Similarity Index
+- The primary language in Albania is Albanian, which has significant linguistic ties with neighboring regions, promoting cultural and communication adaptability.
+
+Cross-Cultural Communication Adaptability
+- Albania exhibits moderate adaptability in cross-cultural communication, influenced by its diverse cultural interactions and historical ties with various regions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Albania faces environmental challenges, but efforts are underway to improve its environmental performance. Projects supported by the EU focus on enhancing water quality, waste management, and sustainable practices.
+
+Carbon Footprint per Capita
+- The carbon footprint per capita in Albania is relatively low, given its limited industrial base and reliance on renewable energy sources.
+
+Renewable Energy Usage Percentage
+- Albania has a high percentage of renewable energy usage, primarily from hydroelectric sources. The country is working towards increasing its renewable energy capacity to reduce dependency on fossil fuels and improve environmental sustainability.
+
+Sources
+- European External Action Service (EEAS), Chambers and Partners, World Bank, Transparency International.

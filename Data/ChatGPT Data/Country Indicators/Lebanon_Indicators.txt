@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+- International Agreements Participation: Lebanon has signed several international agreements, including Free Trade Agreements with major trading partners such as the European Union, EFTA States, and the Gulf Cooperation Countries. It is also part of the Greater Arab Free Trade Area (GAFTA) and has been negotiating accession to the World Trade Organization (WTO).
+
+- Political Stability Index: Lebanon has faced significant political instability, exacerbated by ongoing economic crises, lack of effective governance, and regional tensions. The World Bank's Worldwide Governance Indicators reflect these challenges, indicating low political stability in recent years.
+
+- Corruption Perception Index: Transparency International's Corruption Perception Index for 2023 ranks Lebanon at 150th out of 180 countries, indicating a high level of perceived corruption.
+
+Economic Factors (E)
+
+- GDP per Capita: Lebanon's GDP per capita has significantly declined due to the severe economic crisis. As of 2023, it stands at approximately $3,000, reflecting the substantial contraction in the economy.
+
+- Trade Openness Index: Despite its economic challenges, Lebanon maintains a relatively high trade openness, with trade constituting a significant portion of its GDP. This openness is facilitated by its strategic location and historical role as a trading hub.
+
+- Foreign Direct Investment (FDI) Inflows: Lebanon has seen a reduction in FDI inflows due to political instability and economic uncertainty. The IMF and other international organizations have highlighted the need for significant reforms to attract and sustain foreign investment.
+
+Social Factors (S)
+
+- Education Index: Lebanon has a strong education system historically, but recent crises have threatened the sector. Public schools have faced budget shortfalls, and many students are at risk of losing educational opportunities.
+
+- Healthcare Quality Index: The healthcare system in Lebanon has suffered due to the economic downturn, with shortages in medical supplies and reduced access to healthcare services for many citizens.
+
+- Human Development Index (HDI): Lebanon's HDI has declined due to the ongoing crises, reflecting lower life expectancy, reduced access to education, and declining living standards.
+
+Cultural Factors (C)
+
+- Cultural Proximity Index: Lebanon scores high on cultural proximity indices, reflecting its diverse cultural heritage and the coexistence of various religious and ethnic groups. Hofstede’s cultural dimensions indicate a high level of collectivism and uncertainty avoidance in Lebanese society.
+
+- Language Similarity Index: Arabic is the official language, with French and English widely spoken. This multilingualism enhances Lebanon's cultural adaptability and communication with different parts of the world.
+
+- Cross-Cultural Communication Adaptability: Lebanon's diverse cultural and linguistic landscape fosters a high level of adaptability in cross-cultural communication, crucial for its international business and diplomatic engagements.
+
+Environmental Factors (Env)
+
+- Environmental Performance Index: Lebanon faces significant environmental challenges, ranking lower on the Environmental Performance Index due to issues such as air pollution, waste management, and water scarcity.
+
+- Carbon Footprint per Capita: Lebanon's carbon footprint per capita is relatively high for the region, driven by energy consumption patterns and reliance on fossil fuels.
+
+- Renewable Energy Usage Percentage: The usage of renewable energy in Lebanon remains limited, with a small percentage of total energy consumption coming from renewable sources. Efforts are ongoing to increase this share through various projects and international collaborations.

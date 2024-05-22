@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   The Dominican Republic is an active participant in multiple international agreements and organizations, including the World Trade Organization (WTO), United Nations (UN), and the International Monetary Fund (IMF). It is also a member of regional organizations such as the Central American Integration System (SICA) and CARICOM (as an observer).
+
+2. Political Stability Index:
+   The World Bank's Worldwide Governance Indicators reflect that the Dominican Republic has moderate political stability, though it faces challenges such as corruption and political tension that can affect stability.
+
+3. Corruption Perception Index:
+   Transparency International's Corruption Perceptions Index ranks the Dominican Republic 128th out of 180 countries, indicating significant challenges with corruption.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, the GDP per capita in the Dominican Republic is approximately $10,120 USD, reflecting a growing economy with a strong emphasis on tourism and services.
+
+2. Trade Openness Index:
+   The Dominican Republic has a high trade openness index due to its extensive engagement in international trade, particularly through agreements like the Dominican Republic-Central America Free Trade Agreement (CAFTA-DR).
+
+3. Foreign Direct Investment (FDI) Inflows:
+   The country has seen substantial FDI inflows, particularly in sectors like tourism, real estate, and manufacturing. In recent years, the Dominican Republic has been a top recipient of FDI in the Caribbean.
+
+Social Factors (S)
+
+1. Education Index:
+   The Dominican Republic places significant emphasis on education, with improvements in literacy rates and educational access. However, there are still challenges in quality and completion rates.
+
+2. Healthcare Quality Index:
+   The healthcare system in the Dominican Republic has seen improvements but remains variable, with disparities between urban and rural areas. Efforts are ongoing to enhance healthcare access and quality.
+
+3. Human Development Index (HDI):
+   The HDI for the Dominican Republic is around 0.756, indicating medium to high human development with significant progress in life expectancy, education, and income per capita.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Hofstede's cultural dimensions for the Dominican Republic indicate high collectivism and power distance, reflecting a society that values community and hierarchical structures.
+
+2. Language Similarity Index:
+   Spanish is the official language, facilitating communication with other Spanish-speaking nations in Latin America and supporting regional integration.
+
+3. Cross-Cultural Communication Adaptability:
+   The Dominican Republic demonstrates good adaptability in cross-cultural communication, driven by its tourism sector and interactions with diverse expatriate communities.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   The Dominican Republic faces environmental challenges such as deforestation and water pollution. However, it has committed to various international environmental agreements to address these issues.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita is relatively low, around 2.4 metric tons, reflecting moderate industrialization and significant reliance on renewable resources.
+
+3. Renewable Energy Usage Percentage:
+   The Dominican Republic has been increasing its renewable energy capacity, with investments in wind, solar, and hydroelectric power contributing to its energy mix.

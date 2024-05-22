@@ -1,0 +1,60 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Austria is actively involved in numerous international agreements and organizations, including the United Nations, the European Union, and the International Monetary Fund. The country has bilateral agreements with nations worldwide to promote education, research, and economic cooperation, such as agreements with the US, China, and countries in Latin America and Africa.
+
+Political Stability Index
+- Austria enjoys high political stability, supported by a well-functioning democratic system and effective governance. The country's political environment is marked by regular elections and robust institutions, contributing to its overall stability.
+
+Corruption Perception Index
+- According to Transparency International, Austria ranks relatively high in terms of low corruption levels, reflecting its strong legal framework and effective anti-corruption measures.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Austria's GDP per capita is approximately $55,000, indicating a high standard of living and a strong, diversified economy driven by sectors like manufacturing, services, and tourism.
+
+Trade Openness Index
+- Austria has a high trade openness index, facilitated by its membership in the EU and numerous trade agreements. This openness supports significant export and import activities, crucial for its economic growth.
+
+Foreign Direct Investment (FDI) Inflows
+- Austria attracts substantial FDI, particularly in sectors such as technology, manufacturing, and finance. The government continues to create a favorable environment for foreign investors through supportive policies and infrastructure.
+
+Social Factors (S)
+
+Education Index
+- Austria has a well-developed education system, with a high literacy rate and significant government investment in primary, secondary, and tertiary education. The country is known for its quality higher education institutions and research facilities.
+
+Healthcare Quality Index
+- Austria's healthcare system is among the best in the world, providing comprehensive and high-quality medical services. The country's healthcare infrastructure ensures accessible and effective care for all citizens.
+
+Human Development Index (HDI)
+- Austria ranks very high on the Human Development Index, reflecting excellent performance in health, education, and income levels. The country's social policies and economic stability contribute to this high ranking.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Austria's cultural dimensions, based on Hofstede’s model, indicate high individualism and low power distance, similar to other Western European countries. This cultural alignment supports social cohesion and international business.
+
+Language Similarity Index
+- The primary language in Austria is German, which facilitates communication and cultural exchange with other German-speaking countries. This linguistic similarity enhances international cooperation and business relationships.
+
+Cross-Cultural Communication Adaptability
+- Austria’s multicultural society and robust education system contribute to strong adaptability in cross-cultural communication. The population's exposure to diverse cultures and languages supports effective international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Austria is committed to environmental sustainability, actively working on policies to improve environmental performance. The country invests in renewable energy, waste management, and conservation initiatives.
+
+Carbon Footprint per Capita
+- Austria’s carbon footprint per capita is moderate, with ongoing efforts to reduce greenhouse gas emissions through increased use of renewable energy and energy efficiency measures.
+
+Renewable Energy Usage Percentage
+- Austria is increasing its renewable energy usage, with significant investments in solar, wind, and hydroelectric power. These initiatives are part of the country’s broader strategy to promote sustainability and reduce reliance on fossil fuels.
+
+Sources
+- Austrian Government Department of Foreign Affairs and Trade
+- European Union Reports
+- Transparency International

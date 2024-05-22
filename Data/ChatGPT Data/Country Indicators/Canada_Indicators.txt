@@ -1,0 +1,61 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Canada is actively involved in numerous international agreements, including the Paris Agreement, the Comprehensive Economic and Trade Agreement (CETA) with the EU, and the United States-Mexico-Canada Agreement (USMCA). Canada has also engaged in various bilateral and multilateral agreements to promote free trade and protect foreign investments.
+
+Political Stability Index
+- Canada is recognized for its high political stability, supported by a well-established democratic system, regular elections, and effective governance. This stability is reflected in its high global rankings for governance and rule of law.
+
+Corruption Perception Index
+- Transparency International ranks Canada relatively high on the Corruption Perception Index, indicating low levels of corruption compared to other countries. This is a result of strong legal frameworks and effective anti-corruption measures.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Canada’s GDP per capita is approximately $52,000. The economy is diverse, with significant contributions from sectors such as natural resources, manufacturing, technology, and services.
+
+Trade Openness Index
+- Canada has a high trade openness index, facilitated by its numerous trade agreements and strong integration into global markets. Key trading partners include the United States, China, and the European Union.
+
+Foreign Direct Investment (FDI) Inflows
+- Canada continues to attract substantial foreign direct investment, particularly in natural resources, technology, and real estate sectors. The country offers a favorable business environment and various incentives to foreign investors.
+
+Social Factors (S)
+
+Education Index
+- Canada boasts a high literacy rate and a well-developed education system, consistently ranking among the top countries in global education indices. Government investment in education is significant, supporting primary, secondary, and tertiary education.
+
+Healthcare Quality Index
+- The healthcare system in Canada is publicly funded and provides comprehensive coverage to all residents. The quality of healthcare services is high, although challenges remain in ensuring equitable access across all regions.
+
+Human Development Index (HDI)
+- Canada ranks very high on the Human Development Index, reflecting strong performance in health, education, and income levels. The country is committed to continuous improvement in these areas to maintain its high standards of living.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Canada’s cultural dimensions, based on Hofstede’s model, show a society with moderate power distance, individualism, and a relatively low uncertainty avoidance. These traits influence social interactions and organizational behavior within the country.
+
+Language Similarity Index
+- Canada is officially bilingual, with English and French as the official languages. This linguistic diversity facilitates cultural exchange and communication within the country and with international partners.
+
+Cross-Cultural Communication Adaptability
+- Canada’s multicultural society and emphasis on inclusion contribute to strong adaptability in cross-cultural communication. The population’s exposure to diverse cultures supports effective international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Canada faces environmental challenges but is committed to improving sustainability. The government has implemented numerous policies to reduce emissions and protect natural resources. Participation in international agreements like the Paris Agreement underscores its commitment to addressing climate change.
+
+Carbon Footprint per Capita
+- Canada’s carbon footprint per capita is relatively high, largely due to its energy-intensive industries and cold climate. Efforts are ongoing to reduce emissions through investments in renewable energy and technological innovations.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Canada is growing, with significant investments in hydroelectric, wind, and solar power projects. The government aims to increase the share of renewables in the energy mix to promote sustainability.
+
+Sources
+- Government of Canada
+- Transparency International
+- World Bank
+- UNCTAD Investment Policy Hub

@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Cuba is a participant in several international agreements, including the Paris Agreement, Kyoto Protocol, and numerous biodiversity and environmental treaties. The country has bilateral investment treaties (BITs) with nations such as Belarus, Austria, and Peru.
+
+2. Political Stability Index:
+   Cuba maintains a tightly controlled political environment under the Communist Party. The state swiftly addresses any public dissent, maintaining a degree of political stability but at the cost of limited political freedoms.
+
+3. Corruption Perception Index:
+   Due to limited data transparency and independent monitoring, precise rankings for Cuba on the Corruption Perceptions Index are challenging to obtain, but the country is generally perceived to have significant levels of corruption.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, Cuba's GDP per capita is approximately $9,500 USD. The economy is heavily influenced by state planning and subsidies, particularly from allies such as Venezuela.
+
+2. Trade Openness Index:
+   Cuba has a low trade openness index, reflecting its relatively closed economy. The country trades primarily with a limited number of partners, including China, Spain, and the Netherlands.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   Cuba receives limited FDI due to its restrictive investment environment and ongoing US embargo. However, it has secured investment agreements with several countries to promote reciprocal protection of investments.
+
+Social Factors (S)
+
+1. Education Index:
+   Cuba has a high education index, with literacy rates above 99%. The country provides free education at all levels, contributing to its strong performance in educational attainment.
+
+2. Healthcare Quality Index:
+   The Cuban healthcare system is renowned for its high quality and accessibility, despite economic challenges. The country maintains a comprehensive public health system with impressive health outcomes.
+
+3. Human Development Index (HDI):
+   Cuba's HDI is relatively high for a developing country, reflecting significant achievements in education and healthcare. The HDI score is approximately 0.783.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Using Hofstede's cultural dimensions, Cuba shows high collectivism and power distance, indicating a preference for group cohesion and acceptance of hierarchical order.
+
+2. Language Similarity Index:
+   Spanish is the official language of Cuba, aligning it closely with other Spanish-speaking countries in Latin America and facilitating regional communication.
+
+3. Cross-Cultural Communication Adaptability:
+   Cubans are generally adaptable in cross-cultural communication, particularly due to the country's strong emphasis on education and internationalism in its healthcare diplomacy.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Cuba faces significant environmental challenges, including soil degradation, deforestation, and pollution. However, it actively participates in international environmental agreements.
+
+2. Carbon Footprint per Capita:
+   Cuba has a relatively low carbon footprint per capita, around 2.4 metric tons of CO2, partly due to its limited industrialization.
+
+3. Renewable Energy Usage Percentage:
+   Renewable energy accounts for a growing share of Cuba's energy consumption, with investments in solar and biomass energy contributing to its sustainable energy goals.

@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Kyrgyzstan is actively engaged in numerous international organizations, including the United Nations, the OSCE, and regional bodies like the Shanghai Cooperation Organization (SCO) and the Collective Security Treaty Organization (CSTO). The country has also signed various bilateral agreements, notably with Uzbekistan concerning border and water resource management.
+
+2. Political stability index: Kyrgyzstan experiences moderate political stability, marked by periodic unrest and political upheaval. The annulled 2020 parliamentary elections led to significant political changes, highlighting ongoing governance challenges.
+
+3. Corruption perception index: According to Transparency International, Kyrgyzstan scored 27 out of 100 on the 2022 Corruption Perceptions Index, indicating high levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Kyrgyzstan's GDP per capita was approximately $1,276 USD in 2021. The economy is recovering from the impacts of the COVID-19 pandemic, with GDP growth projected at around 4% for 2022.
+
+2. Trade openness index: Kyrgyzstan has a moderate trade openness index, engaging in significant trade with neighboring countries and beyond. Key exports include gold, garments, and agricultural products.
+
+3. Foreign direct investment (FDI) inflows: Kyrgyzstan saw FDI inflows of over $400 million in 2022, marking a positive trend compared to previous years. Investment is primarily in the mining, energy, and manufacturing sectors.
+
+Social Factors (S)
+
+1. Education index: Kyrgyzstan maintains high literacy rates, with significant investments in education. However, there are challenges in aligning educational outcomes with labor market needs, particularly in rural areas.
+
+2. Healthcare quality index: The healthcare system in Kyrgyzstan is under development, with ongoing reforms to improve access and quality. Despite these efforts, challenges such as funding and infrastructure remain.
+
+3. Human development index (HDI): Kyrgyzstan's HDI is 0.697, placing it in the medium human development category. This reflects improvements in health, education, and living standards, but also ongoing challenges.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Kyrgyzstan scores high on collectivism and power distance, indicating a culture that values group harmony and hierarchical structures. These cultural traits influence social and business interactions.
+
+2. Language similarity index: Kyrgyz is the official language, with Russian widely spoken and used in business and government. This bilingual environment facilitates communication both within the country and internationally.
+
+3. Cross-cultural communication adaptability: Kyrgyzstan's diverse cultural heritage and historical trade connections enhance its adaptability in cross-cultural communications. The country has significant experience with international cooperation and trade.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Kyrgyzstan scored 42.1 on the Environmental Performance Index, reflecting ongoing efforts and challenges in environmental management and sustainability.
+
+2. Carbon footprint per capita: Kyrgyzstan’s carbon footprint per capita is approximately 1.3 metric tons of CO2, reflecting its energy consumption patterns and reliance on natural gas.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 10% of Kyrgyzstan’s total energy consumption, with investments in hydroelectric power being the primary focus.

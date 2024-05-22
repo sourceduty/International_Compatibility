@@ -1,0 +1,61 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Angola has actively participated in various international agreements. It has signed multiple bilateral investment treaties (BITs) with countries such as China, Japan, and the United Arab Emirates, aimed at promoting and protecting investments. Additionally, Angola ratified the African Continental Free Trade Agreement in 2020 and has a Trade and Investment Framework Agreement with the United States.
+
+Political Stability Index
+- Angola's political stability has been a focus, especially following the recent elections and the government’s efforts to enhance governance and economic reforms. The country has faced challenges related to political stability, which have been addressed through various international partnerships and domestic policies aimed at reducing corruption and improving governance.
+
+Corruption Perception Index
+- Angola continues to struggle with corruption. According to Transparency International, it remains one of the countries with high levels of perceived corruption. The government, supported by international partners like the United States, is making efforts to combat corruption and improve transparency.
+
+Economic Factors (E)
+
+GDP per Capita
+- Angola's GDP per capita is estimated to be around $3,500. The economy is heavily reliant on oil, which constitutes a significant portion of its GDP. Economic diversification efforts are ongoing to reduce dependence on oil and promote other sectors such as agriculture and mining.
+
+Trade Openness Index
+- Angola has been working on improving its trade openness through various agreements and initiatives. The country benefits from preferential trade agreements like the African Growth and Opportunity Act (AGOA) with the United States, which provides duty-free access for certain goods exported from Angola to the U.S.
+
+Foreign Direct Investment (FDI) Inflows
+- Angola has seen a mix of FDI inflows, primarily driven by the oil sector. Recent agreements and investments from countries like the United States, China, and Portugal have aimed to boost infrastructure and other non-oil sectors, promoting broader economic growth.
+
+Social Factors (S)
+
+Education Index
+- The education system in Angola is under development, with significant investments needed to improve literacy rates and educational infrastructure. The government is focusing on reforms to enhance the quality and accessibility of education across the country.
+
+Healthcare Quality Index
+- Angola's healthcare system faces numerous challenges, including limited access to medical facilities and trained healthcare professionals. International aid and partnerships are crucial in addressing healthcare issues and improving overall health outcomes.
+
+Human Development Index (HDI)
+- Angola ranks relatively low on the Human Development Index, reflecting challenges in health, education, and standard of living. Continued efforts in economic reforms and social investments are necessary to improve its HDI ranking.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Angola's cultural dimensions, influenced by Portuguese colonial history, reflect a blend of African traditions and Portuguese culture. This affects social behaviors and organizational structures within the country.
+
+Language Similarity Index
+- The official language of Angola is Portuguese, which facilitates communication and cultural exchange with other Portuguese-speaking countries. Various indigenous languages are also spoken, adding to the cultural diversity of the country.
+
+Cross-Cultural Communication Adaptability
+- Angola's history and diverse cultural landscape contribute to moderate adaptability in cross-cultural communication. Efforts to improve language education and cultural exchange programs are ongoing to enhance this adaptability.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Angola faces significant environmental challenges, including deforestation, water pollution, and wildlife conservation issues. The government is working on various initiatives to improve environmental management and sustainability practices.
+
+Carbon Footprint per Capita
+- Angola's carbon footprint per capita is relatively low compared to developed nations, primarily due to its lower industrial activity. However, efforts are being made to increase the use of renewable energy sources and reduce carbon emissions.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Angola is increasing, with investments in solar and hydropower projects. These efforts aim to diversify the energy mix and reduce reliance on fossil fuels.
+
+Sources
+- U.S. Department of State
+- UNCTAD Investment Policy Hub
+- The White House
+- Trade.gov

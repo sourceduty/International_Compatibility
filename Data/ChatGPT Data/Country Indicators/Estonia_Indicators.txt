@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Estonia is actively involved in numerous international agreements. It is a member of the United Nations (UN), World Trade Organization (WTO), and the International Monetary Fund (IMF). Estonia has also ratified environmental agreements such as the Paris Agreement, Kyoto Protocol, and the Convention on Biological Diversity.
+
+2. Political Stability Index:
+   Estonia is considered politically stable, with a well-established parliamentary republic system. This stability is bolstered by its membership in the European Union (EU) and NATO, which provide a framework for political and economic stability.
+
+3. Corruption Perception Index:
+   Estonia ranks 13th out of 180 countries in Transparency International's Corruption Perceptions Index, indicating a low level of perceived corruption and strong anti-corruption measures.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, Estonia's GDP per capita is approximately $24,000 USD. The economy is driven by services, manufacturing, and information technology sectors.
+
+2. Trade Openness Index:
+   Estonia has a high trade openness index, with significant trade activities facilitated by its EU membership. The country’s top trade partners include Finland, Germany, and Sweden.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   Estonia has attracted substantial FDI, particularly in sectors such as IT, logistics, and manufacturing. The country's business-friendly environment and strategic location contribute to its attractiveness for foreign investors.
+
+Social Factors (S)
+
+1. Education Index:
+   Estonia invests heavily in education, spending about 5.2% of its GDP on education. The country boasts a high literacy rate of 99.8%, and the average school life expectancy is 16 years.
+
+2. Healthcare Quality Index:
+   Estonia has a well-developed healthcare system, with significant investments in medical infrastructure and services. The healthcare expenditure is about 6.7% of GDP, providing comprehensive care to its population.
+
+3. Human Development Index (HDI):
+   Estonia's HDI is 0.892, placing it in the high human development category. This reflects strong performance in health, education, and income indices.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Using Hofstede’s cultural dimensions, Estonia shows moderate power distance and individualism, reflecting a society that values both hierarchical structures and personal autonomy.
+
+2. Language Similarity Index:
+   Estonian is the official language, but Russian is also widely spoken due to historical influences. This linguistic diversity aids in regional communication and integration within the Baltic region.
+
+3. Cross-Cultural Communication Adaptability:
+   Estonia’s diverse cultural background and high levels of education contribute to strong cross-cultural communication adaptability, essential for its international business and diplomatic engagements.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Estonia performs well in environmental sustainability, with efforts focused on reducing pollution from oil-shale burning and improving wastewater treatment. The country is committed to various international environmental agreements.
+
+2. Carbon Footprint per Capita:
+   Estonia's carbon footprint per capita is relatively high at 16.59 metric tons, mainly due to its energy-intensive industries. However, there are ongoing efforts to reduce emissions through technological advancements.
+
+3. Renewable Energy Usage Percentage:
+   Estonia is increasingly investing in renewable energy sources, with a significant portion of its energy mix coming from wind and biomass. The country aims to further expand its renewable energy capacity to enhance sustainability.

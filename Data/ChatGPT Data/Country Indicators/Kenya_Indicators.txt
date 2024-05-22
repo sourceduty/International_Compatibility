@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Kenya is a member of several international organizations and agreements, including the World Trade Organization (WTO) since 1995. It participates actively in regional agreements like the East African Community (EAC) and has signed economic partnership agreements with the EU and the U.S. under the Strategic Trade and Investment Partnership (STIP).
+
+2. Political stability index: Kenya experiences moderate political stability. The country has faced challenges related to political unrest and regional security issues, but it continues to make efforts towards maintaining stability through various reforms and international partnerships.
+
+3. Corruption perception index: According to Transparency International, Kenya scored 31 out of 100 on the 2022 Corruption Perceptions Index, indicating a significant level of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Kenya's GDP per capita was approximately $2,006 USD in 2022. The economy is diverse, with significant contributions from agriculture, tourism, and manufacturing.
+
+2. Trade openness index: Kenya has a high trade openness index, benefiting from its strategic location and involvement in various trade agreements, which facilitate its international trade activities.
+
+3. Foreign direct investment (FDI) inflows: Kenya attracted about $1.5 billion in FDI in 2022, with investments focusing on sectors such as renewable energy, manufacturing, and services.
+
+Social Factors (S)
+
+1. Education index: Kenya places a strong emphasis on education, with high literacy rates and significant investments in primary and secondary education. Efforts are ongoing to improve higher education and vocational training.
+
+2. Healthcare quality index: The healthcare system in Kenya is developing, with ongoing reforms aimed at improving access and quality. The country faces challenges such as funding and infrastructure but is making progress through various health initiatives.
+
+3. Human development index (HDI): Kenya's HDI is 0.601, placing it in the medium human development category. This reflects improvements in health, education, and living standards over recent years.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Kenya scores high on collectivism and power distance, indicating a culture that values group harmony and hierarchical structures. These cultural dimensions influence social interactions and business practices.
+
+2. Language similarity index: English and Swahili are the official languages, facilitating communication within the country and with international partners. The bilingual environment supports Kenya's international trade and diplomacy efforts.
+
+3. Cross-cultural communication adaptability: Kenya's diverse cultural heritage and significant diaspora enhance its adaptability in cross-cultural communications. The country's extensive experience in international trade and tourism further supports this adaptability.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Kenya scored 51.1 on the Environmental Performance Index, reflecting ongoing efforts and challenges in environmental management and sustainability.
+
+2. Carbon footprint per capita: Kenya’s carbon footprint per capita is approximately 0.3 metric tons of CO2, reflecting its lower industrial activity compared to more developed nations.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 90% of Kenya’s total energy consumption, with significant investments in hydroelectric, geothermal, and wind energy projects.

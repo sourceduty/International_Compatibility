@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Indonesia has signed multiple international agreements, including the Indonesia-European Free Trade Association Comprehensive Economic Partnership Agreement (IECEPA) and the Indonesia-Japan Economic Partnership Agreement (IJEPA). In 2023, it implemented the Indonesia-Malaysia Border Trade Agreement and the International Coffee Agreement.
+
+2. Political stability index: Indonesia faces ongoing political challenges, including the impact of new laws on civil liberties and regional stability. Despite these issues, the country maintains a relatively stable political environment compared to other Southeast Asian nations.
+
+3. Corruption perception index: According to Transparency International, Indonesia scored 38 out of 100 on the 2022 Corruption Perceptions Index, indicating significant levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: In 2022, Indonesia's GDP per capita was approximately $4,256 USD. The economy is driven by sectors such as manufacturing, services, and natural resources.
+
+2. Trade openness index: Indonesia's trade openness index reflects a high level of engagement in international trade. The country benefits from numerous free trade agreements, enhancing its global market access.
+
+3. Foreign direct investment (FDI) inflows: Indonesia attracted approximately $30.5 billion in FDI in 2023, with significant investments in sectors like energy, infrastructure, and technology.
+
+Social Factors (S)
+
+1. Education index: Indonesia has made substantial progress in education, with increasing literacy rates and government efforts to improve educational infrastructure. However, challenges remain in ensuring equal access to quality education across the archipelago.
+
+2. Healthcare quality index: The healthcare system in Indonesia has improved but still faces challenges in terms of accessibility and quality, particularly in rural areas. Ongoing reforms aim to address these issues.
+
+3. Human development index (HDI): Indonesia's HDI is 0.718, placing it in the medium human development category, reflecting improvements in health, education, and standard of living.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Indonesia scores high on power distance and collectivism, indicating a hierarchical society with strong community ties. These cultural traits influence social and business interactions.
+
+2. Language similarity index: Bahasa Indonesia is the official language, widely spoken across the country. English is also commonly used, especially in business and tourism sectors, facilitating international communication.
+
+3. Cross-cultural communication adaptability: Indonesia's diverse cultural heritage and extensive experience with international trade enhance its adaptability in cross-cultural communication.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Indonesia scored 37.8 on the Environmental Performance Index, reflecting significant environmental challenges, including deforestation and air pollution. Efforts are ongoing to improve environmental sustainability.
+
+2. Carbon footprint per capita: Indonesia’s carbon footprint per capita is approximately 2.3 metric tons of CO2, reflecting its developing economy and reliance on coal as an energy source.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 14% of Indonesia’s total energy consumption, with significant investments in geothermal, solar, and wind energy projects.

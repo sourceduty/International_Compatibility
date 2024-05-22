@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Ireland actively participates in numerous international agreements. It is a member of the European Union (EU), the World Trade Organization (WTO), and the European Free Trade Association (EFTA). Ireland also contributes to international climate action through initiatives like the Paris Agreement and plays a significant role in international human rights bodies such as the United Nations Human Rights Council and the European Union's human rights initiatives.
+
+2. Political stability index: Ireland enjoys a high degree of political stability, underpinned by a well-established democratic system and strong governance structures. This stability supports its robust economic and social frameworks.
+
+3. Corruption perception index: According to Transparency International, Ireland scored 74 out of 100 on the 2022 Corruption Perceptions Index, indicating low levels of perceived corruption. This score reflects Ireland's strong legal and institutional frameworks for combating corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Ireland's GDP per capita was approximately $106,585 USD in 2022, reflecting a high standard of living and a dynamic, high-income economy driven by sectors such as technology, pharmaceuticals, and financial services.
+
+2. Trade openness index: Ireland's trade openness index is high, indicating extensive integration into the global economy. In January 2024, the top exports were medicinal and pharmaceutical products, organic chemicals, and professional scientific apparatus, with major trading partners including the United States, Germany, and the United Kingdom.
+
+3. Foreign direct investment (FDI) inflows: Ireland attracted significant FDI inflows, totaling around $65 billion in 2022. The favorable business environment, including a competitive corporate tax rate, makes Ireland an attractive destination for multinational corporations.
+
+Social Factors (S)
+
+1. Education index: Ireland places a strong emphasis on education, reflected in high literacy rates and significant investments in higher education. The education system is well-regarded globally, contributing to the country's skilled workforce.
+
+2. Healthcare quality index: Ireland's healthcare system is robust, with high expenditure on health services and excellent healthcare outcomes. The country continues to make improvements in healthcare infrastructure and access.
+
+3. Human development index (HDI): Ireland's HDI is 0.955, placing it in the very high human development category. This ranking reflects the country's strong performance in health, education, and income.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Ireland scores low on power distance and high on individualism, indicating a culture that values equality and personal freedom. These cultural traits influence social interactions and business practices.
+
+2. Language similarity index: English is the primary language, with Irish (Gaeilge) also recognized as a national and official language. The widespread use of English facilitates international communication and business.
+
+3. Cross-cultural communication adaptability: Ireland's rich cultural heritage and history of emigration enhance its adaptability in cross-cultural communication. The country has extensive experience in international trade and diplomacy, contributing to its global cultural connections.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Ireland scored 72.8 on the Environmental Performance Index, reflecting strong environmental policies and a commitment to sustainability. The country actively promotes climate action through international initiatives and domestic policies aimed at reducing carbon emissions.
+
+2. Carbon footprint per capita: Ireland’s carbon footprint per capita is approximately 7.7 metric tons of CO2. The country is working to reduce this through various green initiatives and renewable energy projects.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 40% of Ireland’s total energy consumption, with significant investments in wind, solar, and biomass energy projects.

@@ -1,0 +1,62 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Benin is a signatory to all relevant international trade conventions of the World Trade Organization and the United Nations Conference on Trade and Development. The country participates in agreements with the European Union, African Union, Caribbean, and Pacific countries.
+
+Political Stability Index
+- Benin is politically stable and has achieved successive democratic transitions. The country held legislative elections in January 2023, where parties supporting President Patrice Talon secured a majority in the National Assembly.
+
+Corruption Perception Index
+- According to Transparency International, Benin has a score of 43 out of 100 on the Corruption Perceptions Index, ranking 70th out of 180 countries. This indicates moderate levels of corruption.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Benin's GDP per capita is approximately $1,300. The economy is driven by agriculture, trade, and services.
+
+Trade Openness Index
+- Benin has a moderate trade openness index, with significant exports including cotton, cashew nuts, and re-export of imported goods to Nigeria.
+
+Foreign Direct Investment (FDI) Inflows
+- Benin continues to attract FDI, particularly in the agricultural and industrial sectors. Efforts are ongoing to improve the investment climate through regulatory reforms.
+
+Social Factors (S)
+
+Education Index
+- Benin has made progress in education, with increased school enrollment rates. However, the average years of schooling remain low, with significant disparities between urban and rural areas.
+
+Healthcare Quality Index
+- The healthcare system in Benin faces challenges, including limited access to quality services, particularly in rural areas. Investments are being made to improve healthcare infrastructure and services.
+
+Human Development Index (HDI)
+- Benin ranks low on the Human Development Index, with a score of 0.525, placing it 166th out of 191 countries. The country faces challenges in health, education, and income levels.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Benin's cultural dimensions reflect a society with high power distance and collectivism, influenced by its diverse ethnic groups and traditions.
+
+Language Similarity Index
+- The official language of Benin is French, which facilitates communication and cultural exchange with other Francophone countries.
+
+Cross-Cultural Communication Adaptability
+- Benin’s multicultural society and education system contribute to adaptability in cross-cultural communication. Exposure to diverse cultures supports effective international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Benin faces significant environmental challenges, including deforestation, water pollution, and climate change impacts. The government is working on policies to improve environmental sustainability.
+
+Carbon Footprint per Capita
+- Benin’s carbon footprint per capita is low, reflecting its developing economy and limited industrial activities.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Benin is increasing, with investments in solar and wind energy. These initiatives aim to diversify the energy mix and promote sustainability.
+
+Sources
+- World Bank
+- International Trade Administration
+- Transparency International
+- globalEDGE
+- CIA World Factbook

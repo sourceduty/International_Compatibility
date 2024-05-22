@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   El Salvador is an active participant in multiple international organizations and agreements, including the World Trade Organization (WTO), United Nations (UN), International Monetary Fund (IMF), and the Organization of American States (OAS). Additionally, El Salvador is involved in regional agreements such as the Central American Integration System (SICA) and the Comprehensive Free Trade Agreement (CAFTA-DR).
+
+2. Political Stability Index:
+   The country has experienced political challenges, especially with the recent implementation of a state of exception to address gang-related violence. This measure has led to concerns about human rights and political stability, although the government maintains control over security forces.
+
+3. Corruption Perception Index:
+   Transparency International ranks El Salvador 116th out of 180 countries on the Corruption Perceptions Index, indicating ongoing issues with corruption within the public sector.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, El Salvador's GDP per capita is approximately $4,200 USD. The economy is driven by sectors such as services, manufacturing, and agriculture, with remittances playing a significant role.
+
+2. Trade Openness Index:
+   El Salvador has a high trade openness index, facilitated by its participation in several free trade agreements, including CAFTA-DR and the Association Agreement with the European Union. These agreements have helped increase exports and attract foreign investment.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   The country has seen steady FDI inflows, particularly in manufacturing and textile sectors, driven by the benefits of trade agreements and a strategic location in Central America.
+
+Social Factors (S)
+
+1. Education Index:
+   El Salvador invests about 4.1% of its GDP in education. The literacy rate is 89.1%, with an average school life expectancy of 12 years, indicating room for improvement in educational outcomes.
+
+2. Healthcare Quality Index:
+   The healthcare system in El Salvador provides basic services, with healthcare spending at 9.9% of GDP. The density of physicians is 2.87 per 1,000 people, and the country faces challenges in improving healthcare quality and access.
+
+3. Human Development Index (HDI):
+   El Salvador's HDI is 0.673, reflecting medium human development. The country has made progress in life expectancy and education but still faces economic and social challenges.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Using Hofstede's cultural dimensions, El Salvador exhibits high collectivism and uncertainty avoidance, reflecting strong family ties and a preference for structured environments.
+
+2. Language Similarity Index:
+   Spanish is the official language, aligning El Salvador with other Spanish-speaking countries in Latin America, facilitating regional communication and cultural exchange.
+
+3. Cross-Cultural Communication Adaptability:
+   El Salvador shows adaptability in cross-cultural communication, influenced by its diverse cultural heritage and interaction with international businesses and expatriates.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   El Salvador faces environmental challenges such as deforestation, soil erosion, and water pollution. The country is party to several international environmental agreements, including the Paris Agreement and the Kyoto Protocol.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita is relatively low at 1.3 metric tons, reflecting moderate industrial activity and a focus on sustainable practices.
+
+3. Renewable Energy Usage Percentage:
+   El Salvador is increasing its use of renewable energy, particularly in geothermal and hydroelectric power, contributing to its energy mix and sustainability goals.

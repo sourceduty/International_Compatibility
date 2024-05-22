@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Jordan is actively involved in numerous international agreements. It is a member of the United Nations and several of its specialized agencies, such as the Food and Agriculture Organization and the World Health Organization. Jordan is also a founding member of the Arab League and the Organisation of Islamic Cooperation, and participates in various trade agreements including the U.S.-Jordan Free Trade Agreement and regional agreements within CARICOM.
+
+2. Political stability index: Jordan experiences moderate political stability. While it maintains a relatively stable government, it faces challenges related to regional conflicts, economic pressures, and social unrest. Nonetheless, the country is known for its resilience and adaptive policies.
+
+3. Corruption perception index: According to Transparency International, Jordan scored 49 out of 100 on the 2022 Corruption Perceptions Index, indicating moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Jordan's GDP per capita was approximately $4,500 USD in 2022. The economy is diversified but faces significant challenges due to regional instability and limited natural resources.
+
+2. Trade openness index: Jordan has a high trade openness index, engaging extensively in international trade through numerous agreements and partnerships. The country benefits from trade agreements with the United States, European Union, and regional partners.
+
+3. Foreign direct investment (FDI) inflows: Jordan attracted around $950 million in FDI in 2022, with investments focusing on sectors such as energy, manufacturing, and services. The government continues to implement reforms to enhance the investment climate.
+
+Social Factors (S)
+
+1. Education index: Jordan places a strong emphasis on education, achieving high literacy rates and significant investments in higher education. Despite economic challenges, the country continues to prioritize educational development.
+
+2. Healthcare quality index: Jordan's healthcare system is relatively developed, providing a range of services with a focus on improving quality and access. The country is working on reforms to enhance healthcare infrastructure and services.
+
+3. Human development index (HDI): Jordan's HDI is 0.735, placing it in the medium human development category. This reflects steady progress in health, education, and living standards.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Jordan scores high on collectivism and uncertainty avoidance, indicating a culture that values group harmony and stability. These cultural traits influence social interactions and business practices.
+
+2. Language similarity index: Arabic is the official language of Jordan, with English widely taught and used in business and academia. This bilingual environment facilitates international communication.
+
+3. Cross-cultural communication adaptability: Jordan's diverse cultural heritage and historical trade links enhance its adaptability in cross-cultural communications. The country's experience with international cooperation and a significant diaspora further contribute to its global cultural connections.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Jordan scored 53.2 on the Environmental Performance Index, reflecting efforts and challenges in environmental management and sustainability. The country is focusing on initiatives to improve its environmental performance.
+
+2. Carbon footprint per capita: Jordan’s carbon footprint per capita is approximately 3.5 metric tons of CO2, reflecting its energy consumption patterns and industrial activities.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 13% of Jordan’s total energy consumption, with significant investments in solar and wind energy projects to increase this share.

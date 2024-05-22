@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Ethiopia is a signatory to various international agreements and is an active member of organizations such as the United Nations (UN), World Trade Organization (WTO), and the International Monetary Fund (IMF). Ethiopia has also signed agreements with countries like China to enhance cooperation in areas such as agriculture, green economy, and infrastructure.
+
+2. Political Stability Index:
+   Ethiopia has faced significant political challenges, particularly due to conflicts such as the Tigray war. These conflicts have impacted the country's political stability, though recent peace agreements and international support are steps toward stabilizing the region.
+
+3. Corruption Perception Index:
+   According to Transparency International, Ethiopia ranks low on the Corruption Perceptions Index, indicating ongoing issues with corruption that affect governance and economic performance.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, Ethiopia's GDP per capita is approximately $936 USD. The economy is largely based on agriculture, but efforts are ongoing to diversify into sectors such as manufacturing and services.
+
+2. Trade Openness Index:
+   Ethiopia has a moderate trade openness index, influenced by its efforts to integrate into global markets through trade agreements and partnerships, such as those with China under the Belt and Road Initiative.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   Ethiopia attracts FDI mainly in the sectors of agriculture, manufacturing, and infrastructure. Recent agreements aim to further boost FDI by improving the investment climate and expanding economic cooperation.
+
+Social Factors (S)
+
+1. Education Index:
+   The education system in Ethiopia has made progress, with the government investing in improving access to education. However, the quality of education remains a challenge, particularly in rural areas.
+
+2. Healthcare Quality Index:
+   Ethiopia's healthcare system is developing, with ongoing efforts to improve access and quality. Despite these efforts, the healthcare infrastructure faces significant challenges, especially in rural regions.
+
+3. Human Development Index (HDI):
+   Ethiopia's HDI is 0.485, indicating low human development. The country has made strides in improving life expectancy and education, but economic and social challenges continue to affect overall human development.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Ethiopia scores high in collectivism and uncertainty avoidance, reflecting a society that values community ties and structured environments. These cultural traits influence social and organizational behavior.
+
+2. Language Similarity Index:
+   Amharic is the official language, with other languages like Oromo and Tigrinya also widely spoken. This linguistic diversity aids in regional communication and cultural integration.
+
+3. Cross-Cultural Communication Adaptability:
+   Ethiopia's diverse ethnic and cultural composition necessitates adaptability in cross-cultural communication, especially in urban centers and international business contexts.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Ethiopia faces environmental challenges such as deforestation and soil erosion. The country is working to improve its environmental performance through various sustainability initiatives and international agreements.
+
+2. Carbon Footprint per Capita:
+   Ethiopia's carbon footprint per capita is relatively low, at around 0.1 metric tons, reflecting limited industrial activity and reliance on traditional energy sources.
+
+3. Renewable Energy Usage Percentage:
+   Ethiopia is increasing its investment in renewable energy, particularly hydroelectric power, which constitutes a significant portion of its energy mix. Efforts are ongoing to expand the use of wind and solar energy.

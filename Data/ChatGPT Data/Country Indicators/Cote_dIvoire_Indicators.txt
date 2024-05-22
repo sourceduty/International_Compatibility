@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Côte d'Ivoire is a signatory to multiple international agreements including the African Continental Free Trade Agreement (AfCFTA), the Economic Community of West African States (ECOWAS), and the West African Economic and Monetary Union (WAEMU). Additionally, it has bilateral investment treaties with countries such as Japan, Portugal, and the United Arab Emirates.
+
+2. Political Stability Index:
+   According to the World Bank's Political Stability and Absence of Violence/Terrorism index, Côte d'Ivoire has faced challenges with political stability, ranking low in the index compared to global averages.
+
+3. Corruption Perception Index:
+   The Transparency International Corruption Perception Index ranks Côte d'Ivoire 105th out of 180 countries, indicating significant issues with corruption.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data from the World Bank, Côte d'Ivoire's GDP per capita is approximately $2,527.
+
+2. Trade Openness Index:
+   Côte d'Ivoire has a trade openness index of 51.9%, reflecting its active participation in international trade.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   FDI inflows to Côte d'Ivoire have been significant, with the country receiving $901 million in FDI in the most recent year reported by the UNCTAD.
+
+Social Factors (S)
+
+1. Education Index:
+   According to the United Nations Development Programme (UNDP), Côte d'Ivoire has an education index of 0.465, reflecting challenges in the educational sector.
+
+2. Healthcare Quality Index:
+   The healthcare quality index is relatively low, with Côte d'Ivoire scoring 0.45 on a scale where higher scores indicate better quality.
+
+3. Human Development Index (HDI):
+   The HDI for Côte d'Ivoire is 0.516, placing it in the low human development category according to the UNDP.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Using Hofstede's cultural dimensions, Côte d'Ivoire scores high on Power Distance and Uncertainty Avoidance, reflecting a hierarchical society with a preference for clear rules and structures.
+
+2. Language Similarity Index:
+   French is the official language of Côte d'Ivoire, creating a strong linguistic similarity with other Francophone countries in West Africa.
+
+3. Cross-Cultural Communication Adaptability:
+   Côte d'Ivoire's diverse ethnic composition necessitates strong cross-cultural communication adaptability, particularly in urban areas where multiple ethnic groups interact.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Côte d'Ivoire ranks 144th out of 180 countries on the Environmental Performance Index, indicating room for improvement in environmental management.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita is relatively low at 0.5 metric tons of CO2 per year.
+
+3. Renewable Energy Usage Percentage:
+   Renewable energy accounts for approximately 24% of Côte d'Ivoire's total energy consumption, reflecting a commitment to sustainable energy sources.

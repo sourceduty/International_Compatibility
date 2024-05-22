@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Guinea is a signatory to several international environmental and economic treaties, including the United Nations Convention on the Law of the Sea, the Paris Agreement on climate change, and the African Continental Free Trade Area (AfCFTA).
+
+2. Political stability index: Guinea's political stability has been challenged by the 2021 military coup led by Colonel Mamadi Doumbouya, which ousted President Alpha Conde. The country's political environment remains volatile, with efforts ongoing to stabilize and transition back to democratic governance.
+
+3. Corruption perception index: Guinea scores 25 out of 100 on the Corruption Perceptions Index, placing it 150th out of 180 countries in 2022. This indicates high levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Guinea’s GDP per capita was approximately $2,800 in 2021, primarily driven by the mining sector, especially bauxite and gold production.
+
+2. Trade openness index: Guinea's trade openness index indicates that trade represents a significant portion of its GDP, reflecting the importance of exports like bauxite and gold.
+
+3. Foreign direct investment (FDI) inflows: FDI inflows in Guinea were relatively low, at just 1.2% of GDP in 2020, reflecting cautious investment due to political and economic instability.
+
+Social Factors (S)
+
+1. Education index: Guinea has significant educational challenges, with literacy rates at about 54% for men and 27.7% for women. The education index is relatively low due to poor educational infrastructure and access.
+
+2. Healthcare quality index: Healthcare spending in Guinea is low, at 0.9% of GDP in 2019. Life expectancy at birth is 62 years, placing it among the lowest globally.
+
+3. Human development index (HDI): Guinea's HDI is 0.477, ranking it 178th out of 189 countries, indicating very low levels of human development.
+
+Cultural Factors (C)
+
+1. Cultural proximity index: Guinea scores high on power distance and collectivism, indicating a culture that values hierarchy and community ties.
+
+2. Language similarity index: French is the official language of Guinea, with multiple indigenous languages spoken across the country, reflecting its colonial history and diverse ethnic composition.
+
+3. Cross-cultural communication adaptability: Guinea's diverse ethnic groups and history of interaction with international organizations enhance its adaptability in cross-cultural communications.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Guinea scored 41.3 on the Environmental Performance Index in 2022, indicating significant challenges in environmental health and ecosystem vitality.
+
+2. Carbon footprint per capita: The carbon footprint per capita in Guinea is relatively low, at around 0.3 metric tons of CO2, reflecting low industrialization levels.
+
+3. Renewable energy usage percentage: Renewable energy accounts for a small but growing share of Guinea's energy consumption, with several projects underway to increase this share.

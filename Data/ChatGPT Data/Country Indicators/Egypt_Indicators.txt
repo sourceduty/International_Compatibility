@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Egypt is actively engaged in various international agreements and organizations. It is a member of the World Trade Organization (WTO), United Nations (UN), and the International Monetary Fund (IMF). Egypt has also signed numerous bilateral investment treaties and is a participant in environmental agreements such as the Paris Agreement and Kyoto Protocol. Additionally, Egypt is involved in regional trade agreements, including the Greater Arab Free Trade Area (GAFTA) and the Common Market for Eastern and Southern Africa (COMESA).
+
+2. Political Stability Index:
+   Egypt has faced challenges with political stability, influenced by economic pressures, social unrest, and governance issues. These factors contribute to a complex political environment that impacts overall stability.
+
+3. Corruption Perception Index:
+   According to Transparency International, Egypt ranks 117th out of 180 countries on the Corruption Perceptions Index, indicating significant issues with corruption that affect public trust and economic performance.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, Egypt's GDP per capita is approximately $3,800 USD. The economy is diverse, with significant contributions from sectors such as tourism, agriculture, and manufacturing.
+
+2. Trade Openness Index:
+   Egypt maintains a moderate trade openness index, facilitated by its strategic location and participation in various international trade agreements. Key trading partners include the United States, China, and countries within the European Union.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   Egypt has been successful in attracting substantial FDI, especially in sectors like energy, real estate, and infrastructure. Recent agreements aim to boost investments in green hydrogen and renewable energy projects, reflecting Egypt's commitment to becoming a regional energy hub.
+
+Social Factors (S)
+
+1. Education Index:
+   Egypt has made significant progress in education, with high enrollment rates at the primary and secondary levels. However, challenges remain in improving the quality of education and increasing access to higher education.
+
+2. Healthcare Quality Index:
+   The healthcare system in Egypt has seen improvements, particularly in urban areas. Efforts are ongoing to enhance healthcare services and address disparities between urban and rural healthcare access.
+
+3. Human Development Index (HDI):
+   Egypt's HDI is around 0.707, indicating medium human development with progress in life expectancy, education, and standard of living.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Using Hofstede's cultural dimensions, Egypt scores high in power distance and collectivism, reflecting a society that values hierarchical structures and strong family ties.
+
+2. Language Similarity Index:
+   Arabic is the official language of Egypt, which facilitates communication and cultural exchange with other Arabic-speaking countries in the Middle East and North Africa.
+
+3. Cross-Cultural Communication Adaptability:
+   Egypt demonstrates good adaptability in cross-cultural communication, influenced by its rich history, diverse population, and significant tourism industry.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Egypt faces environmental challenges such as air pollution and water scarcity. However, the country is making efforts to improve its environmental performance through various sustainability initiatives.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita in Egypt is relatively moderate at around 2.2 metric tons, reflecting the country's energy consumption patterns and industrial activities.
+
+3. Renewable Energy Usage Percentage:
+   Egypt is increasing its investment in renewable energy, particularly in solar and wind power. Recent agreements aim to develop green hydrogen projects, further boosting the country's renewable energy capacity.

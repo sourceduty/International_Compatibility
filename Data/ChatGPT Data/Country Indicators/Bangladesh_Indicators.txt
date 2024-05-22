@@ -1,0 +1,61 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Bangladesh is actively involved in various international agreements, including the United States-Bangladesh Trade and Investment Cooperation Forum Agreement (TICFA), which enhances bilateral trade and investment cooperation. The country also participates in the Bangladesh Climate and Development Platform (BCDP) to leverage investments for climate adaptation and mitigation.
+
+Political Stability Index
+- Bangladesh faces political challenges, particularly with tensions around elections and governance issues. Despite these challenges, the government works towards maintaining stability and addressing socio-economic issues.
+
+Corruption Perception Index
+- Transparency International ranks Bangladesh relatively low in terms of corruption perception, indicating significant issues with corruption that impact governance and economic activities. Efforts to improve transparency and reduce corruption are ongoing but face various challenges.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Bangladesh's GDP per capita is approximately $2,500. The economy is driven by the textile industry, remittances, and a growing services sector.
+
+Trade Openness Index
+- Bangladesh has a moderate trade openness index, facilitated by its significant textile exports and participation in global trade agreements. Efforts are being made to diversify exports and enhance global trade integration.
+
+Foreign Direct Investment (FDI) Inflows
+- Bangladesh continues to attract FDI, particularly in the textile, energy, and manufacturing sectors. In 2022, FDI inflows were significant, reflecting the country's efforts to improve the investment climate and regulatory framework.
+
+Social Factors (S)
+
+Education Index
+- Bangladesh has a high literacy rate with substantial government investment in primary and tertiary education. However, disparities exist in education quality between urban and rural areas. Ongoing reforms aim to improve educational outcomes.
+
+Healthcare Quality Index
+- The healthcare system in Bangladesh is improving, with ongoing investments in infrastructure and services. Efforts are being made to enhance accessibility and quality of care, particularly in rural areas.
+
+Human Development Index (HDI)
+- Bangladesh ranks moderately on the Human Development Index, reflecting progress in health, education, and living standards. Continued investments in social services are necessary to improve its HDI ranking further.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Bangladesh's cultural dimensions, based on Hofstede’s model, reflect a society with high power distance and collectivism. These cultural traits influence social interactions and organizational behavior within the country.
+
+Language Similarity Index
+- The official language is Bengali, with English widely spoken in business and government. This linguistic capability facilitates international business and cultural exchanges.
+
+Cross-Cultural Communication Adaptability
+- Bangladesh's diverse cultural heritage and strategic location as a trade hub contribute to strong adaptability in cross-cultural communication. The population's exposure to diverse cultures supports effective international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Bangladesh faces significant environmental challenges, including air pollution and water management issues. The government is working on improving environmental sustainability through various initiatives and international cooperation.
+
+Carbon Footprint per Capita
+- Bangladesh’s carbon footprint per capita is relatively low, primarily due to its developing economy. However, efforts are being made to increase the use of renewable energy sources and reduce emissions.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Bangladesh is increasing, with significant investments in solar and wind energy. These initiatives aim to diversify the energy mix and promote sustainability.
+
+Sources
+- United States Trade Representative
+- International Monetary Fund
+- United Nations in Bangladesh
+- The KRF Center for Bangladesh and Global Affairs

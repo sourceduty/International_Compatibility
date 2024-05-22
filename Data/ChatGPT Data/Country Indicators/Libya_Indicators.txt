@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation:
+Libya has been involved in various international agreements, including investment treaties and regional security agreements. It has been part of the UN-led Berlin Process aimed at stabilizing the country and creating a unified government.
+
+Political Stability Index:
+Libya has faced significant political instability due to ongoing conflict and the presence of multiple competing factions. This has severely impacted governance and public administration.
+
+Corruption Perception Index:
+Libya is perceived to have high levels of corruption, with significant issues in public administration and law enforcement.
+
+Economic Factors (E)
+
+GDP per Capita:
+As of the latest available data, Libya's GDP per capita is approximately $7,500. The economy heavily depends on oil revenues, which are subject to fluctuations due to political instability and global oil prices.
+
+Trade Openness Index:
+Libya's trade openness is moderate, with the economy being significantly open due to oil exports. However, non-oil sectors face challenges due to political instability.
+
+Foreign Direct Investment (FDI) Inflows:
+FDI inflows have been limited due to the unstable political situation and security concerns, deterring potential investors.
+
+Social Factors (S)
+
+Education Index:
+Libya has a relatively high literacy rate, but the quality of education has been impacted by the ongoing conflict, leading to interruptions and inadequate resources.
+
+Healthcare Quality Index:
+Healthcare quality in Libya has deteriorated due to the conflict, with many health facilities damaged or lacking essential supplies and staff.
+
+Human Development Index (HDI):
+Libya's HDI is 0.718, reflecting medium human development. The ongoing conflict has negatively affected overall development, health, and education outcomes.
+
+Cultural Factors (C)
+
+Cultural Proximity Index:
+Libya scores high on cultural proximity within the Arab region, sharing significant cultural, religious, and linguistic similarities with neighboring countries.
+
+Language Similarity Index:
+Arabic is the official language, with widespread understanding across the Arab world. Berber languages are also spoken among minority groups.
+
+Cross-Cultural Communication Adaptability:
+Cross-cultural communication is facilitated by shared language and cultural practices within the Arab world, but the conflict has limited external interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index:
+Libya's environmental performance is low, with challenges in managing natural resources and pollution control due to weak governance and ongoing conflict.
+
+Carbon Footprint per Capita:
+The carbon footprint per capita is relatively high due to the reliance on fossil fuels, especially in the energy sector.
+
+Renewable Energy Usage Percentage:
+Renewable energy usage is minimal, with the vast majority of energy needs met by oil and gas. Efforts to diversify energy sources have been limited by the conflict.

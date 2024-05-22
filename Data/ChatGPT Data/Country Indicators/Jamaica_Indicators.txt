@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Jamaica is actively involved in various international agreements, including the WTO Agreement on Trade Facilitation and numerous bilateral trade agreements. The country participates in CARICOM and maintains strong trade relationships with the United States, the European Union, and other Caribbean states.
+
+2. Political stability index: Jamaica experiences moderate political stability, impacted by challenges such as crime and social unrest. The government is committed to maintaining stability through reforms and international cooperation.
+
+3. Corruption perception index: According to Transparency International, Jamaica scored 44 out of 100 in the 2022 Corruption Perceptions Index, indicating moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Jamaica's GDP per capita was approximately $5,140 USD in 2022. The economy is heavily reliant on tourism and agriculture, both of which are vulnerable to external shocks.
+
+2. Trade openness index: Jamaica has a high trade openness index due to its participation in various trade agreements and its strategic location for international trade. The country benefits from preferential trade agreements with the US, EU, and Canada under CARICOM.
+
+3. Foreign direct investment (FDI) inflows: Jamaica attracted around $1 billion in FDI in 2022, with significant investments in sectors such as tourism, manufacturing, and services.
+
+Social Factors (S)
+
+1. Education index: Jamaica has made significant investments in education, reflected in high literacy rates and ongoing efforts to improve educational outcomes. The country faces challenges in terms of infrastructure and resource allocation.
+
+2. Healthcare quality index: The healthcare system in Jamaica is under pressure due to economic constraints, but ongoing reforms aim to improve healthcare access and quality. Efforts are being made to enhance healthcare infrastructure and services.
+
+3. Human development index (HDI): Jamaica's HDI is 0.734, placing it in the medium human development category. This reflects progress in health, education, and living standards.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Jamaica scores high on individualism and power distance, indicating a society that values personal achievement and hierarchical structures. These cultural traits influence social and business interactions.
+
+2. Language similarity index: English is the official language of Jamaica, facilitating international communication and business. Jamaican Patois is also widely spoken, reflecting the country's cultural diversity.
+
+3. Cross-cultural communication adaptability: Jamaica's rich cultural heritage and extensive diaspora enhance its adaptability in cross-cultural communications. The country's experience with international trade and tourism further contributes to this adaptability.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Jamaica scored 53.2 on the Environmental Performance Index, reflecting efforts and challenges in environmental management and sustainability. The country is focusing on initiatives to improve its environmental performance.
+
+2. Carbon footprint per capita: Jamaica’s carbon footprint per capita is approximately 2.5 metric tons of CO2, reflecting its reliance on fossil fuels and the impact of its energy consumption patterns.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 13% of Jamaica’s total energy consumption, with significant investments in solar and wind energy projects to increase this share.

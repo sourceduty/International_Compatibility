@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Haiti is involved in several international agreements, including the Paris Agreement on climate change, and has engaged in efforts with the United Nations and CARICOM to address its political and security crises. Recently, CARICOM has played a significant role in facilitating a transitional governance arrangement in Haiti.
+
+2. Political stability index: Haiti faces significant political instability, marked by frequent changes in government, widespread gang violence, and ongoing humanitarian crises. The political stability index reflects these challenges.
+
+3. Corruption perception index: According to Transparency International, Haiti's Corruption Perceptions Index score is 20 out of 100 in 2022, indicating high levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Haiti’s GDP per capita (PPP) was approximately $3,127 in 2021. The economy has been contracting over the past few years due to political instability, natural disasters, and economic challenges.
+
+2. Trade openness index: Haiti's trade as a percentage of GDP is around 55%, reflecting its reliance on international trade, particularly in agricultural products and textiles.
+
+3. Foreign direct investment (FDI) inflows: FDI inflows in Haiti were around 0.2% of GDP in 2021, indicating limited foreign investment interest due to the country's instability.
+
+Social Factors (S)
+
+1. Education index: Haiti has significant educational challenges with low literacy rates and limited access to education, particularly in rural areas. The education index is low, reflecting these issues.
+
+2. Healthcare quality index: Healthcare in Haiti is severely underfunded and underdeveloped. Life expectancy is among the lowest in the region, and the healthcare system struggles to meet basic needs.
+
+3. Human development index (HDI): Haiti's HDI is 0.510, placing it very low on the global scale of human development. This reflects poor outcomes in health, education, and standard of living.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Haiti scores high on power distance and collectivism, typical of many Caribbean societies. This indicates a culture that values hierarchy and community ties.
+
+2. Language similarity index: Haitian Creole and French are the official languages. Haitian Creole is spoken by the majority, reflecting the country’s cultural and historical background.
+
+3. Cross-cultural communication adaptability: Haiti’s diverse cultural heritage and history of international interactions enhance its adaptability in cross-cultural communications.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Haiti scored 39.8 on the Environmental Performance Index, indicating significant environmental challenges and a need for better ecological management.
+
+2. Carbon footprint per capita: The carbon footprint per capita in Haiti is relatively low, at around 0.5 metric tons of CO2, reflecting limited industrial activity.
+
+3. Renewable energy usage percentage: Renewable energy constitutes about 9% of Haiti's total energy consumption, with efforts ongoing to increase this share through projects in solar and wind energy.

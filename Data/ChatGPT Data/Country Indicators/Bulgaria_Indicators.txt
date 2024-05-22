@@ -1,0 +1,61 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Bulgaria is a member of several significant international agreements, including NATO and the European Union. It recently joined the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) in 2023, which enhances its trade relationships globally. Additionally, Bulgaria is part of the Artemis Accords, focusing on space exploration cooperation.
+
+Political Stability Index
+- Bulgaria has faced political instability in recent years, with several general elections in a short period, which has impacted governance and public trust. The political environment is influenced by ongoing domestic and regional challenges.
+
+Corruption Perception Index
+- According to Transparency International, Bulgaria scores 45/100 on the Corruption Perception Index, ranking 67th out of 180 countries. This indicates persistent issues with corruption, affecting various sectors of governance and public services.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Bulgaria's GDP per capita is approximately $12,300. The economy is diverse, with significant contributions from manufacturing, services, and agriculture.
+
+Trade Openness Index
+- Bulgaria has a moderate trade openness index, facilitated by its integration into the European Union and various trade agreements. The country is a major exporter of refined petroleum, copper, and pharmaceuticals.
+
+Foreign Direct Investment (FDI) Inflows
+- Bulgaria continues to attract foreign direct investment, particularly in the energy, manufacturing, and IT sectors. The government offers incentives to foreign investors to boost economic growth and diversify the economy.
+
+Social Factors (S)
+
+Education Index
+- Bulgaria has a high literacy rate and a well-developed education system, with substantial government investment in primary, secondary, and higher education. The focus is on improving educational outcomes and accessibility across the country.
+
+Healthcare Quality Index
+- The healthcare system in Bulgaria faces challenges, particularly in rural areas where access to quality healthcare services is limited. Ongoing investments aim to enhance healthcare infrastructure and services to improve health outcomes.
+
+Human Development Index (HDI)
+- Bulgaria ranks moderately on the Human Development Index, reflecting improvements in health, education, and income levels. Continued efforts are needed to address socio-economic disparities and improve living standards.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Bulgaria's cultural dimensions, influenced by its Slavic and Orthodox Christian heritage, reflect high power distance and collectivism. These cultural traits significantly impact social interactions and organizational behavior within the country.
+
+Language Similarity Index
+- The official language of Bulgaria is Bulgarian, which is closely related to other Slavic languages, facilitating communication and cultural exchange within the region. This linguistic capability enhances international cooperation and business relationships.
+
+Cross-Cultural Communication Adaptability
+- Bulgaria's multicultural society and emphasis on education contribute to strong adaptability in cross-cultural communication. The population's exposure to diverse cultures supports effective international interactions.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Bulgaria faces environmental challenges, including air pollution and waste management issues. The government is implementing policies to improve environmental sustainability and reduce emissions.
+
+Carbon Footprint per Capita
+- Bulgaria’s carbon footprint per capita is relatively high, mainly due to its reliance on coal for energy. Efforts are being made to increase the use of renewable energy sources and improve energy efficiency.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Bulgaria is growing, with significant investments in solar and wind energy projects. These initiatives aim to diversify the energy mix and promote sustainability.
+
+Sources
+- Wikipedia
+- World Bank
+- NASA
+- Transparency International

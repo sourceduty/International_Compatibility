@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   The Democratic Republic of Congo (DRC) is a member of various international organizations and agreements, including the African Union (AU), Southern African Development Community (SADC), Economic Community of Central African States (ECCAS), Common Market for Eastern and Southern Africa (COMESA), and the World Trade Organization (WTO). DRC has also signed the African Continental Free Trade Area (AfCFTA) agreement, aiming to enhance trade and investment across Africa.
+
+2. Political Stability Index:
+   The DRC faces significant political instability, with ongoing conflicts, particularly in the eastern regions. The political environment remains volatile despite recent elections, which saw President Félix Tshisekedi re-elected amid controversies and allegations of electoral irregularities.
+
+3. Corruption Perception Index:
+   Transparency International ranks the DRC low on the Corruption Perceptions Index, indicating widespread corruption. The country's challenges with governance and the rule of law contribute to this negative perception.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, the GDP per capita in the DRC is approximately $562 USD, reflecting the country's status as one of the poorest nations despite its vast natural resources.
+
+2. Trade Openness Index:
+   The DRC has a high trade openness index due to its significant export of minerals. In 2022, exports of goods totaled USD 28.2 billion, mainly from copper and cobalt, which are crucial for the global tech and renewable energy sectors.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   The DRC continues to attract substantial FDI, particularly in the mining sector. Investments are driven by the country's rich deposits of minerals such as copper, cobalt, and diamonds. FDI inflows are crucial for infrastructure and economic development.
+
+Social Factors (S)
+
+1. Education Index:
+   The DRC's education index is low, with significant challenges in access and quality of education. The Human Capital Index value stands at 0.37, indicating that a Congolese child born today can expect to achieve only 37% of their potential productivity.
+
+2. Healthcare Quality Index:
+   Healthcare in the DRC is critically underdeveloped, with severe shortages of medical infrastructure and personnel. The country faces high child mortality rates and low life expectancy due to inadequate healthcare services.
+
+3. Human Development Index (HDI):
+   The DRC has a low HDI score of 0.480, reflecting poor outcomes in health, education, and income. This places the country among the lowest globally in terms of human development.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Using Hofstede’s cultural dimensions, the DRC displays high power distance and collectivism, reflecting a hierarchical society with strong community ties. These cultural traits influence social dynamics and organizational behavior.
+
+2. Language Similarity Index:
+   French is the official language of the DRC, facilitating communication and integration with other Francophone countries in Africa. This linguistic alignment supports regional cooperation and international diplomacy.
+
+3. Cross-Cultural Communication Adaptability:
+   The DRC's diverse ethnic composition and colonial history contribute to a complex cultural landscape, necessitating adaptability in cross-cultural communication, especially in urban centers and international business contexts.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   The DRC faces significant environmental challenges, including deforestation, biodiversity loss, and pollution. Despite its rich natural resources, the country struggles with sustainable environmental management.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita in the DRC is relatively low, at around 0.3 metric tons, due to limited industrial activity and widespread use of traditional biomass for energy.
+
+3. Renewable Energy Usage Percentage:
+   The DRC has substantial potential for renewable energy, particularly hydroelectric power, which currently constitutes a significant portion of its energy production. However, the utilization of this potential is hindered by infrastructural and political challenges.

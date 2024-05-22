@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Japan is actively involved in numerous international agreements. It has signed agreements such as the U.S.-Japan Trade Agreement, the Japan-EU Economic Partnership Agreement, and is a member of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). Japan also continues to enhance its bilateral cooperation with the United States on security, technology, and climate change initiatives.
+
+2. Political stability index: Japan enjoys a high degree of political stability, underpinned by its democratic institutions and stable governance. However, the country faces challenges related to regional security and domestic political dynamics.
+
+3. Corruption perception index: According to Transparency International, Japan scored 73 out of 100 on the 2022 Corruption Perceptions Index, indicating relatively low levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Japan's GDP per capita was approximately $39,285 USD in 2022, reflecting its status as a high-income economy driven by advanced manufacturing, technology, and services sectors.
+
+2. Trade openness index: Japan has a high trade openness index, engaging in extensive international trade. It benefits from numerous free trade agreements, enhancing its global economic integration.
+
+3. Foreign direct investment (FDI) inflows: Japan attracted around $24.5 billion in FDI in 2022. The country's innovation-driven economy and strong legal frameworks make it an attractive destination for foreign investors.
+
+Social Factors (S)
+
+1. Education index: Japan places a strong emphasis on education, with high literacy rates and significant investments in higher education. The country's education system is globally recognized for its quality and rigor.
+
+2. Healthcare quality index: Japan's healthcare system is highly developed, characterized by excellent healthcare outcomes and a life expectancy of 84 years. The country spends approximately 10% of its GDP on healthcare.
+
+3. Human development index (HDI): Japan's HDI is 0.919, placing it in the very high human development category, reflecting significant achievements in health, education, and living standards.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Japan scores high on collectivism and uncertainty avoidance, indicating a culture that values group harmony and stability. These cultural dimensions significantly influence social and business interactions.
+
+2. Language similarity index: Japanese is the official language, with English widely taught and used in business and academia. This multilingual environment facilitates international communication.
+
+3. Cross-cultural communication adaptability: Japan's rich cultural heritage and extensive international engagements enhance its adaptability in cross-cultural communications. The country's significant diaspora also contributes to its global cultural connections.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Japan scored 63.9 on the Environmental Performance Index, reflecting strong environmental policies and ongoing efforts to improve sustainability and environmental protection.
+
+2. Carbon footprint per capita: Japan’s carbon footprint per capita is approximately 8.9 metric tons of CO2, reflecting its industrial activities and energy consumption patterns.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 20% of Japan’s total energy consumption, with significant investments in solar, wind, and geothermal energy projects to increase this share.

@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Congo is a participant in various international agreements, including the African Continental Free Trade Area (AfCFTA) and multiple bilateral investment treaties (BITs).
+
+2. Political Stability Index:
+   The political stability index for Congo is -1.28 (on a scale from -2.5 to 2.5), indicating a relatively unstable political environment.
+
+3. Corruption Perception Index:
+   Congo's score on the Corruption Perception Index is 19 out of 100, ranking 165 out of 180 countries, reflecting high levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   Congo's GDP per capita is approximately $2,258 USD.
+
+2. Trade Openness Index:
+   Congo's trade openness index is around 64.1, indicating a moderate level of trade openness.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   FDI inflows into Congo are approximately $3 billion USD annually.
+
+Social Factors (S)
+
+1. Education Index:
+   The education index for Congo is 0.457, indicating low educational attainment levels.
+
+2. Healthcare Quality Index:
+   Congo's healthcare quality index is relatively low, with significant challenges in healthcare access and outcomes.
+
+3. Human Development Index (HDI):
+   Congo's HDI is 0.574, placing it in the medium human development category, ranking 149 out of 189 countries.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Congo scores relatively high on collectivism and power distance, reflecting traditional and hierarchical cultural values as per Hofstede's cultural dimensions.
+
+2. Language Similarity Index:
+   The primary language is French, which is widely spoken in the region and shares similarities with other Romance languages.
+
+3. Cross-cultural Communication Adaptability:
+   Congo exhibits moderate adaptability in cross-cultural communication, influenced by its diverse ethnic composition and colonial history.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Congo scores 33.5 on the Environmental Performance Index, indicating significant environmental challenges.
+
+2. Carbon Footprint per Capita:
+   Congo's carbon footprint per capita is relatively low at approximately 0.3 metric tons.
+
+3. Renewable Energy Usage Percentage:
+   Renewable energy accounts for about 70% of Congo's total energy consumption, primarily from hydropower.

@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International agreements participation: Guatemala is a party to several international environmental agreements, including the Antarctic Treaty, Biodiversity, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, and others.
+- Political stability index: Guatemala's political stability index is -0.63 (2021).
+- Corruption perception index: Guatemala scored 25 out of 100, ranking 150th out of 180 countries on the 2022 Corruption Perception Index.
+
+Economic Factors (E)
+
+- GDP per capita: Guatemala's GDP per capita (PPP) is $8,671 (2022).
+- Trade openness index: Trade as a percentage of GDP is 60.3% (2021).
+- Foreign direct investment (FDI) inflows: Guatemala received $1.57 billion in FDI inflows in 2021.
+
+Social Factors (S)
+
+- Education index: Guatemala has an education index of 0.506 (2021).
+- Healthcare quality index: The current health expenditure is 6.5% of GDP (2020). The country has 1.24 physicians per 1,000 population and a hospital bed density of 0.4 beds per 1,000 population.
+- Human development index (HDI): Guatemala's HDI is 0.663 (2021), ranking 127th globally.
+
+Cultural Factors (C)
+
+- Cultural proximity index (e.g., Hofstede's cultural dimensions): Guatemala scores high on power distance and low on individualism according to Hofstede's cultural dimensions.
+- Language similarity index: Spanish is the official language, spoken by 93% of the population.
+- Cross-cultural communication adaptability: Guatemala has a diverse cultural heritage with influences from Mayan, European, and African cultures, contributing to its adaptability in cross-cultural communications.
+
+Environmental Factors (Env)
+
+- Environmental performance index: Guatemala scored 41.5, ranking 97th out of 180 countries in the 2022 Environmental Performance Index.
+- Carbon footprint per capita: The carbon footprint per capita is approximately 1.1 metric tons of CO2 (2021).
+- Renewable energy usage percentage: Renewable energy constitutes 54% of the total energy consumption in Guatemala (2021).

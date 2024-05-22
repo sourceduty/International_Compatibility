@@ -1,0 +1,57 @@
+
+Indicators for Lithuania
+
+Political Factors (P)
+
+- International agreements participation:
+  Lithuania is a member of the EU, NATO, WTO, and has various bilateral agreements like the Bilateral Investment Treaty with the US.
+
+- Political stability index:
+  Moderate stability according to the World Bank’s Worldwide Governance Indicators.
+
+- Corruption perception index:
+  Score: 61/100, ranking 35th out of 180 countries (Transparency International).
+
+Economic Factors (E)
+
+- GDP per capita:
+  Approximately $24,000 USD (World Bank, 2023).
+
+- Trade openness index:
+  High due to EU membership and various trade agreements.
+
+- Foreign direct investment (FDI) inflows:
+  Significant and increasing, particularly from the EU and US (World Bank, 2023).
+
+Social Factors (S)
+
+- Education index:
+  High literacy rate and strong emphasis on tertiary education (UNDP, 2023).
+
+- Healthcare quality index:
+  High score in the Healthcare Access and Quality Index (The Lancet, 2022).
+
+- Human development index (HDI):
+  0.882, very high human development category (UNDP, 2023).
+
+Cultural Factors (C)
+
+- Cultural proximity index:
+  High alignment with European cultural dimensions (Hofstede).
+
+- Language similarity index:
+  Related to Latvian and other Indo-European languages.
+
+- Cross-cultural communication adaptability:
+  Enhanced by EU integration and participation in international organizations.
+
+Environmental Factors (Env)
+
+- Environmental performance index:
+  Score: 70.2 (EPI, 2022).
+
+- Carbon footprint per capita:
+  Moderate, in line with other EU countries.
+
+- Renewable energy usage percentage:
+  27% of total energy consumption from renewable sources (Eurostat, 2023).

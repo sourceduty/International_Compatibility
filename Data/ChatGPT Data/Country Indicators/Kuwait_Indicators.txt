@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Kuwait is involved in various international agreements, including the United Nations Climate Change Conference (COP26), where it emphasized its commitment to climate action. The country has also signed agreements with regional partners like the UAE to avoid double taxation, enhancing economic integration.
+
+2. Political stability index: Kuwait experiences moderate political stability, with a pluralistic political structure that balances power between the parliament and the executive branch. The country faces challenges related to regional security and internal political dynamics.
+
+3. Corruption perception index: According to Transparency International, Kuwait scored 39 out of 100 on the 2022 Corruption Perceptions Index, indicating moderate levels of perceived corruption. Efforts are ongoing to improve transparency and governance.
+
+Economic Factors (E)
+
+1. GDP per capita: Kuwait's GDP per capita was approximately $32,980 USD in 2022. The economy is heavily reliant on oil exports, which constitute a significant portion of its GDP.
+
+2. Trade openness index: Kuwait has a high trade openness index, with significant export activities primarily in oil and mineral fuels. Key trading partners include China, India, and the UAE.
+
+3. Foreign direct investment (FDI) inflows: Kuwait attracted around $632 million in FDI in 2022, with investments focused on sectors like energy and infrastructure. The government continues to seek foreign investments to diversify its economy.
+
+Social Factors (S)
+
+1. Education index: Kuwait invests significantly in education, achieving high literacy rates and providing substantial resources for primary, secondary, and higher education. However, challenges remain in aligning educational outcomes with labor market needs.
+
+2. Healthcare quality index: Kuwait's healthcare system is well-developed, with high expenditure on health services. The country provides comprehensive healthcare to its citizens, although it faces challenges related to lifestyle diseases and healthcare infrastructure.
+
+3. Human development index (HDI): Kuwait's HDI is 0.806, placing it in the very high human development category. This reflects significant achievements in health, education, and living standards.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Kuwait scores high on collectivism and power distance, indicating a society that values group harmony and hierarchical structures. These cultural dimensions influence social interactions and business practices.
+
+2. Language similarity index: Arabic is the official language, with English widely used in business and education, facilitating international communication.
+
+3. Cross-cultural communication adaptability: Kuwait's strategic location and historical trade connections enhance its adaptability in cross-cultural communications. The country has significant experience with international diplomacy and trade, contributing to its global cultural connections.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Kuwait scored 44.7 on the Environmental Performance Index, reflecting ongoing efforts and challenges in environmental management and sustainability.
+
+2. Carbon footprint per capita: Kuwait’s carbon footprint per capita is relatively high at approximately 23.9 metric tons of CO2, reflecting its reliance on oil and gas for energy production.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 1% of Kuwait’s total energy consumption. The country is investing in solar energy projects to increase this share and reduce its carbon footprint.

@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Iraq has signed several international agreements, including the Paris Agreement, showing its commitment to reducing greenhouse gas emissions and promoting a greener economy. Recent agreements with neighboring countries focus on regional security, energy cooperation, and trade facilitation.
+
+2. Political stability index: Iraq's political environment remains volatile due to ongoing internal conflicts, economic challenges, and external pressures. The political process is often viewed negatively by the public due to corruption and ineffective governance.
+
+3. Corruption perception index: According to Transparency International, Iraq scored 23 out of 100 in the 2022 Corruption Perceptions Index, indicating high levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Iraq's GDP per capita was approximately $4,042 USD in 2022. The economy is heavily reliant on the oil sector, which poses risks due to fluctuating oil prices.
+
+2. Trade openness index: Iraq's trade openness index reflects moderate engagement in international trade, with significant dependence on oil exports. Efforts are being made to diversify the economy through various trade agreements and initiatives.
+
+3. Foreign direct investment (FDI) inflows: FDI inflows in Iraq remain limited due to political instability and security concerns. However, initiatives supported by the UNDP aim to create a more investment-friendly environment by improving governance and commercial dispute resolution.
+
+Social Factors (S)
+
+1. Education index: Iraq faces challenges in its education sector, with issues such as inadequate infrastructure and funding. Despite these challenges, there are ongoing efforts to improve literacy rates and educational outcomes.
+
+2. Healthcare quality index: The healthcare system in Iraq is under strain due to economic difficulties and infrastructure issues. Efforts are being made to enhance healthcare quality and access, particularly in rural areas.
+
+3. Human development index (HDI): Iraq's HDI is 0.686, placing it in the medium human development category. This reflects moderate achievements in health, education, and living standards.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Iraq scores high on power distance and collectivism, indicating a hierarchical society with strong community ties. These cultural traits influence social interactions and business practices.
+
+2. Language similarity index: Arabic is the official language, with Kurdish also widely spoken in the Kurdistan region. English is commonly used in business and higher education settings, enhancing communication with international partners.
+
+3. Cross-cultural communication adaptability: Iraq's diverse cultural heritage and historical trade links enhance its adaptability in cross-cultural communications. The country has a significant diaspora, contributing to its global cultural connections.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Iraq scored 37.6 on the Environmental Performance Index, indicating significant environmental challenges such as air pollution and water scarcity. Initiatives are in place to promote environmental sustainability and renewable energy usage.
+
+2. Carbon footprint per capita: Iraq’s carbon footprint per capita is approximately 7.4 metric tons of CO2, reflecting its reliance on fossil fuels for energy production.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 7% of Iraq’s total energy consumption. The country is investing in projects to increase this share, including solar and wind energy initiatives.

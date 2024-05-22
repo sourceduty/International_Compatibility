@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+International Agreements Participation:
+Liberia is a member of numerous international organizations, including the African Union (AU), Economic Community of West African States (ECOWAS), United Nations (UN), World Trade Organization (WTO), and International Monetary Fund (IMF). Liberia's active participation in these organizations reflects its commitment to international cooperation and development.
+
+Political Stability Index:
+Liberia has made significant strides in maintaining political stability since the end of its civil wars. However, challenges remain, including political tensions and economic issues. As of 2023, Liberia's political stability index, as assessed by the World Bank, indicates a moderate level of stability, with ongoing efforts needed to improve governance and reduce corruption.
+
+Corruption Perception Index:
+According to Transparency International, Liberia's Corruption Perceptions Index (CPI) score for 2022 was 29 out of 100, indicating a high level of perceived corruption. This places Liberia in the lower ranks globally, highlighting significant challenges in governance and anti-corruption measures.
+
+Economic Factors (E)
+
+GDP per Capita:
+As of the latest data, Liberia's GDP per capita is approximately $646. This low figure reflects the country's ongoing economic challenges, including high poverty rates and limited industrial development.
+
+Trade Openness Index:
+Liberia's trade openness index is relatively high, with trade constituting a significant portion of its GDP. The country is a member of the WTO and participates in regional trade agreements, promoting trade liberalization and integration into the global economy.
+
+Foreign Direct Investment (FDI) Inflows:
+Liberia has seen fluctuating levels of FDI inflows, influenced by its political and economic stability. Efforts to attract foreign investment continue, with a focus on sectors like mining, agriculture, and infrastructure.
+
+Social Factors (S)
+
+Education Index:
+Liberia's education system faces significant challenges, including low enrollment rates and limited resources. The education index remains low, reflecting these ongoing issues and the need for substantial investment in educational infrastructure and quality.
+
+Healthcare Quality Index:
+The healthcare system in Liberia is underdeveloped, with limited access to quality services for much of the population. The healthcare quality index remains low, indicating the need for major improvements in healthcare infrastructure and service delivery.
+
+Human Development Index (HDI):
+Liberia's HDI is 0.480, ranking it among the lower human development countries globally. This index reflects the country's challenges in health, education, and income.
+
+Cultural Factors (C)
+
+Cultural Proximity Index:
+Liberia's cultural proximity is closely tied to its history and ethnic diversity. The country exhibits a mix of indigenous African cultures and influences from American settlers. Hofstede's cultural dimensions suggest a high level of collectivism and power distance in the societal structure.
+
+Language Similarity Index:
+English is the official language of Liberia, which facilitates communication with other English-speaking nations. Additionally, numerous indigenous languages are spoken, reflecting the country's ethnic diversity.
+
+Cross-Cultural Communication Adaptability:
+Liberians show a high degree of adaptability in cross-cultural communication, shaped by their history of interaction with various international communities and organizations.
+
+Environmental Factors (Env)
+
+Environmental Performance Index:
+Liberia's Environmental Performance Index (EPI) is low, indicating significant challenges in managing environmental sustainability and natural resources. Issues such as deforestation, pollution, and inadequate waste management are prevalent.
+
+Carbon Footprint per Capita:
+Liberia's carbon footprint per capita is relatively low compared to industrialized nations, largely due to limited industrial activities and lower levels of energy consumption.
+
+Renewable Energy Usage Percentage:
+Renewable energy usage in Liberia is limited, with most energy coming from traditional biomass and imported fossil fuels. Efforts are ongoing to increase the share of renewable energy sources, such as hydro and solar power, in the national energy mix.

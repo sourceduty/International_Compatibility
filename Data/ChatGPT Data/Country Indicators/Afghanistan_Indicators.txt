@@ -1,0 +1,58 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Afghanistan is involved in several international agreements, primarily through humanitarian and development assistance channels managed by the United Nations and other international bodies. The country's participation in international agreements has been significantly impacted by the Taliban's governance and the international community's response to it, including sanctions and restrictions.
+
+Political Stability Index
+- Afghanistan continues to face severe political instability. The Taliban's return to power in 2021 has resulted in a volatile political environment, with frequent internal conflicts and international isolation. The UN and various countries have emphasized the need for inclusive governance and respect for human rights as prerequisites for political stability.
+
+Corruption Perception Index
+- Afghanistan is perceived as one of the most corrupt countries globally. The Corruption Perceptions Index (CPI) by Transparency International consistently ranks Afghanistan near the bottom, indicating widespread corruption in public administration and governance.
+
+Economic Factors (E)
+
+GDP per Capita
+- The World Bank estimates Afghanistan's GDP per capita to be one of the lowest in the world. Economic activity has sharply declined following the withdrawal of international forces and the cessation of most foreign aid.
+
+Trade Openness Index
+- Afghanistan's trade openness is constrained by political instability, limited infrastructure, and regional trade restrictions. Despite these challenges, trade with neighboring countries like Pakistan and Iran continues, albeit at reduced levels.
+
+Foreign Direct Investment (FDI) Inflows
+- FDI inflows to Afghanistan have dwindled significantly due to security concerns, political instability, and international sanctions against the Taliban regime. The lack of a stable business environment further deters foreign investment.
+
+Social Factors (S)
+
+Education Index
+- Afghanistan's education index has deteriorated, particularly with the Taliban's restrictions on girls' education. Many educational institutions are either non-functional or operate under severe constraints.
+
+Healthcare Quality Index
+- The healthcare system in Afghanistan is under severe strain. The quality of healthcare services is poor, with limited access to essential medicines and medical facilities. International aid remains a crucial lifeline for healthcare provision.
+
+Human Development Index (HDI)
+- Afghanistan ranks low on the Human Development Index (HDI), reflecting poor performance in health, education, and standard of living. The ongoing conflict and humanitarian crises have further exacerbated these challenges.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- The cultural proximity index, which may include factors like Hofstede's cultural dimensions, shows Afghanistan with high power distance and uncertainty avoidance, reflecting a hierarchical society with rigid social norms.
+
+Language Similarity Index
+- Afghanistan is linguistically diverse, with Dari and Pashto being the main languages. Language similarity indices highlight the significant linguistic ties with neighboring countries like Iran and Pakistan.
+
+Cross-Cultural Communication Adaptability
+- Cross-cultural communication adaptability is low, given the cultural and linguistic diversity and the current socio-political context that restricts open communication, especially for women and minority groups.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Afghanistan scores poorly on the Environmental Performance Index (EPI), facing challenges like deforestation, water scarcity, and inadequate waste management. The environmental degradation is compounded by decades of conflict.
+
+Carbon Footprint per Capita
+- The carbon footprint per capita in Afghanistan is relatively low compared to global averages, primarily due to the limited industrial activity and reliance on traditional energy sources.
+
+Renewable Energy Usage Percentage
+- Renewable energy usage in Afghanistan is minimal, with most of the energy needs met through non-renewable sources like coal and wood. Efforts to increase renewable energy adoption are hampered by the lack of infrastructure and investment.
+
+Sources
+- Human Rights Watch, United Nations Reports, World Bank, Transparency International, and various international news outlets such as Al Jazeera and Afghanistan Analysts Network.

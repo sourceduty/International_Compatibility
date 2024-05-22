@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Costa Rica is actively involved in numerous international agreements, particularly in the realms of trade and environmental protection. The country has signed bilateral investment treaties with various nations and is a member of multiple international organizations such as the United Nations and the World Trade Organization.
+
+2. Political Stability Index:
+   According to the World Bank, Costa Rica has maintained political stability over the years, contributing to its economic growth and development success. The country's stability is supported by its democratic political system and effective governance structures.
+
+3. Corruption Perception Index:
+   Costa Rica's Corruption Perceptions Index (CPI) score, provided by Transparency International, reflects a moderate level of perceived public sector corruption. The country has made efforts to combat corruption through various reforms and transparency initiatives.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest World Bank data, Costa Rica's GDP per capita is approximately USD 12,238 (2023), positioning it as an upper middle-income country. The economy has been growing steadily, driven by a diverse range of industries including technology, tourism, and agriculture.
+
+2. Trade Openness Index:
+   Costa Rica has an open trade policy, being a part of numerous free trade agreements (FTAs) and actively engaging in international trade. The country's trade openness index reflects its significant trade volumes relative to its GDP, highlighting the importance of trade to its economy.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   Costa Rica has been successful in attracting FDI, particularly in high-tech sectors and environmentally sustainable projects. The country's favorable investment climate and strategic location make it an attractive destination for foreign investors.
+
+Social Factors (S)
+
+1. Education Index:
+   Costa Rica ranks high on the education index, with significant investments in public education and a literacy rate of over 97%. The country is known for its strong emphasis on education as a key pillar of its development strategy.
+
+2. Healthcare Quality Index:
+   Costa Rica boasts a high-quality healthcare system, accessible to a large portion of its population. The country's healthcare index reflects its comprehensive public health services and high life expectancy rates.
+
+3. Human Development Index (HDI):
+   Costa Rica's HDI is among the highest in Latin America, indicating significant progress in life expectancy, education, and income per capita. The country's development policies have successfully enhanced overall human well-being.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Costa Rica shares cultural similarities with other Latin American countries, influenced by its Spanish colonial history. The Hofstede's cultural dimensions indicate a society with strong collectivist values and high uncertainty avoidance.
+
+2. Language Similarity Index:
+   Spanish is the official language of Costa Rica, which aligns it closely with other Spanish-speaking nations in the region. This linguistic commonality facilitates regional communication and integration.
+
+3. Cross-cultural Communication Adaptability:
+   Costa Ricans are generally adaptable to cross-cultural communication, owing to the country's emphasis on education and its openness to tourism and foreign influences. The society is known for its friendliness and hospitality towards foreigners.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Costa Rica is a global leader in environmental sustainability, ranking high on the Environmental Performance Index (EPI). The country's commitment to conservation and renewable energy has earned it international recognition.
+
+2. Carbon Footprint per Capita:
+   Costa Rica has a relatively low carbon footprint per capita, thanks to its extensive use of renewable energy sources. The country aims to achieve carbon neutrality and has implemented numerous policies to reduce greenhouse gas emissions.
+
+3. Renewable Energy Usage Percentage:
+   Over 98% of Costa Rica's electricity comes from renewable sources, primarily hydropower, wind, and geothermal energy. This achievement underscores the country's dedication to sustainable energy practices and environmental stewardship.

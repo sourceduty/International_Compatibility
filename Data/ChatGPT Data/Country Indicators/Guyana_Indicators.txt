@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Guyana is actively involved in numerous international agreements, including the Paris Agreement on climate change and the African, Caribbean and Pacific Group of States (ACP). Recently, Guyana was elected as a non-permanent member of the UN Security Council for the 2024-2025 term, underscoring its active role in international diplomacy.
+
+2. Political stability index: Guyana has been making significant strides in political stability. Following the resolution of political turmoil in 2020, the country has seen improved stability. The World Bank's political stability index for Guyana is available through their Governance Indicators.
+
+3. Corruption perception index: According to Transparency International, Guyana's Corruption Perceptions Index score is 39 out of 100 in 2022, placing it 85th out of 180 countries. This indicates moderate levels of perceived corruption.
+
+Economic Factors (E)
+
+1. GDP per capita: Guyana's GDP per capita was approximately $9,523 USD in 2022, reflecting the economic boost from its burgeoning oil and gas sector.
+
+2. Trade openness index: Guyana's trade openness index, which measures the sum of exports and imports as a percentage of GDP, is significant due to its active involvement in international trade, especially in oil, bauxite, and sugar.
+
+3. Foreign direct investment (FDI) inflows: Guyana attracted approximately $4 billion in FDI in 2021, driven largely by investments in its oil and gas sector.
+
+Social Factors (S)
+
+1. Education index: Guyana's education index reflects its ongoing efforts to improve literacy and educational infrastructure, supported by substantial investments in both primary and tertiary education.
+
+2. Healthcare quality index: Guyana's healthcare system is developing, with significant investments being made to improve access and quality. The healthcare expenditure is approximately 4.3% of GDP.
+
+3. Human development index (HDI): Guyana's HDI is 0.682, placing it in the medium human development category, ranking 122nd globally.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Guyana scores relatively high on collectivism and power distance, indicating a society that values community and hierarchical structures.
+
+2. Language similarity index: English is the official language, with Creole widely spoken. This facilitates communication and cultural exchange, especially within the Caribbean region.
+
+3. Cross-cultural communication adaptability: Guyana's diverse ethnic composition and history of migration enhance its adaptability in cross-cultural communications.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Guyana scored 52.3 on the Environmental Performance Index, reflecting ongoing challenges and efforts in environmental management.
+
+2. Carbon footprint per capita: Guyana’s carbon footprint is relatively low, at about 1.5 metric tons of CO2 per capita, partly due to its significant forest cover and low industrial activity.
+
+3. Renewable energy usage percentage: Renewable energy constitutes about 13% of Guyana’s total energy consumption, with ongoing projects aimed at increasing this share, particularly in hydro and solar energy.

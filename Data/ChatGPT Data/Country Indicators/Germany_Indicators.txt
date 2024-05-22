@@ -1,0 +1,30 @@
+
+Political Factors (P)
+
+- International agreements participation: Germany is a member of the European Union, G7, G20, NATO, and participates in numerous international treaties and agreements such as the Paris Agreement on climate change.
+- Political stability index: Germany scored 0.80 in 2022 on the Political Stability and Absence of Violence/Terrorism index, where scores range from -2.5 (weak) to 2.5 (strong).
+- Corruption perception index: Germany ranked 9th out of 180 countries with a score of 79/100 in the 2022 Corruption Perceptions Index by Transparency International.
+
+Economic Factors (E)
+
+- GDP per capita: As of 2023, Germany's GDP per capita is approximately USD 51,860.
+- Trade openness index: Germany’s trade openness index, which measures the sum of exports and imports as a percentage of GDP, stands at around 84% as of 2023.
+- Foreign direct investment (FDI) inflows: In 2022, Germany received FDI inflows amounting to USD 121 billion.
+
+Social Factors (S)
+
+- Education index: Germany has a high education index of 0.910 according to the Human Development Report 2022.
+- Healthcare quality index: Germany ranks 12th globally in the 2023 Healthcare Access and Quality (HAQ) Index with a score of 89.6/100.
+- Human development index (HDI): Germany has an HDI of 0.942, placing it 6th globally in 2022.
+
+Cultural Factors (C)
+
+- Cultural proximity index (e.g., Hofstede's cultural dimensions): Germany scores high on individualism (67), low on power distance (35), and has a high uncertainty avoidance (65).
+- Language similarity index: German is the official language, with high proficiency in English, particularly among younger populations and professionals.
+- Cross-cultural communication adaptability: Germany scores well in global surveys assessing adaptability and openness to cross-cultural communication, influenced by its strong international business presence and educational exchange programs.
+
+Environmental Factors (Env)
+
+- Environmental performance index: Germany ranks 10th globally with a score of 77.2 in the 2022 Environmental Performance Index.
+- Carbon footprint per capita: Germany's carbon footprint per capita was 8.9 metric tons in 2021.
+- Renewable energy usage percentage: In 2022, renewable energy accounted for 46% of Germany's electricity consumption.

@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: The Holy See is involved in numerous international agreements and organizations, including observer status at the United Nations, participation in the International Organization for Migration (IOM), and signing of the Paris Agreement on climate change. It plays a significant role in global diplomatic relations, focusing on human rights, peace, and environmental issues.
+
+2. Political stability index: The Holy See, being a non-state sovereign entity, does not have a conventional political stability index like other countries. Its governance is characterized by the stability provided by the papal leadership and the administrative structures of the Vatican City.
+
+3. Corruption perception index: There is no specific Corruption Perceptions Index score for the Holy See, but it maintains strict governance and financial regulations within its institutions to ensure transparency and accountability.
+
+Economic Factors (E)
+
+1. GDP per capita: The Holy See does not report GDP per capita in the conventional sense, as its economy is unique, primarily supported by contributions from the global Catholic community, investments, and revenue from the Vatican Museums.
+
+2. Trade openness index: The concept of trade openness is not directly applicable to the Holy See due to its unique economic structure. However, it engages in international financial activities and manages assets globally.
+
+3. Foreign direct investment (FDI) inflows: The Holy See does not attract FDI in the traditional sense but receives significant financial contributions and donations from Catholic institutions and faithful worldwide.
+
+Social Factors (S)
+
+1. Education index: The Holy See prioritizes education through various Catholic educational institutions globally, although specific index values are not available. It influences education policies and practices worldwide through its network of schools and universities.
+
+2. Healthcare quality index: Similar to education, the Holy See impacts global healthcare through its support and administration of numerous hospitals and healthcare facilities worldwide. It does not have a specific healthcare quality index but is known for its contributions to global health initiatives.
+
+3. Human development index (HDI): The Holy See does not have an HDI ranking, as it is not a typical nation-state. Its contributions to human development are reflected in its global humanitarian and development work.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Cultural dimensions such as power distance and collectivism are high within the governance of the Holy See, reflecting its hierarchical and community-oriented nature.
+
+2. Language similarity index: Latin is the official language of the Holy See, with Italian widely used in its daily operations. The use of multiple languages, including English, reflects its international reach and influence.
+
+3. Cross-cultural communication adaptability: The Holy See exhibits high adaptability in cross-cultural communication, operating as a diplomatic entity with a presence in nearly every country through its network of nunciatures (embassies) and Catholic institutions.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: The Holy See's Environmental Performance Index is not explicitly measured, but it is actively engaged in promoting environmental stewardship through papal encyclicals and participation in international environmental agreements like the Paris Agreement.
+
+2. Carbon footprint per capita: The carbon footprint of the Holy See is minimal due to its small size and limited industrial activity. However, it emphasizes sustainable practices and renewable energy within its operations.
+
+3. Renewable energy usage percentage: The Holy See is committed to renewable energy, with initiatives to make the Vatican City State a model of sustainability, including solar energy projects and other green initiatives.

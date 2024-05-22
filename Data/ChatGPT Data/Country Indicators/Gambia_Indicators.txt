@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+- International agreements participation
+  - Participation in AGOA, bilateral trade agreements with Ethiopia and Tunisia.
+
+- Political stability index
+  - Improved stability post-2017 democratic transition.
+
+- Corruption perception index
+  - Ranked 110th in CPI 2023.
+
+Economic Factors (E)
+
+- GDP per capita
+  - USD 865 (2023).
+
+- Trade openness index
+  - 56%.
+
+- Foreign direct investment (FDI) inflows
+  - USD 40 million (2022).
+
+Social Factors (S)
+
+- Education index
+  - 0.482.
+
+- Healthcare quality index
+  - 0.45.
+
+- Human development index (HDI)
+  - 0.496.
+
+Cultural Factors (C)
+
+- Cultural proximity index (Hofstede's cultural dimensions)
+  - High collectivism and power distance.
+
+- Language similarity index
+  - English as the official language.
+
+- Cross-cultural communication adaptability
+  - High due to ethnic diversity.
+
+Environmental Factors (Env)
+
+- Environmental performance index
+  - 44.3.
+
+- Carbon footprint per capita
+  - 0.3 metric tons.
+
+- Renewable energy usage percentage
+  - 12%.

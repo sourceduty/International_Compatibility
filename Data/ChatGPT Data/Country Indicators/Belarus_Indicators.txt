@@ -1,0 +1,60 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Belarus is involved in several international agreements, including those related to air pollution, biodiversity, climate change (Kyoto Protocol, Paris Agreement), and nuclear test bans. The country has also signed bilateral investment treaties with various nations, such as the recent BIT with Zimbabwe to enhance economic cooperation and investment protection.
+
+Political Stability Index
+- Belarus has faced significant political instability, especially following the 2020 presidential elections, which led to widespread protests and crackdowns on opposition figures and activists. The political environment remains tense, with ongoing repression of dissent and limited political freedoms.
+
+Corruption Perception Index
+- Corruption remains a significant issue in Belarus. Transparency International’s Corruption Perception Index ranks Belarus relatively low, reflecting persistent problems with governance and corruption.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Belarus's GDP per capita is approximately $7,100. The economy is primarily driven by manufacturing, agriculture, and services sectors.
+
+Trade Openness Index
+- Belarus maintains a moderate trade openness index, facilitated by its strategic partnerships with countries like Russia and China. Trade agreements and economic zones are in place to boost international trade.
+
+Foreign Direct Investment (FDI) Inflows
+- Foreign direct investment in Belarus has been relatively low, influenced by political instability and economic sanctions from Western countries. Efforts are ongoing to attract FDI through various economic reforms and incentives.
+
+Social Factors (S)
+
+Education Index
+- Belarus has a high literacy rate and a well-developed education system, with significant government investment in education at all levels. The country prioritizes quality education to support its socio-economic development.
+
+Healthcare Quality Index
+- The healthcare system in Belarus provides comprehensive medical services, although there are challenges related to quality and accessibility, particularly in rural areas. Ongoing investments aim to improve healthcare infrastructure and outcomes.
+
+Human Development Index (HDI)
+- Belarus ranks high on the Human Development Index, reflecting good performance in health, education, and income levels. Continued efforts are needed to maintain and improve these indicators.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Belarus's cultural dimensions, based on Hofstede’s model, reflect a society with high power distance and collectivism. These cultural traits influence social interactions and organizational behavior within the country.
+
+Language Similarity Index
+- The official languages are Belarusian and Russian, with Russian being widely used in business and daily communication. This linguistic capability facilitates cultural and economic exchanges with Russian-speaking countries.
+
+Cross-Cultural Communication Adaptability
+- Belarus's cultural and historical ties with both Europe and Russia contribute to moderate adaptability in cross-cultural communication. Efforts to improve language education and international cooperation are ongoing.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Belarus faces significant environmental challenges, including pollution and the legacy of the Chernobyl disaster. The government is working on improving environmental sustainability through various initiatives and international cooperation.
+
+Carbon Footprint per Capita
+- Belarus’s carbon footprint per capita is relatively high, primarily due to its reliance on fossil fuels. Efforts are being made to increase the use of renewable energy sources and reduce emissions.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Belarus is increasing, with investments in solar and wind energy projects. These initiatives aim to diversify the energy mix and promote sustainability.
+
+Sources
+- World Factbook
+- Human Rights Watch
+- UNCTAD Investment Policy Hub

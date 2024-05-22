@@ -1,0 +1,40 @@
+
+Political Factors (P)
+
+1. International agreements participation: Israel is actively engaged in numerous international agreements. It participates in the Horizon Europe program, which continues its long-standing cooperation with the EU on research and innovation. Israel is also involved in agreements related to regional peace and economic cooperation, such as the Abraham Accords with the UAE and Bahrain.
+
+2. Political stability index: Israel experiences moderate political stability. The country faces ongoing challenges including regional conflicts and internal political disputes, which impact its stability index.
+
+3. Corruption perception index: According to Transparency International, Israel scored 63 out of 100 in the 2022 Corruption Perceptions Index, indicating relatively low levels of perceived corruption compared to many other countries.
+
+Economic Factors (E)
+
+1. GDP per capita: In 2022, Israel's GDP per capita was approximately $50,540 USD, reflecting a high-income economy driven by technology, defense, and pharmaceutical sectors.
+
+2. Trade openness index: Israel has a high trade openness index, benefiting from numerous free trade agreements and a robust export sector. The country is heavily integrated into the global economy with significant trade relationships.
+
+3. Foreign direct investment (FDI) inflows: Israel attracted significant FDI inflows, totaling around $25 billion in 2022. The country's innovation-driven economy makes it an attractive destination for foreign investors.
+
+Social Factors (S)
+
+1. Education index: Israel places a strong emphasis on education, with high literacy rates and substantial investments in higher education. The country's education expenditure is about 7.1% of GDP.
+
+2. Healthcare quality index: Israel's healthcare system is highly developed, with excellent healthcare outcomes and a life expectancy of 83.1 years. The country spends approximately 8.3% of its GDP on healthcare.
+
+3. Human development index (HDI): Israel's HDI is 0.919, placing it in the very high human development category. This reflects significant achievements in health, education, and living standards.
+
+Cultural Factors (C)
+
+1. Cultural proximity index (e.g., Hofstede's cultural dimensions): Israel scores low on power distance and high on individualism, indicating a society that values equality and personal freedom. These cultural dimensions influence social and business interactions.
+
+2. Language similarity index: Hebrew and Arabic are the official languages, with English widely used in business and academia. This multilingual environment facilitates international communication.
+
+3. Cross-cultural communication adaptability: Israel's diverse cultural heritage and extensive international engagements enhance its adaptability in cross-cultural communications. The country's significant diaspora also contributes to its global cultural connections.
+
+Environmental Factors (Env)
+
+1. Environmental performance index: Israel scored 56.2 on the Environmental Performance Index, indicating ongoing efforts and challenges in environmental management and sustainability.
+
+2. Carbon footprint per capita: Israel’s carbon footprint per capita is approximately 7.7 metric tons of CO2, reflecting its industrial activities and energy consumption patterns.
+
+3. Renewable energy usage percentage: Renewable energy accounts for about 8% of Israel’s total energy consumption, with ongoing investments in solar and wind energy projects to increase this share.

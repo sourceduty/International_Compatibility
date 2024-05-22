@@ -1,0 +1,61 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Bolivia has engaged in several significant international agreements. Notably, it has partnered with Chinese and Russian companies for lithium extraction, which is crucial for the country's economic development. Additionally, Bolivia is a participant in the Belt and Road Initiative (BRI), aimed at enhancing global trade and investment connectivity.
+
+Political Stability Index
+- Bolivia has experienced political instability, particularly highlighted by controversies over election integrity and the influence of external partnerships, such as its defense pact with Iran, which has raised international concerns.
+
+Corruption Perception Index
+- Transparency International ranks Bolivia relatively low in terms of corruption perception, indicating ongoing issues with governance and corruption.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Bolivia's GDP per capita is approximately $3,600. The economy is largely driven by natural resources, particularly mining and hydrocarbons.
+
+Trade Openness Index
+- Bolivia has a moderate trade openness index, facilitated by its integration into various international trade networks. Efforts to diversify its economy are ongoing, particularly in expanding lithium extraction and trade.
+
+Foreign Direct Investment (FDI) Inflows
+- Bolivia continues to attract FDI, especially in the mining and energy sectors. Reforms aimed at improving the investment climate are in progress to further boost foreign investments.
+
+Social Factors (S)
+
+Education Index
+- Bolivia has made significant strides in education, with increased spending aimed at improving the quality of education and teacher performance. However, disparities in education quality still exist between urban and rural areas.
+
+Healthcare Quality Index
+- The healthcare system in Bolivia faces challenges, particularly in rural areas where access to quality healthcare services is limited. The government is investing in healthcare infrastructure and services to address these issues.
+
+Human Development Index (HDI)
+- Bolivia ranks moderately on the Human Development Index, reflecting progress in health, education, and income levels. Continued efforts are needed to improve these indicators further.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Bolivia's cultural dimensions, influenced by its diverse ethnic groups and rich indigenous heritage, reflect high collectivism and power distance. These cultural traits significantly impact social interactions and organizational behavior.
+
+Language Similarity Index
+- The official languages of Bolivia are Spanish and several indigenous languages, which facilitate communication and cultural exchange within the region. This linguistic diversity supports cross-cultural adaptability.
+
+Cross-Cultural Communication Adaptability
+- Bolivia's multicultural society and robust educational initiatives contribute to strong adaptability in cross-cultural communication. Efforts to promote language education and cultural awareness are ongoing.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Bolivia faces significant environmental challenges, including deforestation and high CO2 emissions. The government is working on policies to improve environmental sustainability and manage natural resources effectively.
+
+Carbon Footprint per Capita
+- Bolivia's carbon footprint per capita is relatively high, largely due to its reliance on resource-intensive industries. Efforts are being made to increase the use of renewable energy sources and reduce emissions.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Bolivia is increasing, with investments in solar and wind energy projects. These initiatives aim to diversify the energy mix and promote sustainability.
+
+Sources
+- EL PAÍS
+- Green Finance & Development Center
+- The Times of Israel
+- Wikipedia

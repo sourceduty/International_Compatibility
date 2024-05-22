@@ -1,0 +1,60 @@
+
+Political Factors (P)
+
+International Agreements Participation
+- Bosnia and Herzegovina participates in several international agreements. The country has recently engaged in reforms and cooperation with international bodies, including the European Union, which granted Bosnia and Herzegovina candidate status for EU membership. The country also maintains various bilateral and multilateral agreements to enhance trade and investment.
+
+Political Stability Index
+- Bosnia and Herzegovina faces significant political challenges, characterized by ethnic divisions and complex governance structures established by the Dayton Peace Agreement. Political stability is hindered by frequent disputes among ethnic groups and political parties, leading to a highly fragmented political environment.
+
+Corruption Perception Index
+- Transparency International ranks Bosnia and Herzegovina relatively low on the Corruption Perception Index, indicating persistent issues with corruption and governance. The country struggles with widespread corruption, nepotism, and political patronage, which undermines public trust and economic development.
+
+Economic Factors (E)
+
+GDP per Capita
+- As of 2023, Bosnia and Herzegovina's GDP per capita is approximately $6,400. The economy is primarily driven by manufacturing, services, and agriculture, with significant contributions from remittances from abroad.
+
+Trade Openness Index
+- Bosnia and Herzegovina has a moderate trade openness index. The country is integrated into various international trade networks, particularly with the European Union, which is its largest trading partner. Efforts are ongoing to improve trade policies and economic integration.
+
+Foreign Direct Investment (FDI) Inflows
+- Bosnia and Herzegovina attracts FDI, particularly in the sectors of energy, manufacturing, and real estate. However, political instability and regulatory challenges continue to affect investor confidence and FDI inflows.
+
+Social Factors (S)
+
+Education Index
+- Bosnia and Herzegovina has a well-developed education system, with a high literacy rate and substantial government investment in education. However, disparities exist between urban and rural areas, and reforms are needed to improve educational quality and accessibility.
+
+Healthcare Quality Index
+- The healthcare system in Bosnia and Herzegovina faces challenges, particularly in terms of accessibility and quality of services in rural areas. Ongoing investments aim to enhance healthcare infrastructure and services to improve health outcomes.
+
+Human Development Index (HDI)
+- Bosnia and Herzegovina ranks moderately on the Human Development Index, reflecting progress in health, education, and living standards. Continued efforts are needed to address disparities and improve social indicators.
+
+Cultural Factors (C)
+
+Cultural Proximity Index
+- Bosnia and Herzegovina's cultural dimensions, influenced by its diverse ethnic composition, reflect high power distance and collectivism. These cultural traits impact social interactions and organizational behavior within the country.
+
+Language Similarity Index
+- The official languages are Bosnian, Croatian, and Serbian, which facilitates communication and cultural exchange within the region. This linguistic diversity supports cross-cultural adaptability and cooperation.
+
+Cross-Cultural Communication Adaptability
+- Bosnia and Herzegovina's multicultural society and education system contribute to strong adaptability in cross-cultural communication. Efforts to promote cultural awareness and language education are ongoing.
+
+Environmental Factors (Env)
+
+Environmental Performance Index
+- Bosnia and Herzegovina faces environmental challenges, including pollution and the management of natural resources. The government is implementing policies to improve environmental sustainability and reduce emissions.
+
+Carbon Footprint per Capita
+- Bosnia and Herzegovina's carbon footprint per capita is relatively high, mainly due to its reliance on coal for energy. Efforts are being made to increase the use of renewable energy sources and improve energy efficiency.
+
+Renewable Energy Usage Percentage
+- The usage of renewable energy in Bosnia and Herzegovina is increasing, with significant investments in hydropower and other renewable energy projects. These initiatives aim to diversify the energy mix and promote sustainability.
+
+Sources
+- Office of the High Representative
+- European Commission
+- UN OHCHR

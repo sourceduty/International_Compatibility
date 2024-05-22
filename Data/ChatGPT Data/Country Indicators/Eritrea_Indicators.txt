@@ -1,0 +1,55 @@
+
+Political Factors (P)
+
+1. International Agreements Participation:
+   Eritrea is a party to several international agreements, including the United Nations (UN), World Trade Organization (WTO), and the International Monetary Fund (IMF). The country has also signed numerous environmental agreements such as the Kyoto Protocol, the Convention on Biological Diversity, and the Comprehensive Nuclear Test Ban Treaty. However, it has not ratified the Paris Agreement.
+
+2. Political Stability Index:
+   Eritrea has faced significant challenges with political stability, largely due to long-standing issues with governance and human rights. The country is under a highly centralized and authoritarian government, which has been criticized for its human rights record and lack of political freedoms.
+
+3. Corruption Perception Index:
+   Transparency International ranks Eritrea low on the Corruption Perceptions Index, reflecting widespread corruption and governance challenges. The lack of transparency and accountability in government operations contributes to this low ranking.
+
+Economic Factors (E)
+
+1. GDP per Capita:
+   As of the latest data, Eritrea's GDP per capita is approximately $1,320 USD, driven largely by agriculture and mining sectors. The economy is vulnerable to external shocks and relies heavily on rain-fed agriculture.
+
+2. Trade Openness Index:
+   Eritrea has a low trade openness index, with limited participation in global trade. The country’s economy is relatively closed, with significant barriers to trade and investment.
+
+3. Foreign Direct Investment (FDI) Inflows:
+   The FDI inflows to Eritrea are minimal, primarily focused on the mining sector. The investment climate is constrained by political instability, lack of infrastructure, and restrictive economic policies.
+
+Social Factors (S)
+
+1. Education Index:
+   Eritrea's education system faces challenges with access and quality. The literacy rate is about 76.6%, with significant disparities between urban and rural areas. School life expectancy is approximately 8 years.
+
+2. Healthcare Quality Index:
+   Healthcare in Eritrea is underdeveloped, with limited access to medical services. The country has a low physician density of 0.08 physicians per 1,000 people and a maternal mortality rate of 485 deaths per 100,000 live births.
+
+3. Human Development Index (HDI):
+   Eritrea's HDI is 0.459, indicating low human development. The country faces significant challenges in health, education, and standard of living.
+
+Cultural Factors (C)
+
+1. Cultural Proximity Index:
+   Eritrea exhibits high power distance and collectivism, reflecting a society that values hierarchical structures and community ties. These cultural traits influence social and organizational behavior.
+
+2. Language Similarity Index:
+   The official languages of Eritrea are Tigrinya, Arabic, and English, facilitating communication with other countries in the region and globally.
+
+3. Cross-Cultural Communication Adaptability:
+   Eritrea’s diverse ethnic composition and colonial history contribute to a complex cultural landscape, necessitating adaptability in cross-cultural communication.
+
+Environmental Factors (Env)
+
+1. Environmental Performance Index:
+   Eritrea faces environmental challenges such as deforestation, soil erosion, and desertification. The country is making efforts to address these issues through various environmental agreements and initiatives.
+
+2. Carbon Footprint per Capita:
+   The carbon footprint per capita in Eritrea is low, at around 0.3 metric tons, reflecting limited industrial activity and reliance on traditional energy sources.
+
+3. Renewable Energy Usage Percentage:
+   Eritrea is exploring renewable energy options, although the country's energy sector is still heavily reliant on non-renewable sources. There are ongoing efforts to increase the use of solar and wind energy.
