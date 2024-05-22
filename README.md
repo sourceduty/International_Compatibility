@@ -106,7 +106,7 @@ ChatGPT Data:
 <br>
 8. Conclusion
 
-Notes:
+Development Notes:
 
 - ~~Collect the 975 scores for the 195 countries across the five dimensions (Political, Economic, Social, Cultural, Environmental).~~
 - Calculate the International Compatibility Score (ICS) for all 195 countries.
@@ -114,6 +114,7 @@ Notes:
 - Utilize both ChatGPT Data and Public Data sources in the final calculation.
 
 #
+### Alex's Notes
 
 > Alex *"Calculating the compatibility of all 195 countries on Earth using this theoretical math model and theory is conceptual."*
 
