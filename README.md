@@ -82,6 +82,13 @@ ChatGPT Data:
 - Educational Compatibility Report
 - 195 x Country Indicator Data Files
 
+#
+### International Compatability Score 2024
+
+[International Compatability Score 2024.txt](https://github.com/sourceduty/International_Compatibility/files/15409255/International.Compatability.Score.2024.txt)
+
+[International Compatability Score Data Table 2024.txt](https://github.com/sourceduty/International_Compatibility/files/15409257/International.Compatability.Score.Data.Table.2024.txt)
+
 ***
 
 ### Development Progress
@@ -98,15 +105,15 @@ ChatGPT Data:
 <br>
 ~~6. Mathematical Model~~
 <br>
-7. Data Analysis
+~~7. Data Analysis~~
 <br>
-8. Conclusion
+~~8. Conclusion~~
 
 Development Notes:
 
 - ~~Collect the 975 scores for the 195 countries across the five dimensions (Political, Economic, Social, Cultural, Environmental).~~
-- Calculate the International Compatibility Score (ICS) for all 195 countries.
-- There is a total of 390 different calculations using ChatGPT required to complete the analysis.
+- ~~Calculate the International Compatibility Score (ICS) for all 195 countries.~~
+- ~~There is a total of 390 different calculations using ChatGPT required to complete the analysis.~~
 - Utilize both ChatGPT Data and Public Data sources in the final calculation.
 
 #
