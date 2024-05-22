@@ -123,6 +123,10 @@ The users of this research information are advised to independently verify the i
 By using this research information, you acknowledge and agree that Sourceduty, its affiliates, and contributors are not responsible or liable for any claim, loss, or damage resulting from your reliance on the information provided.
 
 #
+
+> Alex *"Calculating the compatibility of all 195 countries on Earth using this theoretical math model and theory is conceptual."*
+
+#
 ### Related Links
 
 [Space Agencies](https://github.com/sourceduty/Space_Agencies)
