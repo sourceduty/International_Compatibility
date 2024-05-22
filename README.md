@@ -17,15 +17,6 @@ Identification of Gaps in Current Research
 
 Despite extensive research in international relations, several gaps remain. There is limited integration of multidimensional data sources such as economic indicators, social media sentiment, and historical events. Many studies focus on static analysis rather than dynamic changes over time. Additionally, there is a lack of predictive models that forecast future trends in international relations based on historical data and current indicators. Few studies utilize geospatial analysis to visualize and understand the geographic distribution of international relations. Furthermore, there is limited research combining methodologies from different disciplines such as political science, sociology, economics, and data science.
 
-Theoretical Framework and Key Concepts
-
-To guide the analysis, we will adopt a theoretical framework that includes several key concepts. International Compatibility refers to the degree to which countries can coexist and cooperate based on cultural, economic, political, and social factors. 
-
-- Network Theory is used to understand international relations through the lens of network theory, where countries are nodes and their relationships are edges.
-- Sentiment Analysis involves analyzing public opinion and sentiment towards different countries using natural language processing techniques.
-- Historical Analysis incorporates historical context to understand the evolution of international relations.
-- Geospatial Analysis employs geospatial techniques to visualize the spatial distribution and patterns of international relationships.
-
 #
 ### International Compatibility Score (ICS) Simplified
 
