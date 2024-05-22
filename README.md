@@ -29,13 +29,17 @@ To guide the analysis, we will adopt a theoretical framework that includes sever
 #
 ### International Compatibility Score (ICS) Simplified
 
-The mathematical model for calculating International Compatibility Score (ICS) integrates various factors across political, economic, social, cultural, and environmental dimensions. Each dimension is represented by specific indicators, which are standardized to a common scale (0 to 100). These standardized indicators are then aggregated using weighted averages to compute composite scores for each dimension. The final ICS is calculated by combining these composite scores, weighted according to their relative importance, to provide an overall measure of a country's compatibility with others. This comprehensive approach ensures that multiple aspects of a country's profile are considered, facilitating a nuanced assessment of its potential for international cooperation.
+The theoretical mathematical model for calculating International Compatibility Score (ICS) integrates various factors across political, economic, social, cultural, and environmental dimensions. Each dimension is represented by specific indicators, which are standardized to a common scale (0 to 100). These standardized indicators are then aggregated using weighted averages to compute composite scores for each dimension. The final ICS is calculated by combining these composite scores, weighted according to their relative importance, to provide an overall measure of a country's compatibility with others. This comprehensive approach ensures that multiple aspects of a country's profile are considered, facilitating a nuanced assessment of its potential for international cooperation.
 
 Simplifying the formula, we can express the ICS as follows:
 
 `ICS = w_p * P + w_e * E + w_s * S + w_c * C + w_env * Env`
 
 P, E, S, C, Env are the composite scores for political, economic, social, cultural, and environmental dimensions respectively, and w_p, w_e, w_s, w_c, w_env are the weights assigned to these dimensions. For example, if we assume equal weights for simplicity and hypothetical standardized scores for a country, the ICS can be calculated by averaging the scores across all dimensions, providing a single metric that encapsulates a country's overall international compatibility.
+
+Theoretical Math Model and Theory
+
+The International Compatibility Score (ICS) is a theoretical mathematical model and a math theory because it establishes a systematic, quantitative framework for evaluating and comparing the compatibility of different countries across multiple dimensions. This model employs mathematical principles by standardizing various indicators to a common scale (0 to 100) and using weighted averages to aggregate these indicators into composite scores for each dimension—political, economic, social, cultural, and environmental. The final ICS is derived from a weighted sum of these composite scores, reflecting the relative importance of each dimension. By providing a single, unified metric, the ICS model enables a nuanced and comprehensive assessment of international compatibility, grounded in mathematical rigor and theory. This approach exemplifies how theoretical mathematics can be applied to create structured, objective measures for complex, multidimensional phenomena.
 
 #
 ### Country Indicator Dimensions
