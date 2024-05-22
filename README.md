@@ -116,7 +116,7 @@ Development Notes:
 #
 ### Alex's Notes
 
-> Alex *"Calculating the compatibility of all 195 countries on Earth using this theoretical math model and theory is conceptual."*
+> *"Calculating the compatibility of all 195 countries on Earth using this theoretical math model and theory is conceptual."*
 
 > *"This theoretical math model is currently a very big calculation for AI to complete and it requires a lot of manual work."*
 
