@@ -28,9 +28,17 @@ Simplifying the formula, we can express the ICS as follows:
 
 P, E, S, C, Env are the composite scores for political, economic, social, cultural, and environmental dimensions respectively, and w_p, w_e, w_s, w_c, w_env are the weights assigned to these dimensions. For example, if we assume equal weights for simplicity and hypothetical standardized scores for a country, the ICS can be calculated by averaging the scores across all dimensions, providing a single metric that encapsulates a country's overall international compatibility.
 
-Theoretical Math Model and Theory
+#
+### Theoretical Math Model and Theory
 
 The International Compatibility Score (ICS) is a theoretical mathematical model and a math theory because it establishes a systematic, quantitative framework for evaluating and comparing the compatibility of different countries across multiple dimensions. This model employs mathematical principles by standardizing various indicators to a common scale (0 to 100) and using weighted averages to aggregate these indicators into composite scores for each dimension—political, economic, social, cultural, and environmental. The final ICS is derived from a weighted sum of these composite scores, reflecting the relative importance of each dimension. By providing a single, unified metric, the ICS model enables a nuanced and comprehensive assessment of international compatibility, grounded in mathematical rigor and theory. This approach exemplifies how theoretical mathematics can be applied to create structured, objective measures for complex, multidimensional phenomena.
+
+#
+### Custom GPT
+
+[International Compatibility](https://chatgpt.com/g/g-gRZTMHC20-international-compatibility) evaluates and analyze factors that contribute to compatibility and cooperation among nations. Using the International Compatibility Score (ICS) framework, this tool offers insights into how political stability, economic strength, social development, cultural alignment, and environmental initiatives influence relationships between countries. It examines these five key dimensions to assess the potential for partnerships, highlight areas needing improvement, and identify opportunities for collaborative growth. With data-driven insights, ICPA assists users in understanding both static and evolving trends in international compatibility, helping to pinpoint where nations align or diverge in key areas.
+
+ICPA goes beyond simple score analysis, integrating quantitative data and qualitative interpretations to assess cross-national compatibility effectively. By exploring historical contexts, current data, and multidimensional indicators, it provides users with an accessible view of complex global dynamics. This tool allows users to compare compatibility scores across countries, track improvements or challenges, and evaluate compatibility within specific dimensions such as economics or culture. Additionally, it suggests areas for further research and improvement in global cooperation, making it an insightful resource for individuals interested in international relations and compatibility studies.
 
 #
 ### Country Indicator Dimensions
