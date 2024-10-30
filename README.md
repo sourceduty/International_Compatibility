@@ -45,15 +45,19 @@ ICPA goes beyond simple score analysis, integrating quantitative data and qualit
 Example International Compatibility Score (ICS) Report:
 
 Country Pair: France and Brazil
+
 Overall ICS: 72 (on a scale of 0 to 100)
 
 Political Dimension:
+
 France and Brazil demonstrate moderate compatibility in the political dimension, scoring a 65 in this category. France's long-standing democratic structure aligns reasonably well with Brazil's democratic framework, although challenges such as political polarization in Brazil and France's centralized policies create occasional friction in bilateral decision-making. Shared priorities, such as climate policy cooperation through international bodies, enhance their political compatibility. However, diverging approaches to political alliances in regions like South America and Europe impact their alignment, leaving room for improvement in policy harmonization. Diplomatic history between the two countries remains generally stable, facilitating joint initiatives, especially in global forums.
 
 Economic Dimension:
+
 The economic compatibility score between France and Brazil is relatively high at 78, driven by robust trade partnerships and mutual interests in sectors such as agriculture, energy, and technology. France, a major exporter of machinery and technology, finds a compatible trade partner in Brazil, which offers a wealth of natural resources. However, Brazil's regulatory environment and occasional economic volatility pose challenges to seamless cooperation. Differences in economic size and development level mean that France often takes a leadership role in trade negotiations, but Brazil’s emerging-market status is acknowledged, fostering constructive dialogue around investments and trade barriers. Their economic compatibility benefits from shared objectives on sustainable development and renewable energy initiatives, although protectionist policies on both sides sometimes create barriers.
 
 Cultural and Social Dimension:
+
 Cultural and social compatibility between France and Brazil is robust, scoring 76. Shared linguistic ties, with a substantial Brazilian diaspora fluent in French, enhance mutual understanding. Cultural exchanges in art, education, and tourism have created a strong social bridge, fostering positive relations. Both countries embrace multiculturalism, though they differ in specific social norms and approaches to secularism and religion. Brazil’s social policies prioritize community welfare and social inclusion, resonating with France’s emphasis on equality and liberty. However, divergent stances on issues like immigration and social justice occasionally lead to ideological differences. The two countries' efforts in educational exchange programs and international scholarships further strengthen their social compatibility, making this dimension a strong point in their bilateral relationship.
 
 In conclusion, France and Brazil's ICS of 72 reflects a generally strong potential for cooperation across these dimensions, with some challenges primarily in political and economic alignment that, if addressed, could raise their compatibility score significantly.
